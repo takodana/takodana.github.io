@@ -1,0 +1,449 @@
+[
+  {
+    "id": "mc0",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 0,
+    "question": "Which biblical character is known for his fall due to pride, as described in Isaiah 14:12-14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Lucifer",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Samson"
+      },
+      {
+        "id": "opt2",
+        "text": "King Saul"
+      }
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The concept of the great controversy is only relevant to the New Testament. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 2,
+    "parts": [
+      {
+        "id": "pt0",
+        "text": "\"Only"
+      },
+      {
+        "id": "pt1",
+        "text": "by"
+      },
+      {
+        "id": "pt2",
+        "text": "love"
+      },
+      {
+        "id": "pt3",
+        "text": "is"
+      },
+      {
+        "id": "pt4",
+        "text": "love"
+      },
+      {
+        "id": "pt5",
+        "text": "awakened",
+        "isBlank": true
+      },
+      {
+        "id": "pt6",
+        "text": ".\" -"
+      },
+      {
+        "id": "pt7",
+        "text": "Ellen"
+      },
+      {
+        "id": "pt8",
+        "text": "G."
+      },
+      {
+        "id": "pt9",
+        "text": "White,"
+      },
+      {
+        "id": "pt10",
+        "text": "reflecting"
+      },
+      {
+        "id": "pt11",
+        "text": "a"
+      },
+      {
+        "id": "pt12",
+        "text": "fundamental"
+      },
+      {
+        "id": "pt13",
+        "text": "principle"
+      },
+      {
+        "id": "pt14",
+        "text": "of"
+      },
+      {
+        "id": "pt15",
+        "text": "Christianity."
+      }
+    ],
+    "options": [
+      {
+        "id": "opt0",
+        "text": "awakened"
+      },
+      {
+        "id": "opt1",
+        "text": "destroyed"
+      },
+      {
+        "id": "opt2",
+        "text": "earned"
+      }
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "In the context of the great controversy, what is God's ultimate weapon against evil?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His wrath"
+      },
+      {
+        "id": "opt1",
+        "text": "His law"
+      },
+      {
+        "id": "opt2",
+        "text": "His love",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "God uses coercion to win the hearts of His creations. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 5,
+    "parts": [
+      {
+        "id": "pt0",
+        "text": "The"
+      },
+      {
+        "id": "pt1",
+        "text": "war"
+      },
+      {
+        "id": "pt2",
+        "text": "in"
+      },
+      {
+        "id": "pt3",
+        "text": "heaven"
+      },
+      {
+        "id": "pt4",
+        "text": "made"
+      },
+      {
+        "id": "pt5",
+        "text": "no"
+      },
+      {
+        "id": "pt6",
+        "text": "place"
+      },
+      {
+        "id": "pt7",
+        "text": "found"
+      },
+      {
+        "id": "pt8",
+        "text": "for"
+      },
+      {
+        "id": "pt9",
+        "text": "[the"
+      },
+      {
+        "id": "pt10",
+        "text": "dragon]",
+        "isBlank": true
+      },
+      {
+        "id": "pt11",
+        "text": "and"
+      },
+      {
+        "id": "pt12",
+        "text": "his"
+      },
+      {
+        "id": "pt13",
+        "text": "angels"
+      },
+      {
+        "id": "pt14",
+        "text": "any"
+      },
+      {
+        "id": "pt15",
+        "text": "longer,"
+      },
+      {
+        "id": "pt16",
+        "text": "as"
+      },
+      {
+        "id": "pt17",
+        "text": "mentioned"
+      },
+      {
+        "id": "pt18",
+        "text": "in"
+      },
+      {
+        "id": "pt19",
+        "text": "Revelation"
+      },
+      {
+        "id": "pt20",
+        "text": "12:8."
+      }
+    ],
+    "options": [
+      {
+        "id": "opt0",
+        "text": "the dragon"
+      },
+      {
+        "id": "opt1",
+        "text": "Michael"
+      },
+      {
+        "id": "opt2",
+        "text": "God"
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "How is God's character primarily revealed to humanity?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Through nature"
+      },
+      {
+        "id": "opt1",
+        "text": "Through Scripture"
+      },
+      {
+        "id": "opt2",
+        "text": "Through Jesus",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Love being the foundation of God's government is a central theme in the Bible. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib8",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 8,
+    "parts": [
+      {
+        "id": "pt0",
+        "text": "The"
+      },
+      {
+        "id": "pt1",
+        "text": "ability"
+      },
+      {
+        "id": "pt2",
+        "text": "to"
+      },
+      {
+        "id": "pt3",
+        "text": "love"
+      },
+      {
+        "id": "pt4",
+        "text": "is"
+      },
+      {
+        "id": "pt5",
+        "text": "linked"
+      },
+      {
+        "id": "pt6",
+        "text": "to"
+      },
+      {
+        "id": "pt7",
+        "text": "the"
+      },
+      {
+        "id": "pt8",
+        "text": "power"
+      },
+      {
+        "id": "pt9",
+        "text": "of"
+      },
+      {
+        "id": "pt10",
+        "text": "choice",
+        "isBlank": true
+      },
+      {
+        "id": "pt11",
+        "text": ", as"
+      },
+      {
+        "id": "pt12",
+        "text": "suggested"
+      },
+      {
+        "id": "pt13",
+        "text": "in"
+      },
+      {
+        "id": "pt14",
+        "text": "the"
+      },
+      {
+        "id": "pt15",
+        "text": "study"
+      },
+      {
+        "id": "pt16",
+        "text": "guide."
+      }
+    ],
+    "options": [
+      {
+        "id": "opt0",
+        "text": "choice"
+      },
+      {
+        "id": "opt1",
+        "text": "fear"
+      },
+      {
+        "id": "opt2",
+        "text": "obedience"
+      }
+    ]
+  },
+  {
+    "id": "mc9",
+    "setNumber": 3,
+    "complexity": -3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 9,
+    "question": "Why is the great controversy theme important for understanding the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It explains the existence of evil"
+      },
+      {
+        "id": "opt1",
+        "text": "It reveals God's character"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  }
+]
