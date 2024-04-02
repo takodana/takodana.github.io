@@ -1,0 +1,412 @@
+[
+  {
+    "id": "mc0",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 0,
+    "question": "Where did Lucifer's rebellion begin, as described in Isaiah 14:12-14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "In heaven",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "On Earth"
+      },
+      {
+        "id": "opt2",
+        "text": "In hell"
+      }
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Ellen G. White's writings are considered a primary source for understanding the great controversy. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 2,
+    "parts": [
+      {
+        "id": "pt0",
+        "text": "The"
+      },
+      {
+        "id": "pt1",
+        "text": "memory"
+      },
+      {
+        "id": "pt2",
+        "text": "text"
+      },
+      {
+        "id": "pt3",
+        "text": "refers"
+      },
+      {
+        "id": "pt4",
+        "text": "to"
+      },
+      {
+        "id": "pt5",
+        "text": "Michael"
+      },
+      {
+        "id": "pt6",
+        "text": "and"
+      },
+      {
+        "id": "pt7",
+        "text": "his"
+      },
+      {
+        "id": "pt8",
+        "text": "angels"
+      },
+      {
+        "id": "pt9",
+        "text": "fighting"
+      },
+      {
+        "id": "pt10",
+        "text": "with"
+      },
+      {
+        "id": "pt11",
+        "text": "the"
+      },
+      {
+        "id": "pt12",
+        "text": "dragon",
+        "isBlank": true
+      },
+      {
+        "id": "pt13",
+        "text": ", as"
+      },
+      {
+        "id": "pt14",
+        "text": "mentioned"
+      },
+      {
+        "id": "pt15",
+        "text": "in"
+      },
+      {
+        "id": "pt16",
+        "text": "Revelation"
+      },
+      {
+        "id": "pt17",
+        "text": "12:7."
+      }
+    ],
+    "options": [
+      {
+        "id": "opt0",
+        "text": "dragon"
+      },
+      {
+        "id": "opt1",
+        "text": "humans"
+      },
+      {
+        "id": "opt2",
+        "text": "sin"
+      }
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "Why can't love be legislated according to biblical principles?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It destroys free will"
+      },
+      {
+        "id": "opt1",
+        "text": "It's against God's nature"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The great controversy will have a definitive end according to the study guide. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 5,
+    "parts": [
+      {
+        "id": "pt0",
+        "text": "God"
+      },
+      {
+        "id": "pt1",
+        "text": "is"
+      },
+      {
+        "id": "pt2",
+        "text": "a"
+      },
+      {
+        "id": "pt3",
+        "text": "God"
+      },
+      {
+        "id": "pt4",
+        "text": "of"
+      },
+      {
+        "id": "pt5",
+        "text": "incredible"
+      },
+      {
+        "id": "pt6",
+        "text": "love"
+      },
+      {
+        "id": "pt7",
+        "text": ", a"
+      },
+      {
+        "id": "pt8",
+        "text": "truth"
+      },
+      {
+        "id": "pt9",
+        "text": "echoed"
+      },
+      {
+        "id": "pt10",
+        "text": "throughout"
+      },
+      {
+        "id": "pt11",
+        "text": "the"
+      },
+      {
+        "id": "pt12",
+        "text": "Bible."
+      }
+    ],
+    "options": [
+      {
+        "id": "opt0",
+        "text": "love"
+      },
+      {
+        "id": "opt1",
+        "text": "power"
+      },
+      {
+        "id": "opt2",
+        "text": "wrath"
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What is the essence of God's character as revealed in the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Love",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Justice"
+      },
+      {
+        "id": "opt2",
+        "text": "Wrath"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to the study, God's love can be coerced. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib8",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 8,
+    "parts": [
+      {
+        "id": "pt0",
+        "text": "The"
+      },
+      {
+        "id": "pt1",
+        "text": "origin"
+      },
+      {
+        "id": "pt2",
+        "text": "of"
+      },
+      {
+        "id": "pt3",
+        "text": "evil"
+      },
+      {
+        "id": "pt4",
+        "text": "is"
+      },
+      {
+        "id": "pt5",
+        "text": "linked"
+      },
+      {
+        "id": "pt6",
+        "text": "to"
+      },
+      {
+        "id": "pt7",
+        "text": "Lucifer's",
+        "isBlank": true
+      },
+      {
+        "id": "pt8",
+        "text": "rebellion,"
+      },
+      {
+        "id": "pt9",
+        "text": "as"
+      },
+      {
+        "id": "pt10",
+        "text": "indicated"
+      },
+      {
+        "id": "pt11",
+        "text": "in"
+      },
+      {
+        "id": "pt12",
+        "text": "Isaiah"
+      },
+      {
+        "id": "pt13",
+        "text": "14:12-14."
+      }
+    ],
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Lucifer's"
+      },
+      {
+        "id": "opt1",
+        "text": "Michael's"
+      },
+      {
+        "id": "opt2",
+        "text": "God's"
+      }
+    ]
+  },
+  {
+    "id": "mc9",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 9,
+    "question": "What is God's ultimate goal for the universe as understood from Revelation 21:4?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Total control"
+      },
+      {
+        "id": "opt1",
+        "text": "Unconditional love"
+      },
+      {
+        "id": "opt2",
+        "text": "A sin-free existence",
+        "isCorrect": true
+      }
+    ]
+  }
+]
