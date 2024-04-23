@@ -1,0 +1,206 @@
+[
+  {
+    "id": "mc0",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "MC",
+    "questionNumber": 0,
+    "question": "Who fought \"the dragon\" in the war in heaven, as mentioned in Revelation 12:7?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Michael and his angels",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Gabriel and his angels"
+      },
+      {
+        "id": "opt2",
+        "text": "The saints"
+      }
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The dragon and his angels won the war in heaven, according to Revelation 12:8. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "FIB",
+    "questionNumber": 2,
+    "question": "\"And war broke out in ----: Michael and his angels fought with the dragon\" - Revelation 12:7",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heaven"
+      }
+    ],
+    "options": ["heaven", "hell", "earth"]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "What is the nature of God as described in the study guide, reflecting 1 John 4:8?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Love",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Justice"
+      },
+      {
+        "id": "opt2",
+        "text": "Power"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "God's actions are not always loving. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "\"Only by ---- is love awakened.\" - Ellen G. White, The Desire of Ages, p.22",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "love"
+      }
+    ],
+    "options": ["love", "force", "law"]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "How does God win our allegiance, as demonstrated through His nature?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Through fear"
+      },
+      {
+        "id": "opt1",
+        "text": "Through love",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Through power"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Sin will arise again in the universe after it's eradicated. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib8",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "FIB",
+    "questionNumber": 8,
+    "question": "God's purpose is to demonstrate that He has always acted in the best interests of His ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "creatures"
+      }
+    ],
+    "options": ["creatures", "enemies", "laws"]
+  },
+  {
+    "id": "mc9",
+    "setNumber": 0,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "MC",
+    "questionNumber": 9,
+    "question": "What reassures us that right will triumph over wrong according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The power of God"
+      },
+      {
+        "id": "opt1",
+        "text": "The love of God"
+      },
+      {
+        "id": "opt2",
+        "text": "The great controversy's outcome",
+        "isCorrect": true
+      }
+    ]
+  }
+]
