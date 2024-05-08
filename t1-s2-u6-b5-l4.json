@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What prediction does Revelation 11:11 make about the Word of God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It will be suppressed"
+      },
+      {
+        "id": "opt1",
+        "text": "It will come to life again",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It will be forgotten"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How many men did Voltaire say established the Christian religion?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Twelve",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Ten"
+      },
+      {
+        "id": "opt2",
+        "text": "Seven"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The infidel Voltaire once boastingly said: 'I am weary of hearing people repeat that ---- men established the Christian religion.'",
+    "options": [
+      "twelve",
+      "seven",
+      "ten"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "twelve"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What metaphor did Ellen G. White use to describe the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Hammer"
+      },
+      {
+        "id": "opt1",
+        "text": "Anvil",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Sword"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "God's Word is no longer alive today. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "According to Ellen G. White, 'The Bible is an ---- that has worn out many hammers.'",
+    "options": [
+      "sword",
+      "anvil",
+      "axe"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "anvil"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What did William Carey achieve?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Translating the Bible",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Preaching the gospel"
+      },
+      {
+        "id": "opt2",
+        "text": "Building churches"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What did William Carey accomplish in India?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Translated the Bible into dozens of local dialects",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Built churches"
+      },
+      {
+        "id": "opt2",
+        "text": "Taught Christian schools"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "God's Word is described as living and breathing new life into those willing to listen. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Psalm 111:7, 8, God's works are described as being ---- and upright.",
+    "options": [
+      "pure",
+      "TRUE",
+      "just"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "TRUE"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Ellen G. White, what is the Bible compared to?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Hammer"
+      },
+      {
+        "id": "opt1",
+        "text": "Anvil",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Sword"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Bible lost its divine stamp due to human elements. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Bible is a ---- Word.",
+    "options": [
+      "dead",
+      "living",
+      "TRUE"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "living"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the Bible do to those willing to listen to it?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Condemns"
+      },
+      {
+        "id": "opt1",
+        "text": "Saves"
+      },
+      {
+        "id": "opt2",
+        "text": "Breathes new life",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The two witnesses represent Moses and Elijah. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "In Matthew 24:14, the gospel will be preached as a ---- to all nations.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "warning"
+      },
+      {
+        "id": "opt1",
+        "text": "message"
+      },
+      {
+        "id": "opt2",
+        "text": "witness",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Revelation 11:3, the two witnesses are also described as ----.",
+    "options": [
+      "prophets",
+      "servants",
+      "martyrs"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "martyrs"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "In James 5:17, the prophet Elijah prayed, and it did not ---- for three and a half years.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "snow"
+      },
+      {
+        "id": "opt1",
+        "text": "rain",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "shine"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "In Zechariah 4, the two witnesses are described as ---- trees.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "olive",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "fig"
+      },
+      {
+        "id": "opt2",
+        "text": "palm"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The two witnesses symbolize the ---- of the Old and New Testaments.",
+    "options": [
+      "judgment",
+      "prophecy",
+      "testimony"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "testimony"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The two witnesses testify of Jesus according to John 5:39. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  }
+]

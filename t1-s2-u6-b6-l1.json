@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Revelation 11:15, what happens when the seventh trumpet sounds?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The world ends"
+      },
+      {
+        "id": "opt1",
+        "text": "The kingdoms become the Lord's",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The temple is destroyed"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Jesus' victory over Satan is complete, according to Revelation 11:15-18. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Revelation 11:15-18, the Lord takes over the kingdoms of the ----.",
+    "options": [
+      "world",
+      "heaven",
+      "universe"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "world"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 11:15-18, who triumphs over evil?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Satan"
+      },
+      {
+        "id": "opt1",
+        "text": "The Beast"
+      },
+      {
+        "id": "opt2",
+        "text": "Christ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The law of God is a standard for judgment according to James 2:12. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The law of God was placed within the ---- in the Old Testament sanctuary.",
+    "options": [
+      "ark",
+      "temple",
+      "tabernacle"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "ark"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The godlessness of the French Revolution contrasts with the glorious climax in Revelation 11. What does this teach us?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The triumph of evil"
+      },
+      {
+        "id": "opt1",
+        "text": "The power of governments"
+      },
+      {
+        "id": "opt2",
+        "text": "The victory of truth",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Revelation 11:3, how many days will the two witnesses prophesy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "42 days"
+      },
+      {
+        "id": "opt1",
+        "text": "1260 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "360 days"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The \"two witnesses\" represent the Old and New Testaments. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The two witnesses were \"clothed in ----\" during the time of papal domination.",
+    "options": [
+      "sackcloth",
+      "silk",
+      "cotton"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sackcloth"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What symbolizes the same time period as the 1260 days in Revelation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "24 months"
+      },
+      {
+        "id": "opt1",
+        "text": "365 days"
+      },
+      {
+        "id": "opt2",
+        "text": "42 months",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "During the medieval church, the Word of God was preserved by whom?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Secular power"
+      },
+      {
+        "id": "opt1",
+        "text": "The Reformers",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The Roman Church"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The little-horn power would persecute God's people for a time, times, and half of a ----.",
+    "options": [
+      "year",
+      "season",
+      "time"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "time"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What was overshadowed by human traditions during the medieval church?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The simplicity of the gospel",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The authority of the pope"
+      },
+      {
+        "id": "opt2",
+        "text": "The secular power"
+      }
+    ]
+  }
+]

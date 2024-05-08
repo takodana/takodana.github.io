@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How long was the papal domination period according to prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "2300 days"
+      },
+      {
+        "id": "opt1",
+        "text": "1260 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "70 weeks"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The two witnesses in Revelation represent the Old and New Testaments. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The medieval church descended into spiritual ----.",
+    "options": [
+      "light",
+      "darkness",
+      "neutrality"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "darkness"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What did the Roman Church replace the commandments of God with?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Secular laws"
+      },
+      {
+        "id": "opt1",
+        "text": "Human decrees",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Reformation doctrines"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "During the medieval church, the Word of God was preserved by the secular power. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Word of God was preserved during the medieval church by a few faithful ----.",
+    "options": [
+      "Reformers",
+      "angels",
+      "churches"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Reformers"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Who were among those who cherished and lived by the Word of God during the medieval church?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Reformers",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The secular power"
+      },
+      {
+        "id": "opt2",
+        "text": "The Roman Church"
+      }
+    ]
+  }
+]

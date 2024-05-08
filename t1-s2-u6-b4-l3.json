@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which prophet accurately predicted events more than 2,300 years later?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Ezekiel"
+      },
+      {
+        "id": "opt1",
+        "text": "Daniel",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Isaiah"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Roman Emperor Justinian surrendered civil, political, and religious authority to Pope Vigillis. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The French Revolution threatened the Bible's authority by establishing the Cult of ----.",
+    "options": [
+      "Atheism",
+      "Reason",
+      "Secularism"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Reason"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How long was the period of the medieval church's domination?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "1,000 years"
+      },
+      {
+        "id": "opt1",
+        "text": "2,000 years"
+      },
+      {
+        "id": "opt2",
+        "text": "1,260 years",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The papal domination began when Justinian crowned himself as emperor. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "During the Festival of Reason, a living woman was enthroned as the Goddess of ----.",
+    "options": [
+      "Logic",
+      "Reason",
+      "Wisdom"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Reason"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which culture is described as one of many gods that denied the true God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Babylon"
+      },
+      {
+        "id": "opt1",
+        "text": "Sodom"
+      },
+      {
+        "id": "opt2",
+        "text": "Egypt",
+        "isCorrect": true
+      }
+    ]
+  }
+]

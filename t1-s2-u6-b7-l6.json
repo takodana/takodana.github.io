@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to The Great Controversy, what happens when a society rejects God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It prospers"
+      },
+      {
+        "id": "opt1",
+        "text": "It faces chaos",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It becomes enlightened"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The French Revolution resulted in widespread suffering after rejecting God. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The French Revolution filled the land with crimes too ---- for pen to trace.",
+    "options": [
+      "horrible",
+      "numerous",
+      "small"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "horrible"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does rejecting God affect a society, according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It improves it"
+      },
+      {
+        "id": "opt1",
+        "text": "It destroys it",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It has no effect"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Great Controversy describes religion, law, social order, the family, the state, and the church being smitten down during the French Revolution. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "France during the Revolution was shaken as if by an ----.",
+    "options": [
+      "earthquake",
+      "eruption",
+      "explosion"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "earthquake"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the lesson of the French Revolution, according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The consequences of rejecting God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The importance of innovation"
+      },
+      {
+        "id": "opt2",
+        "text": "The power of knowledge"
+      }
+    ]
+  }
+]

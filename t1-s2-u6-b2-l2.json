@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In Revelation 11:3, the two witnesses are also described as ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "prophets"
+      },
+      {
+        "id": "opt1",
+        "text": "servants"
+      },
+      {
+        "id": "opt2",
+        "text": "martyrs",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The two witnesses can smite the earth with plagues. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In James 5:17, the prophet Elijah prayed, and it did not ---- for three and a half years.",
+    "options": [
+      "snow",
+      "rain",
+      "shine"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "rain"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The two witnesses can turn water into ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "blood",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "oil"
+      },
+      {
+        "id": "opt2",
+        "text": "wine"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Moses called down plagues on Egypt to free God's people. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In Jeremiah 5:14, God's words are like ---- in the mouth.",
+    "options": [
+      "honey",
+      "fire",
+      "arrows"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fire"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The two witnesses symbolize the ---- of the Old and New Testaments.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "judgment"
+      },
+      {
+        "id": "opt1",
+        "text": "prophecy"
+      },
+      {
+        "id": "opt2",
+        "text": "testimony",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Isaiah 40:8, what will stand forever?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The word of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The grass"
+      },
+      {
+        "id": "opt2",
+        "text": "The flowers"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The medieval church persecuted faithful, Bible-believing Christians. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The English Bible translator, William Tyndale, was aided by the Bishop of ----.",
+    "options": [
+      "Durham",
+      "Canterbury",
+      "London"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Durham"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What happened to the Bibles purchased by the Bishop of Durham?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Burned",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Preserved"
+      },
+      {
+        "id": "opt2",
+        "text": "Distributed"
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "Through the centuries, God's Word has been ----.",
+    "options": [
+      "dissected",
+      "doubted",
+      "discarded"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "dissected"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Truth crushed in the ---- has risen again.",
+    "options": [
+      "dust",
+      "ocean",
+      "flames"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "dust"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What did Tyndale's story illustrate about the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Resilience",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Fragility"
+      },
+      {
+        "id": "opt2",
+        "text": "Obscurity"
+      }
+    ]
+  }
+]

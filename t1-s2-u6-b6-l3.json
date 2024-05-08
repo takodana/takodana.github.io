@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What event is described in Revelation 11:19?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The opening of the ark"
+      },
+      {
+        "id": "opt1",
+        "text": "The opening of the temple",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The closing of the temple"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "In Revelation 11:15-18, Christ is depicted as defeating the powers of hell. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The presence of God was revealed between the angelic figures on the cover of the ----.",
+    "options": [
+      "ark",
+      "tabernacle",
+      "temple"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "ark"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 11:15-18, who reigns forever and ever?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Satan"
+      },
+      {
+        "id": "opt1",
+        "text": "The Beast"
+      },
+      {
+        "id": "opt2",
+        "text": "The Lord",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The kingdom of God will triumph over evil and sin. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Most Holy Place in heaven contains the ---- of the covenant.",
+    "options": [
+      "ark",
+      "tent",
+      "tablets"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "ark"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to Revelation 11:15, what becomes the kingdom of our Lord?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The heavens"
+      },
+      {
+        "id": "opt1",
+        "text": "The earth"
+      },
+      {
+        "id": "opt2",
+        "text": "The kingdoms of this world",
+        "isCorrect": true
+      }
+    ]
+  }
+]

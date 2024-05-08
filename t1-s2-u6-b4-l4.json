@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The French Revolution's attack on the Bible is compared to the actions of which beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The beast from the sea"
+      },
+      {
+        "id": "opt1",
+        "text": "The beast from the earth"
+      },
+      {
+        "id": "opt2",
+        "text": "The beast from the bottomless pit",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The bodies of God's two witnesses would lie unburied for \"three-and-a-half days\" which represents literal days. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The French Revolution represented a rejection of religion and a rise in ----.",
+    "options": [
+      "faith",
+      "atheism",
+      "agnosticism"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "atheism"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who ordered the capture of Pope Pius VI?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Charlemagne"
+      },
+      {
+        "id": "opt1",
+        "text": "General Berthier",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Justinian"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Atheism during the French Revolution was a temporary phase of about three-and-a-half literal years. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "God's two witnesses, the Old and New Testaments, lay dead as a result of ---- and immorality.",
+    "options": [
+      "war",
+      "disbelief",
+      "revolution"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "disbelief"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What event began the long period of the medieval church's domination?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The collapse of the pagan Roman Empire",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The crowning of Charlemagne"
+      },
+      {
+        "id": "opt2",
+        "text": "The signing of the Edict of Milan"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How long was the medieval church period, according to prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "1260 years",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "1000 years"
+      },
+      {
+        "id": "opt2",
+        "text": "538 years"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Waldenses were part of those who cherished God's Word. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The authority of Scripture was replaced by other ---- authorities.",
+    "options": [
+      "secular",
+      "traditional",
+      "human"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "human"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "During the medieval church period, the Word of God was clothed in what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "White robes"
+      },
+      {
+        "id": "opt1",
+        "text": "Armor"
+      },
+      {
+        "id": "opt2",
+        "text": "Sackcloth",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The two witnesses prophesied against the enemies of God during the medieval church. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "During the time of papal domination, the church descended into spiritual ----.",
+    "options": [
+      "light",
+      "darkness",
+      "conflict"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "darkness"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The Reformers included which of the following?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "John Huss",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Christopher Columbus"
+      },
+      {
+        "id": "opt2",
+        "text": "Galileo"
+      }
+    ]
+  }
+]

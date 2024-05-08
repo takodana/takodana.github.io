@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Revelation 11:7, who makes war against God's two witnesses?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The beast from the sea"
+      },
+      {
+        "id": "opt1",
+        "text": "The beast from the bottomless pit",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Satan himself"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The two witnesses in Revelation 11:3-4 symbolize the Old and New Testaments. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The two witnesses are described as \"two ----\" (Revelation 11:4).",
+    "options": [
+      "candlesticks",
+      "trees",
+      "witnesses"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "candlesticks"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who gave authority to the beast from the bottomless pit to kill God's two witnesses?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The false prophet"
+      },
+      {
+        "id": "opt1",
+        "text": "The dragon",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The beast from the sea"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The beast that ascended from the bottomless pit symbolizes Satan's attack against God's Word. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "God's two witnesses would be killed and lie in the street of the great city spiritually called ---- (Revelation 11:8).",
+    "options": [
+      "Sodom",
+      "Egypt",
+      "Jerusalem"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Sodom"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the period of \"three-and-a-half days\" represent in Revelation 11:9?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Three and a half literal days"
+      },
+      {
+        "id": "opt1",
+        "text": "Three and a half prophetic weeks"
+      },
+      {
+        "id": "opt2",
+        "text": "Three and a half prophetic years",
+        "isCorrect": true
+      }
+    ]
+  }
+]

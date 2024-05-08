@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which festival celebrated atheism during the French Revolution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Festival of Freedom"
+      },
+      {
+        "id": "opt1",
+        "text": "The Festival of Reason",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The Festival of the Goddess"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Pope Pius VI was taken captive and brought back to Rome by Napoleon's general. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The two witnesses were symbolic of the Old and New ----.",
+    "options": [
+      "Prophets",
+      "Testaments",
+      "Books"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Testaments"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which emperor surrendered civil authority to the pope?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Constantine"
+      },
+      {
+        "id": "opt1",
+        "text": "Justinian",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Nero"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The beast from the bottomless pit represents Satan's assault on the Scriptures. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The French Revolution represented an attack on God's two ----.",
+    "options": [
+      "witnesses",
+      "angels",
+      "disciples"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "witnesses"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What was established as a state-sponsored atheistic religion during the French Revolution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Cult of Logic"
+      },
+      {
+        "id": "opt1",
+        "text": "The Cult of Wisdom"
+      },
+      {
+        "id": "opt2",
+        "text": "The Cult of Reason",
+        "isCorrect": true
+      }
+    ]
+  }
+]

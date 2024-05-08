@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the basis of judgment according to James 2:12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Love"
+      },
+      {
+        "id": "opt1",
+        "text": "Mercy"
+      },
+      {
+        "id": "opt2",
+        "text": "Law",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The seventh trumpet signals the end of the world. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Revelation 11, the Lord will take over the kingdoms of the ----.",
+    "options": [
+      "world",
+      "universe",
+      "heaven"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "world"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 11:19, where was the ark of the covenant?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "In the tabernacle"
+      },
+      {
+        "id": "opt1",
+        "text": "In the temple",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "In the wilderness"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Jesus' victory over Satan is incomplete. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In Revelation 11, Christ is victorious and Satan is ----.",
+    "options": [
+      "destroyed",
+      "chained",
+      "defeated"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "defeated"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What did John see in the temple of God, according to Revelation 11:19?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The book of life"
+      },
+      {
+        "id": "opt1",
+        "text": "The ark of the covenant",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The gates of heaven"
+      }
+    ]
+  }
+]

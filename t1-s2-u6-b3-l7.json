@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Revelation 12:6, the people of God faced persecution for how long?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "42 months"
+      },
+      {
+        "id": "opt1",
+        "text": "1260 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "360 days"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The medieval church united with the secular power to extend its authority. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The little-horn power was prophesied to persecute God's people for a time, times, and half a ----.",
+    "options": [
+      "year",
+      "season",
+      "time"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "time"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who continued to live by God's precepts during the medieval church?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The secular power"
+      },
+      {
+        "id": "opt1",
+        "text": "The Reformers",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The Roman Church"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Waldenses were part of the Reformation movement. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Reformation preserved the Word of ----.",
+    "options": [
+      "angels",
+      "men",
+      "God"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The medieval church period was a time of what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Great Enlightenment"
+      },
+      {
+        "id": "opt1",
+        "text": "Spiritual darkness",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Reformation"
+      }
+    ]
+  }
+]

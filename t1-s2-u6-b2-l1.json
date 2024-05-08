@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Revelation 11:3-6, how long will the two witnesses prophesy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "1,260 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "42 months"
+      },
+      {
+        "id": "opt2",
+        "text": "3.5 years"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The two witnesses represent Moses and Elijah. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The two witnesses in Revelation 11 are described as ---- trees.",
+    "options": [
+      "olive",
+      "fig",
+      "palm"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "olive"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "In Zechariah 4:14, the two olive trees represent two ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "priests"
+      },
+      {
+        "id": "opt1",
+        "text": "kings"
+      },
+      {
+        "id": "opt2",
+        "text": "anointed ones",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The two witnesses are able to call down fire from heaven. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In Psalm 119:105, God's Word is described as a ---- to our feet.",
+    "options": [
+      "light",
+      "guide",
+      "lamp"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "lamp"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The fire from the mouth of the two witnesses represents ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's anger"
+      },
+      {
+        "id": "opt1",
+        "text": "God's Word",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "God's punishment"
+      }
+    ]
+  }
+]

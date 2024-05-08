@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Who said, \"I am weary of hearing people repeat that twelve men established the Christian religion. I will prove that one man may suffice to overthrow it.\"?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Napoleon"
+      },
+      {
+        "id": "opt1",
+        "text": "Voltaire",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "King Louis XVI"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Bible can be attacked but never eradicated. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Psalm 111:7, 8, the Bible is described as standing ---- forever.",
+    "options": [
+      "strong",
+      "TRUE",
+      "fast"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fast"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Ellen G. White, how many copies of the Bible are there now compared to Voltaire's time?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Ten thousand"
+      },
+      {
+        "id": "opt1",
+        "text": "One hundred thousand",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "One million"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Bible is referred to as an \"anvil that has worn out many hammers\". True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Bible may be attacked or suppressed, but it will never be ----.",
+    "options": [
+      "denied",
+      "undermined",
+      "eradicated"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "eradicated"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What must we never allow ourselves to be seduced by?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Doubts"
+      },
+      {
+        "id": "opt1",
+        "text": "Attacks on the Word of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Temptation"
+      }
+    ]
+  }
+]

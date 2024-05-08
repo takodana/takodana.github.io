@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Psalm 111:7, 8, what are God's works described as being?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Just and upright",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Perfect and holy"
+      },
+      {
+        "id": "opt2",
+        "text": "True and loving"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How did Voltaire describe his intent towards Christianity?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Supportive"
+      },
+      {
+        "id": "opt1",
+        "text": "Indifferent"
+      },
+      {
+        "id": "opt2",
+        "text": "Overthrowing",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Word of God is ---- in heaven.",
+    "options": [
+      "rooted",
+      "settled",
+      "eternal"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "settled"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How did Ellen G. White describe the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Anvil",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Hammer"
+      },
+      {
+        "id": "opt2",
+        "text": "Sword"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What did William Carey do in India?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Taught English"
+      },
+      {
+        "id": "opt1",
+        "text": "Translated the Bible",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Built churches"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Bible is a ---- Word.",
+    "options": [
+      "dead",
+      "eternal",
+      "living"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "living"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What did the early Reformer say about the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's worn out many swords"
+      },
+      {
+        "id": "opt1",
+        "text": "It's worn out many hammers",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It's worn out many anvils"
+      }
+    ]
+  }
+]

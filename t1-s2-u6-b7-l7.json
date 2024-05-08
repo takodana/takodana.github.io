@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the Great Controversy describe the fate of those who did not follow God's opening providence?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They were rewarded"
+      },
+      {
+        "id": "opt1",
+        "text": "They remained stagnant"
+      },
+      {
+        "id": "opt2",
+        "text": "They disappeared",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Great Controversy teaches that religion will inevitably degenerate if the church does not follow God's light. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The church must accept every ray of ---- or it will degenerate.",
+    "options": [
+      "faith",
+      "knowledge",
+      "light"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "light"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What did Ellen G. White describe as disappearing if the church does not accept God's light?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Vital godliness",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Biblical knowledge"
+      },
+      {
+        "id": "opt2",
+        "text": "Spiritual gifts"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Great Controversy warns about the dangers of rejecting God's law. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The French Revolution shows that without God, a society will experience ----.",
+    "options": [
+      "freedom",
+      "chaos",
+      "innovation"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "chaos"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How did the French Revolution affect religion, law, social order, and the family?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It improved them"
+      },
+      {
+        "id": "opt1",
+        "text": "It challenged them"
+      },
+      {
+        "id": "opt2",
+        "text": "It destroyed them",
+        "isCorrect": true
+      }
+    ]
+  }
+]

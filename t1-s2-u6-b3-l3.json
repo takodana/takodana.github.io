@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Daniel 7:25, how long would the little-horn power persecute God's people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "2300 days"
+      },
+      {
+        "id": "opt1",
+        "text": "1260 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "70 weeks"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The papal domination period was a time of deep spiritual darkness. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 12:14 talks of a time, times, and half a ----.",
+    "options": [
+      "year",
+      "season",
+      "time"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "time"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who were some of the key Reformers during the medieval church?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Leonardo da Vinci"
+      },
+      {
+        "id": "opt1",
+        "text": "John and Charles Wesley",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Isaac Newton"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Bible was completely ignored during the medieval church period. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The two witnesses prophesied against those who opposed God's ----.",
+    "options": [
+      "truth",
+      "mercy",
+      "wrath"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "truth"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The 1260-day prophecy in Revelation aligns with what period in Daniel?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "2300 days"
+      },
+      {
+        "id": "opt1",
+        "text": "1260 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "70 weeks"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The two witnesses can shut up the sky so that no ---- falls.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "snow"
+      },
+      {
+        "id": "opt1",
+        "text": "hail"
+      },
+      {
+        "id": "opt2",
+        "text": "rain",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The two witnesses symbolize God's ---- according to the study guide.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "judgment"
+      },
+      {
+        "id": "opt1",
+        "text": "love"
+      },
+      {
+        "id": "opt2",
+        "text": "Word",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Revelation 11, the two witnesses have the power to call down ----.",
+    "options": [
+      "fire",
+      "angels",
+      "plagues"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fire"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The two witnesses are described as two ---- lampstands.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "golden",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "silver"
+      },
+      {
+        "id": "opt2",
+        "text": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The two witnesses represent Moses and Elijah. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In Zechariah 4, the two witnesses are described as ---- trees.",
+    "options": [
+      "olive",
+      "fig",
+      "palm"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "olive"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The two witnesses testify of Jesus according to John 5:39. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  }
+]

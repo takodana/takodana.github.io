@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What did John see opened in heaven in Revelation 11:19?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The book of life"
+      },
+      {
+        "id": "opt1",
+        "text": "The temple of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The gates of heaven"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The gospel will be preached to every nation, tribe, tongue, and people according to Revelation 14:6. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The glorious presence of God was revealed between the angelic figures on the cover of the ark of the ----.",
+    "options": [
+      "covenant",
+      "tent",
+      "temple"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "covenant"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "In Revelation 11:15, who does the kingdom of the world become?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Antichrist's"
+      },
+      {
+        "id": "opt1",
+        "text": "The Beast's"
+      },
+      {
+        "id": "opt2",
+        "text": "The Lord's",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The French Revolution sought to eradicate belief in God. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The ark of the covenant, as seen by John, was located in the ---- Place.",
+    "options": [
+      "Holy",
+      "Most Holy",
+      "Common"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Most Holy"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The book \"The Great Controversy\" is written by whom?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Martin Luther"
+      },
+      {
+        "id": "opt1",
+        "text": "John Calvin"
+      },
+      {
+        "id": "opt2",
+        "text": "Ellen G. White",
+        "isCorrect": true
+      }
+    ]
+  }
+]

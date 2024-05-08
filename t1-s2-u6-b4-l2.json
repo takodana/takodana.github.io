@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which event marked the end of the Roman Church's secular authority?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The signing of the Edict of Milan"
+      },
+      {
+        "id": "opt1",
+        "text": "The crowning of Charlemagne"
+      },
+      {
+        "id": "opt2",
+        "text": "Napoleon's capture of the pope",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Old and New Testaments were kept alive during the French Revolution. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The French government established the Cult of ---- as a state-sponsored atheistic religion.",
+    "options": [
+      "Atheism",
+      "Reason",
+      "Logic"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Reason"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What was the primary purpose of the French Revolution's Festival of Reason?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To honor the Goddess of Reason",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "To celebrate religious diversity"
+      },
+      {
+        "id": "opt2",
+        "text": "To mark the end of monarchy"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "In the French Revolution, Bibles were burned in the streets. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "God's two witnesses would lie unburied for \"three-and-a-half days\" (Rev. 11:9), which represents three and a half literal ----.",
+    "options": [
+      "days",
+      "years",
+      "months"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "years"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What cultural values are symbolized by \"Sodom\" and \"Egypt\" in Revelation 11:8?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Immorality and disbelief",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Justice and wisdom"
+      },
+      {
+        "id": "opt2",
+        "text": "Luxury and power"
+      }
+    ]
+  }
+]

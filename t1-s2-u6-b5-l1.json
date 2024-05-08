@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Revelation 11:11, what happened after the French Revolution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Bible lost influence"
+      },
+      {
+        "id": "opt1",
+        "text": "The Bible came to life again",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The Bible was destroyed"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Bible is described as the \"living power of God unto salvation\". True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "At the end of the eighteenth century, God raised up men and women who were committed to taking the ---- to the ends of the earth.",
+    "options": [
+      "Word",
+      "Message",
+      "Gospel"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Gospel"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who was one of the missionaries who helped spread the Bible rapidly?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "William Carey",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Martin Luther"
+      },
+      {
+        "id": "opt2",
+        "text": "John Calvin"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The infidel Voltaire believed one man could overthrow Christianity. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In Psalm 119:89, it is stated that God's Word is ---- in heaven.",
+    "options": [
+      "preserved",
+      "settled",
+      "rooted"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "settled"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the Bible compared to in the words of an early Reformer?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Anvil",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Hammer"
+      },
+      {
+        "id": "opt2",
+        "text": "Sword"
+      }
+    ]
+  }
+]

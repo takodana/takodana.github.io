@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What happened in Rome on February 10, 1798?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "General Berthier marched unopposed",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The Edict of Milan was signed"
+      },
+      {
+        "id": "opt2",
+        "text": "The Roman Empire fell"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Cult of Reason was intended to replace atheism during the French Revolution. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "During the Festival of Reason, churches across France were turned into Temples of ----.",
+    "options": [
+      "Wisdom",
+      "Knowledge",
+      "Reason"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Reason"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who was Pope Vigillis?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The first pope of the medieval church"
+      },
+      {
+        "id": "opt1",
+        "text": "The pope crowned by Justinian",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The last pope before the Roman Empire fell"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The medieval church's domination ended when Napoleon seized power. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The two witnesses of God are symbolized as \"two olive ----\" in Revelation 11:4.",
+    "options": [
+      "trees",
+      "branches",
+      "fruits"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "trees"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the dead bodies lying in the streets symbolize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The death of God's prophets"
+      },
+      {
+        "id": "opt1",
+        "text": "The death of the Roman Church"
+      },
+      {
+        "id": "opt2",
+        "text": "The attack on God's Word",
+        "isCorrect": true
+      }
+    ]
+  }
+]

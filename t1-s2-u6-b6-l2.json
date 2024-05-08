@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Ellen G. White in 'The Great Controversy', what shall stand forever?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Human authority"
+      },
+      {
+        "id": "opt1",
+        "text": "God's immutable word",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The kingdoms of this world"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The glorious climax in Revelation 11 is temporary. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The ark of the covenant in heaven reveals God's ----.",
+    "options": [
+      "law",
+      "mercy",
+      "wrath"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "law"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 11, who is ultimately victorious?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Beast"
+      },
+      {
+        "id": "opt1",
+        "text": "The False Prophet"
+      },
+      {
+        "id": "opt2",
+        "text": "The Lord",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The French Revolution attempted to destroy the Christian faith. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The seventh trumpet signifies the triumph of God's ----.",
+    "options": [
+      "kingdom",
+      "people",
+      "mercy"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "kingdom"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The opening of the temple in heaven to show the ark of the covenant signifies what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Restoration"
+      },
+      {
+        "id": "opt2",
+        "text": "Destruction"
+      }
+    ]
+  }
+]

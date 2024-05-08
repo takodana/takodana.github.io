@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Ellen G. White in 'The Great Controversy', what will stand forever?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Human authority"
+      },
+      {
+        "id": "opt1",
+        "text": "God's immutable word",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The kingdoms of this world"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The great controversy will end with Satan completely defeating Christ. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 11 teaches us that God will triumph over ----.",
+    "options": [
+      "evil",
+      "sin",
+      "suffering"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "evil"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 11, what does Christ do to the kingdoms of this world?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Destroys them"
+      },
+      {
+        "id": "opt1",
+        "text": "Takes over them",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Ignores them"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The ark of the covenant in heaven, as seen by John, symbolizes God's mercy. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "According to Revelation 11:15, the kingdoms of this world have become the kingdoms of our Lord and of His ----.",
+    "options": [
+      "Christ",
+      "angels",
+      "prophets"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The temple of God in heaven was opened to John's view, and he saw the ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "book of life"
+      },
+      {
+        "id": "opt1",
+        "text": "ark of the covenant",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "gates of heaven"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to the Bible study guide, what reveals if our faith is genuine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Obedience to God's law",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Belief in God"
+      },
+      {
+        "id": "opt2",
+        "text": "Faith alone"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The temple of God in heaven contains the Ten Commandments. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The great controversy ends with Christ defeating the powers of ----.",
+    "options": [
+      "hell",
+      "heaven",
+      "man"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "hell"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 11:19, what did John see opened?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The temple",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The book of life"
+      },
+      {
+        "id": "opt2",
+        "text": "The gates of heaven"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White's book 'The Great Controversy' says that whatever is built on the authority of man will be overthrown. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The gospel will be preached to every nation, tribe, tongue, and ----.",
+    "options": [
+      "people",
+      "angels",
+      "disciples"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "people"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to Revelation 11:18, what do the nations do when the seventh trumpet sounds?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Rejoice"
+      },
+      {
+        "id": "opt1",
+        "text": "Anger",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Worship"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What did Voltaire predict about Christianity?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It would last forever"
+      },
+      {
+        "id": "opt1",
+        "text": "It would spread globally"
+      },
+      {
+        "id": "opt2",
+        "text": "It would be overthrown",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Bible is called an anvil because it withstands all attacks. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Psalm 119:89, God's Word is ---- forever.",
+    "options": [
+      "perfect",
+      "settled",
+      "rooted"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "settled"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who compared the Bible to an anvil?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Ellen G. White",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Martin Luther"
+      },
+      {
+        "id": "opt2",
+        "text": "John Calvin"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Bible is alive and speaks to hearts today. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "William Carey translated the Bible into local ---- in India.",
+    "options": [
+      "languages",
+      "dialects",
+      "tongues"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "dialects"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What must we never be seduced by?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Fame"
+      },
+      {
+        "id": "opt1",
+        "text": "Power"
+      },
+      {
+        "id": "opt2",
+        "text": "Attacks on the Word of God",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What were the two witnesses clothed in, during the medieval church period?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sackcloth",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Silk"
+      },
+      {
+        "id": "opt2",
+        "text": "Cotton"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The two witnesses symbolize the Old and New Testaments. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The medieval church overshadowed the simplicity of the ----.",
+    "options": [
+      "truth",
+      "gospel",
+      "church"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "gospel"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 12:6, how long did the people of God face persecution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "2300 days"
+      },
+      {
+        "id": "opt1",
+        "text": "1260 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "70 weeks"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The little-horn power was described in Daniel 7:25. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The medieval church was a time of ---- domination.",
+    "options": [
+      "papal",
+      "secular",
+      "reformer"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "papal"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Who were some of the key figures in the Reformation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "John Huss",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Isaac Newton"
+      },
+      {
+        "id": "opt2",
+        "text": "Christopher Columbus"
+      }
+    ]
+  }
+]

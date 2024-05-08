@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What did Ellen G. White say would happen to religion if the church fails to follow God's opening providence?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It would flourish"
+      },
+      {
+        "id": "opt1",
+        "text": "It would improve"
+      },
+      {
+        "id": "opt2",
+        "text": "It would degenerate",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Religion degenerating into the observance of forms is a consequence of neglecting duty and light. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Vital ---- will disappear if the church does not accept every ray of light.",
+    "options": [
+      "godliness",
+      "faith",
+      "knowledge"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "godliness"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What was Ellen G. White's concern for the church if it does not perform every duty revealed?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It would be stronger"
+      },
+      {
+        "id": "opt1",
+        "text": "It would be vulnerable"
+      },
+      {
+        "id": "opt2",
+        "text": "It would disappear",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Why is rejecting God's law dangerous, according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It leads to chaos",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It leads to innovation"
+      },
+      {
+        "id": "opt2",
+        "text": "It leads to liberation"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The service of rebellion leads to ----.",
+    "options": [
+      "freedom",
+      "chaos",
+      "harmony"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "chaos"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What was France's state after the Revolution, according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Prosperous"
+      },
+      {
+        "id": "opt1",
+        "text": "Stagnant"
+      },
+      {
+        "id": "opt2",
+        "text": "Devastated",
+        "isCorrect": true
+      }
+    ]
+  }
+]

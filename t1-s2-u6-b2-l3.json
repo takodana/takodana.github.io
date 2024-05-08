@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The two witnesses are said to stand before the ---- of the whole earth.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "throne"
+      },
+      {
+        "id": "opt1",
+        "text": "Lord",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "kings"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The two witnesses testify of Jesus according to John 5:39. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Matthew 24:14, the gospel will be preached as a ---- to all nations.",
+    "options": [
+      "warning",
+      "message",
+      "witness"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "witness"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The two witnesses are referred to as the ---- ones in Zechariah 4:14.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "holy"
+      },
+      {
+        "id": "opt1",
+        "text": "blessed"
+      },
+      {
+        "id": "opt2",
+        "text": "anointed",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The two witnesses represent the Scriptures according to the study guide. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The two witnesses in Revelation 11 communicate God's ---- to the world.",
+    "options": [
+      "judgment",
+      "love",
+      "light"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "light"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to the study guide, which testament testifies of Jesus?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Old Testament"
+      },
+      {
+        "id": "opt1",
+        "text": "New Testament"
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The Roman Church united with whom during the medieval church period?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Reformers"
+      },
+      {
+        "id": "opt1",
+        "text": "The secular power",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The Muslim Caliphate"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The medieval church suppressed the Bible. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Roman Church extended its authority over all of ---- during the medieval church.",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Europe"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who continued to cherish and live by God's Word during the medieval church?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Roman Church"
+      },
+      {
+        "id": "opt1",
+        "text": "The secular power"
+      },
+      {
+        "id": "opt2",
+        "text": "The Waldenses",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Bible remained silent during the medieval church. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The medieval church decrees were based on the commandments of ----.",
+    "options": [
+      "God",
+      "men",
+      "angels"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "men"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The Reformation was a response to what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The oppression of the Roman Church",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The rise of secularism"
+      },
+      {
+        "id": "opt2",
+        "text": "The Muslim conquest"
+      }
+    ]
+  }
+]

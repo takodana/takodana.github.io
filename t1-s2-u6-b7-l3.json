@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In Ellen G. White's account, what did wicked men and spirits of darkness exult in during the French Revolution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A kingdom free from God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A kingdom free from the monarchy"
+      },
+      {
+        "id": "opt2",
+        "text": "A kingdom free from society"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The cruel power of Satan was checked during the French Revolution. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The wicked men in France wanted a kingdom free from the ---- of the law of God.",
+    "options": [
+      "restraints",
+      "guidance",
+      "blessing"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "restraints"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What happened to the restraining Spirit of God during the French Revolution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It was increased"
+      },
+      {
+        "id": "opt1",
+        "text": "It was unchanged"
+      },
+      {
+        "id": "opt2",
+        "text": "It was removed",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The removal of the restraining Spirit of God led to chaos in France. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The French Revolution resulted in a cry of bitterest ----.",
+    "options": [
+      "joy",
+      "defeat",
+      "anguish"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "anguish"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What happened to the family, the state, and the church during the French Revolution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They were strengthened"
+      },
+      {
+        "id": "opt1",
+        "text": "They were challenged"
+      },
+      {
+        "id": "opt2",
+        "text": "They were smitten down",
+        "isCorrect": true
+      }
+    ]
+  }
+]

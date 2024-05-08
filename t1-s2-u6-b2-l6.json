@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In Revelation 11, the two witnesses prophesy for ---- days.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "1260",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "1000"
+      },
+      {
+        "id": "opt2",
+        "text": "700"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The two witnesses represent the Scriptures according to the study guide. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Psalm 119:105, God's Word is described as a ---- to our feet.",
+    "options": [
+      "light",
+      "guide",
+      "lamp"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "lamp"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The two witnesses are referred to as the ---- ones in Zechariah 4:14.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "holy"
+      },
+      {
+        "id": "opt1",
+        "text": "blessed"
+      },
+      {
+        "id": "opt2",
+        "text": "anointed",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The two witnesses symbolize God's ---- according to the study guide.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "judgment"
+      },
+      {
+        "id": "opt1",
+        "text": "love"
+      },
+      {
+        "id": "opt2",
+        "text": "Word",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In Revelation 11, the two witnesses have the power to call down ----.",
+    "options": [
+      "fire",
+      "angels",
+      "plagues"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fire"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The two witnesses symbolize God's Word being proclaimed in the power of the ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Bible"
+      },
+      {
+        "id": "opt1",
+        "text": "Holy Spirit",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Gospel"
+      }
+    ]
+  }
+]

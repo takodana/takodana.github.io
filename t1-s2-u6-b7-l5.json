@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In Ellen G. White's account, what happened to faithful witnesses during the proscription of the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They were celebrated"
+      },
+      {
+        "id": "opt1",
+        "text": "They were persecuted",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They were ignored"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Even in the darkest times, there were men who loved God's word. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Those loyal servants were given wisdom, power, and ----.",
+    "options": [
+      "authority",
+      "courage",
+      "freedom"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "authority"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How long did the faithful witnesses prophesy in sackcloth, according to The Great Controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "1260 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "1000 days"
+      },
+      {
+        "id": "opt2",
+        "text": "500 days"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "During the French Revolution, what did France reject?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The monarchy"
+      },
+      {
+        "id": "opt1",
+        "text": "The nobility"
+      },
+      {
+        "id": "opt2",
+        "text": "The Bible",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The restraining Spirit of God imposes a ---- upon the cruel power of Satan.",
+    "options": [
+      "limit",
+      "check",
+      "ban"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "check"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How was France affected after rejecting God and the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It prospered"
+      },
+      {
+        "id": "opt1",
+        "text": "It was unchanged"
+      },
+      {
+        "id": "opt2",
+        "text": "It was devastated",
+        "isCorrect": true
+      }
+    ]
+  }
+]
