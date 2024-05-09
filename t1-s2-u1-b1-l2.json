@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fib2",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "FIB",
+    "questionNumber": 2,
+    "question": "\"And war broke out in ----: Michael and his angels fought with the dragon\" - Revelation 12:7",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heaven"
+      }
+    ],
+    "options": ["heaven", "hell", "earth"]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "\"Only by ---- is love awakened.\" - Ellen G. White, The Desire of Ages, p.22",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "love"
+      }
+    ],
+    "options": ["love", "force", "law"]
+  },
+  {
+    "id": "fib8",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "FIB",
+    "questionNumber": 8,
+    "question": "God's purpose is to demonstrate that He has always acted in the best interests of His ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "creatures"
+      }
+    ],
+    "options": ["creatures", "enemies", "laws"]
+  }
+]
