@@ -1,5 +1,21 @@
 [
   {
+    "id": "fib1",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 0,
+    "type": "FIB",
+    "questionNumber": 8,
+    "question": "God's purpose is to demonstrate that He has always acted in the best interests of His ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "creatures"
+      }
+    ],
+    "options": ["creatures", "enemies", "laws"]
+  },
+  {
     "id": "fib2",
     "setNumber": 3,
     "complexity": 0,
