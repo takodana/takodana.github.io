@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In 1 Peter 1:10-11, who are said to have researched and testified the sufferings of Christ?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Prophets",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Apostles"
+      },
+      {
+        "id": "opt2",
+        "text": "Philosophers"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Revelation 1:1-3 emphasizes the importance of what in understanding prophecies?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Timely delivery"
+      },
+      {
+        "id": "opt1",
+        "text": "Heed and keep the teachings",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Literal interpretation"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Jeremiah 6:2, a woman symbolically represents a ----.",
+    "options": [
+      "church",
+      "city",
+      "nation"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "church"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does water symbolize in Revelation 17:15?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Chaos"
+      },
+      {
+        "id": "opt1",
+        "text": "Peoples or multitudes",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Ideologies"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The prophetic days in Daniel and Revelation should be understood as literal days.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Wind in biblical prophecy often symbolizes ----.",
+    "options": [
+      "destruction",
+      "change",
+      "spirit"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "destruction"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Why is understanding the symbolic language of prophecy crucial according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To predict future"
+      },
+      {
+        "id": "opt1",
+        "text": "To comprehend God's messages",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To debate theology"
+      }
+    ]
+  }
+]

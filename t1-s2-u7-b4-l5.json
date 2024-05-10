@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "William Miller's approach to Bible study emphasized the importance of what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Understanding each passage",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Quick reading"
+      },
+      {
+        "id": "opt2",
+        "text": "Memorization of verses"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: William Miller found the truth about Christ's second coming by reading the Bible with a preconceived notion.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miller's study was guided by the Holy Spirit, which helped him to ---- the scriptures.",
+    "options": [
+      "unlock",
+      "ignore",
+      "follow"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "unlock"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What did Miller use alongside the Bible in his study?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Commentaries"
+      },
+      {
+        "id": "opt1",
+        "text": "Notebook and pen",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Maps"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Miller's findings were based solely on Old Testament scriptures.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The approach of reading no faster than one can ---- helped Miller deeply understand the Bible.",
+    "options": [
+      "understand",
+      "skim",
+      "challenge"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "understand"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to Miller's study, prophecy is best understood when taken?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Literally"
+      },
+      {
+        "id": "opt1",
+        "text": "As a whole",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Out of context"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the guide describe the impact of the Holy Spirit on Miller's study?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Revelatory",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Confusing"
+      },
+      {
+        "id": "opt2",
+        "text": "Minimal"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Miller was surprised by what he discovered about the timing of Christ's return.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miller's method involved comparing scripture with ----.",
+    "options": [
+      "scripture",
+      "opinions",
+      "theories"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "scripture"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is not a principle of Bible interpretation discovered by Miller?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Seeking external validation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Allowing scripture to interpret scripture"
+      },
+      {
+        "id": "opt2",
+        "text": "Reading slowly"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Miller interpreted the prophecies without any presuppositions.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Miller's understanding of prophecy was enhanced by the principle that a day represents a ----.",
+    "options": [
+      "year",
+      "decade",
+      "century"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "year"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Why is understanding prophetic symbols correctly crucial for our faith according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It ensures accurate prophecy interpretation"
+      },
+      {
+        "id": "opt1",
+        "text": "It enhances doctrinal purity"
+      },
+      {
+        "id": "opt2",
+        "text": "It prevents deception",
+        "isCorrect": true
+      }
+    ]
+  }
+]

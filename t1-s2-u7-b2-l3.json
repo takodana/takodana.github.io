@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the second coming address the issue of 'poverty, injustice, and oppression'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By heralding God's kingdom of justice",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By promoting charity"
+      },
+      {
+        "id": "opt2",
+        "text": "By encouraging government reform"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What is the significance of 'the resurrection' mentioned in 1 Thessalonians 4:13-18 regarding the second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It underscores eternal life with Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is symbolic"
+      },
+      {
+        "id": "opt2",
+        "text": "It refers to a spiritual awakening"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The promise of Jesus' return offers an end to ---- as per the Bible guide.",
+    "options": [
+      "sickness",
+      "conflict",
+      "hatred"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sickness"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Christian belief, what does the second coming ultimately bring?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A new heaven and a new earth",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Technological advancements"
+      },
+      {
+        "id": "opt2",
+        "text": "A new political order"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White emphasizes that the second coming is a source of ---- for Christians.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "joy and hope",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "fear and trepidation"
+      },
+      {
+        "id": "opt2",
+        "text": "confusion and doubt"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christians look forward to the second coming as it promises an end to ----.",
+    "options": [
+      "war",
+      "debate",
+      "struggle"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "war"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does 1 Thessalonians 4:13-18 teach about the condition of the dead until Christ's return?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They sleep in Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They roam the earth"
+      },
+      {
+        "id": "opt2",
+        "text": "They reside in heaven"
+      }
+    ]
+  }
+]

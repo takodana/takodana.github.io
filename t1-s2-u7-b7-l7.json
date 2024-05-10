@@ -1,0 +1,150 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the final outcome of the great controversy, as suggested by prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Victory of good",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Continued conflict"
+      },
+      {
+        "id": "opt2",
+        "text": "Undefined"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Was the primary message of the Millerites correct in intent but wrong in detail?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Prophecy confirms that history moves according to God's ----.",
+    "options": [
+      "plan",
+      "whim",
+      "mistakes"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "plan"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Does the Adventist belief in prophecy imply a predetermined history?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is understanding prophecy essential for understanding the nature of God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The study of prophecy helps believers focus on the ---- of Christ's return.",
+    "options": [
+      "certainty",
+      "method",
+      "time"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "certainty"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the continued study of prophecy suggest about Adventist beliefs?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are evolving",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are fixed"
+      },
+      {
+        "id": "opt2",
+        "text": "They are uncertain"
+      }
+    ]
+  }
+]

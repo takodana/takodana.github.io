@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How do the prophecies of Daniel 8 and 9 affect Adventist theology?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Marginally"
+      },
+      {
+        "id": "opt1",
+        "text": "Fundamentally",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Temporarily"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does the historical fulfillment of prophecies prove according to Adventists?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Biblical accuracy"
+      },
+      {
+        "id": "opt1",
+        "text": "Divine intervention"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Historical and prophetic studies are crucial for understanding the ---- of Scripture.",
+    "options": [
+      "depth",
+      "surface",
+      "literature"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "depth"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does the 2,300 days prophecy affect our view of history?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Shows randomness"
+      },
+      {
+        "id": "opt1",
+        "text": "Shows divine control",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Shows human influence"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The 70 weeks prophecy primarily concerns which people group?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Gentiles"
+      },
+      {
+        "id": "opt1",
+        "text": "Jews",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Miller's interpretation highlighted the ---- of the Bible's prophetic messages.",
+    "options": [
+      "complexity",
+      "simplicity",
+      "beauty"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "simplicity"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the linkage between Daniel 8 and 9 teach us about biblical prophecies?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are interconnected",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are independent"
+      },
+      {
+        "id": "opt2",
+        "text": "They are contradictory"
+      }
+    ]
+  }
+]

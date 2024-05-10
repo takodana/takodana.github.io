@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the significance of the starting point of the 70 weeks in Daniel 9:25?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Marks a prophecy"
+      },
+      {
+        "id": "opt1",
+        "text": "Begins a historical period"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How does the prophecy of Daniel 8:14 reassure believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Confirms God's sovereignty",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Promises earthly rewards"
+      },
+      {
+        "id": "opt2",
+        "text": "Foretells a new prophet"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The interpretation of the 70 weeks helps us understand the ---- of Jesus' mission.",
+    "options": [
+      "timing",
+      "nature",
+      "outcome"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "timing"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the term 'sanctuary' in Daniel 8:14 refer to?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Heavenly sanctuary",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Earthly temple"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Miller's views on the 2,300 days led to which major Adventist doctrine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Investigative judgment"
+      },
+      {
+        "id": "opt1",
+        "text": "Sanctuary doctrine"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Adventist eschatology emphasizes the ---- of historical prophecies.",
+    "options": [
+      "accuracy",
+      "symbolism",
+      "complexity"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "accuracy"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What impact did Miller's interpretation have on the religious movement of the 19th century?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Started the Great Awakening"
+      },
+      {
+        "id": "opt1",
+        "text": "Influenced many denominations"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  }
+]

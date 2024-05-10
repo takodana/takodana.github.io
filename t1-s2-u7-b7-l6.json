@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the Great Controversy say about the purpose of prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It reveals God's timing"
+      },
+      {
+        "id": "opt1",
+        "text": "It tests faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It predicts exactly future events"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Miller's historical role was primarily what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A preacher",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A prophet"
+      },
+      {
+        "id": "opt2",
+        "text": "A reformer"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Prophecy's role is to ---- the believers in preparation for end times.",
+    "options": [
+      "equip",
+      "scare",
+      "confuse"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "equip"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Is the Adventist study of prophecy intended to foster fear or readiness?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Readiness",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Fear"
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Does the Great Controversy view prophecy as a tool for understanding God's character?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Through prophecy, God aims to ---- His people.",
+    "options": [
+      "unite",
+      "separate",
+      "alienate"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "unite"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What lesson is learned from the failure to understand the 1844 prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Humility",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Excitement"
+      },
+      {
+        "id": "opt2",
+        "text": "Fear"
+      }
+    ]
+  }
+]

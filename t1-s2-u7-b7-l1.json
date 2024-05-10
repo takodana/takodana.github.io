@@ -1,0 +1,166 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What event marks the beginning of the 2",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "300-day prophecy?"
+      },
+      {
+        "id": "opt1",
+        "text": "457 B.C.",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "1844 A.D."
+      },
+      {
+        "id": "opt3",
+        "text": "1 A.D."
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The prophecy of 70 weeks is directly linked to whom?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Messiah the Prince",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "King Solomon"
+      },
+      {
+        "id": "opt2",
+        "text": "John the Baptist"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The 70-week prophecy focuses on the coming of ----.",
+    "options": [
+      "Messiah",
+      "Prophet",
+      "King"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Messiah"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What year is prophesied to mark the end of the 2",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "300 days?"
+      },
+      {
+        "id": "opt1",
+        "text": "1844",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "1776"
+      },
+      {
+        "id": "opt3",
+        "text": "1600"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Was William Miller correct about the time of the prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Despite errors, Miller's movement was driven by a desire for ---- understanding.",
+    "options": [
+      "deeper",
+      "lesser",
+      "incorrect"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "deeper"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What did Miller's experience teach about the importance of prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Testing faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Building churches"
+      },
+      {
+        "id": "opt2",
+        "text": "Financial giving"
+      }
+    ]
+  }
+]

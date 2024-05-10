@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How should believers respond to the fulfillment of prophecies?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "With caution"
+      },
+      {
+        "id": "opt1",
+        "text": "With faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "With skepticism"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does the term 'cut off' in Daniel 9:24 suggest about the 70 weeks?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Isolation"
+      },
+      {
+        "id": "opt1",
+        "text": "Special assignment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Cancellation"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miller linked the end of the 2,300 days to the ---- of the earth.",
+    "options": [
+      "renewal",
+      "destruction",
+      "cleansing"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "cleansing"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the continuing relevance of Daniel's prophecies indicate about biblical prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is time-bound"
+      },
+      {
+        "id": "opt1",
+        "text": "It is ongoing",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is symbolic"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the Adventist interpretation of the 2,300 days universally accepted among Christians?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Yes"
+      },
+      {
+        "id": "opt1",
+        "text": "No",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Partially"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The study of Daniel enriches our understanding of God's ---- plans.",
+    "options": [
+      "redemptive",
+      "daily",
+      "future"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "redemptive"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What key message does Daniel 8:14 convey to contemporary believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's judgment is imminent"
+      },
+      {
+        "id": "opt1",
+        "text": "God's promises are reliable"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What event does 1844 mark in Adventist prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Beginning of investigative judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "End of prophetic timeline"
+      },
+      {
+        "id": "opt2",
+        "text": "Start of modern Adventism"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is the investigative judgment a unique Adventist doctrine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Post-1844, Adventists emphasized Christ's role as our ---- in heaven.",
+    "options": [
+      "advocate",
+      "king",
+      "judge"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "advocate"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the investigative judgment signify about Christ's ministry?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Ongoing intercession",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Completion of sacrifice"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Does the concept of the investigative judgment reinforce the importance of living a holy life?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Understanding Christ as our advocate helps us appreciate His ---- for us.",
+    "options": [
+      "sacrifice",
+      "teachings",
+      "kingdom"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sacrifice"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What aspect of Christ's ministry is highlighted by the investigative judgment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His ongoing work",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "His return"
+      },
+      {
+        "id": "opt2",
+        "text": "His birth"
+      }
+    ]
+  }
+]

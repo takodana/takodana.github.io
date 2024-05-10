@@ -1,0 +1,152 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the universal visibility of Christ's return imply about divine justice?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'It is selective'"
+      },
+      {
+        "id": "opt1",
+        "text": "'It is unequivocal'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'It is mysterious'"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The second coming will be a low-key event according to Scripture. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White describes Christ's return as a ---- that completes redemption.",
+    "options": [
+      "'mystery'",
+      "'process'",
+      "'promise'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'promise'"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the promise of Christ's appearing bring to the faithful?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Fear of the unknown'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Hope of deliverance'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'Anxiety about judgment'"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The second coming is solely a future event with no current relevance. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The 'joy-inspiring hope' of Christ's return impacts believers by fostering a spirit of ----.",
+    "options": [
+      "'dread'",
+      "'anticipation'",
+      "'resignation'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'anticipation'"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What overarching theme is reinforced by the imminent return of Christ?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'The unpredictability of life'"
+      },
+      {
+        "id": "opt1",
+        "text": "'The certainty of God's promises'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'The fear of final judgment'"
+      }
+    ]
+  }
+]

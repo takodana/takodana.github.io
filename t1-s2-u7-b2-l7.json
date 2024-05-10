@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What overarching theme does the second coming address according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Victory over sin",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Restoration of all things"
+      },
+      {
+        "id": "opt2",
+        "text": "Unification of all believers"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How does the second coming provide 'comfort' as mentioned in 1 Thessalonians 4:13-18?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By ensuring life after death",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By promising wealth in heaven"
+      },
+      {
+        "id": "opt2",
+        "text": "By establishing a new earthly order"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White emphasizes the second coming as a time when justice will finally ----.",
+    "options": [
+      "prevail",
+      "endure",
+      "begin"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "prevail"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the hope of the second coming teach us about God's character?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His faithfulness",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "His omnipotence"
+      },
+      {
+        "id": "opt2",
+        "text": "His creativity"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What role does the second coming play in resolving global issues like war and poverty?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It symbolizes the end of all evil",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It encourages human governments to act"
+      },
+      {
+        "id": "opt2",
+        "text": "It shifts focus to spiritual matters"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The great controversy theme suggests that the second coming will conclude the battle between ----.",
+    "options": [
+      "good and evil",
+      "churches",
+      "ideologies"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "good and evil"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Why is the anticipation of the second coming so important in Christian theology?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It fosters hope and perseverance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It keeps the church relevant"
+      },
+      {
+        "id": "opt2",
+        "text": "It encourages doctrinal purity"
+      }
+    ]
+  }
+]

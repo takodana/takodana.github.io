@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What significant historical event is linked to the spread of Protestantism in the lesson?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Crusades"
+      },
+      {
+        "id": "opt1",
+        "text": "The Reformation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The Renaissance"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "William Miller's impact on Protestant beliefs was profound. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Protestantism was said to have taken root in the ---- according to the study guide.",
+    "options": [
+      "New World",
+      "Old World",
+      "Eastern lands"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "New World"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the primary emotion associated with the second coming in the lesson?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Dread"
+      },
+      {
+        "id": "opt1",
+        "text": "Excitement"
+      },
+      {
+        "id": "opt2",
+        "text": "Joy",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Was the prediction of the second coming by William Miller accurate? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The lesson states that Christ's return is a --- that runs through the Bible.",
+    "options": [
+      "thread",
+      "river",
+      "path"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "thread"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to the guide, how should we prepare for the second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By fearing the future"
+      },
+      {
+        "id": "opt1",
+        "text": "By living in joy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "By ignoring predictions"
+      }
+    ]
+  }
+]

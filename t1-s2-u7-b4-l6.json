@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What aspect of Bible study did William Miller find most rewarding?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The discovery of hidden truths",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Regular reading"
+      },
+      {
+        "id": "opt2",
+        "text": "Discussion with others"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The symbols used in prophecy are meant to obscure the truth.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miller's study revealed a Christ who loved him more than he could ----.",
+    "options": [
+      "imagine",
+      "explain",
+      "fear"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "imagine"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What was a key tool for Miller's biblical interpretation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cross-referencing",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Prayer alone"
+      },
+      {
+        "id": "opt2",
+        "text": "Digital resources"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Miller did not consider the context of the verses he read.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Prophecy interpretation according to Miller should allow the Bible to ---- itself.",
+    "options": [
+      "explain",
+      "contradict",
+      "promote"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "explain"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Miller's approach teach us about the importance of?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Patience in study",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Speed in reading"
+      },
+      {
+        "id": "opt2",
+        "text": "Using many books"
+      }
+    ]
+  }
+]

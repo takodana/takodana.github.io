@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What year did William Miller predict Christ's return based on his study of prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "1844",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "1843"
+      },
+      {
+        "id": "opt2",
+        "text": "1831"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Did the Adventists initially interpret the sanctuary in Daniel 8:14 as earth?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The early Adventists believed Christ would return to ---- the earth.",
+    "options": [
+      "purify",
+      "cleanse",
+      "restore"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "purify"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What major doctrinal correction occurred after 1844?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sanctuary understanding",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Prophecy timeline"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the belief in Christ's return still a central Adventist teaching?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ's anointing by the Spirit marked Him as the ----.",
+    "options": [
+      "Messiah",
+      "Prophet",
+      "Savior"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Messiah"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which verse connects the anointing of Jesus with the fulfillment of time?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Mark 1:14-15",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Luke 4:18-19"
+      },
+      {
+        "id": "opt2",
+        "text": "John 1:41"
+      }
+    ]
+  }
+]

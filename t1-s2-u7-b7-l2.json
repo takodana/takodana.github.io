@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Ellen G. White, why did Miller suffer disappointment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Misinterpretation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Financial loss"
+      },
+      {
+        "id": "opt2",
+        "text": "Public criticism"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Did God have a purpose in allowing the Millerite movement's message?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The prophecy's importance lies in its ability to ---- the believers.",
+    "options": [
+      "purify",
+      "divert",
+      "confuse"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "purify"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What role does prophecy play in understanding Christ's divinity?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Essential",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Unnecessary"
+      },
+      {
+        "id": "opt2",
+        "text": "Minimal"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the heart of prophecy to test the worldliness of believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Prophecy reveals what is in the ---- of believers.",
+    "options": [
+      "hearts",
+      "minds",
+      "souls"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "hearts"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does prophecy aid in the plan of salvation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By revealing truth",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By providing history"
+      },
+      {
+        "id": "opt2",
+        "text": "By predicting disasters"
+      }
+    ]
+  }
+]

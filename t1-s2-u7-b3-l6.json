@@ -1,0 +1,152 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the belief in Christ's literal return impact a believer's life?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Increases complacency'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Enhances spiritual vigilance'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'Reduces moral responsibility'"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Believers will know the exact date of Christ's return. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The belief in the second coming encourages believers to live in ----.",
+    "options": [
+      "'fear'",
+      "'hope'",
+      "'isolation'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'hope'"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the primary reason for believers to maintain a state of readiness?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Fear of being left behind'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Hope of redemption'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'Desire to avoid judgment'"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The second coming is a metaphor for spiritual renewal. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Readiness for Christ's return is akin to keeping our lamps ----.",
+    "options": [
+      "'bright'",
+      "'full'",
+      "'lit'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'lit'"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the 'stay ready' philosophy imply about the nature of faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'It is static'"
+      },
+      {
+        "id": "opt1",
+        "text": "'It requires constant renewal'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'It is focused on fear'"
+      }
+    ]
+  }
+]

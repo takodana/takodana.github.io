@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What prophecy theme is emphasized in the lesson about the second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Joy and anticipation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Doom and destruction"
+      },
+      {
+        "id": "opt2",
+        "text": "Legalism and judgement"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is the second coming considered a minor theme in the Bible? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miller's teachings opened up ---- truths that remain relevant today.",
+    "options": [
+      "Bible",
+      "Church",
+      "Prophetic"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Bible"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to the lesson, what should believers feel towards Christ's second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Fear and dread"
+      },
+      {
+        "id": "opt1",
+        "text": "Hope and joy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Did William Miller's teachings eventually fade into obscurity? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The lesson describes the second coming as being filled with ---- for believers.",
+    "options": [
+      "joy",
+      "sorrow",
+      "fear"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "joy"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How many times is Christ's second coming mentioned in the New Testament?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Less than 200"
+      },
+      {
+        "id": "opt1",
+        "text": "More than 300",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "About 500"
+      }
+    ]
+  }
+]

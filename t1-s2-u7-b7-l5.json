@@ -1,0 +1,146 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What was a key misunderstanding in Miller's interpretation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Nature of the event",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Location of the event"
+      },
+      {
+        "id": "opt2",
+        "text": "Time of the event"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is the Adventist belief in the significance of prophecy based on Scripture?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Great Controversy points to a battle over ----.",
+    "options": [
+      "truth",
+      "morals",
+      "laws"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "truth"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Does prophecy impact the Adventist view of historical events?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Was Miller's disappointment God's way of purifying his followers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "1844 is significant in prophecy as the year of Christ's ---- in the heavenly sanctuary.",
+    "options": [
+      "entry",
+      "exit",
+      "visit"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "entry"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Does understanding prophecy help in discerning the spiritual state of believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  }
+]

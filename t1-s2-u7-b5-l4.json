@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the ultimate purpose of the prophecies in Daniel according to Seventh-Day Adventists?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To predict exact dates"
+      },
+      {
+        "id": "opt1",
+        "text": "To reveal God's plan",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To confuse the wicked"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Does the prophecy of the 70 weeks apply to the time after Christ according to the study?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Yes"
+      },
+      {
+        "id": "opt1",
+        "text": "No",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Partially"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Prophecies like Daniel 8:14 require a ---- reading to be understood.",
+    "options": [
+      "prayerful",
+      "careful",
+      "literal"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "careful"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How do Adventists view the relationship between prophecy and faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Prophecy strengthens faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Prophecy challenges faith"
+      },
+      {
+        "id": "opt2",
+        "text": "Prophecy replaces faith"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The study of prophetic timelines encourages what type of growth in believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Spiritual",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Intellectual"
+      },
+      {
+        "id": "opt2",
+        "text": "Emotional"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The 'cleansing of the sanctuary' symbolizes a cleansing in ----.",
+    "options": [
+      "heaven",
+      "earth",
+      "mankind"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heaven"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What was the error in Miller's initial interpretation of the 2,300 days?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Misdated the events"
+      },
+      {
+        "id": "opt1",
+        "text": "Misinterpreted the nature"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  }
+]

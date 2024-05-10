@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How did the early Adventists interpret the end of the 2",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "300 days?"
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's return"
+      },
+      {
+        "id": "opt2",
+        "text": "End of the world"
+      },
+      {
+        "id": "opt3",
+        "text": "Cleansing of the sanctuary",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What was the key error in the Millerite movement's interpretation of prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Date setting",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Sanctuary location"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The shift in understanding post-1844 was towards a heavenly ----.",
+    "options": [
+      "sanctuary",
+      "mission",
+      "community"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sanctuary"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Is the 2",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "300 days prophecy seen as literal years in Adventist theology?"
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Did the early Adventist mistake affect the church's fundamental beliefs?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The correct interpretation of the sanctuary as heavenly was pivotal for ---- theology.",
+    "options": [
+      "Adventist",
+      "Christian",
+      "Reform"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Adventist"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What role does prophecy play in Adventist belief?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Central",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Peripheral"
+      },
+      {
+        "id": "opt2",
+        "text": "Unimportant"
+      }
+    ]
+  }
+]

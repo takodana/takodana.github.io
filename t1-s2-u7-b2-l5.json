@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What personal impact does the hope of Jesus' second coming have on believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Increases faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Encourages ethical living"
+      },
+      {
+        "id": "opt2",
+        "text": "Promotes evangelism"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does Ellen G. White mean by 'the appearing of the great God and our Saviour Jesus Christ'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Jesus' visible return",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The spread of Christianity"
+      },
+      {
+        "id": "opt2",
+        "text": "A metaphor for spiritual awakening"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Paul's message to the Thessalonians about the second coming was intended to ---- them.",
+    "options": [
+      "comfort",
+      "educate",
+      "challenge"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "comfort"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Titus 2:11-14, what are we to deny while waiting for the blessed hope?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Worldly desires",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Personal ambitions"
+      },
+      {
+        "id": "opt2",
+        "text": "Secular jobs"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How does the second coming connect to the end of poverty and injustice?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It promises divine justice",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It encourages human efforts"
+      },
+      {
+        "id": "opt2",
+        "text": "It focuses on spiritual wealth"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The second coming is described as bringing an end to ---- and suffering.",
+    "options": [
+      "sickness",
+      "oppression",
+      "conflict"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sickness"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the ultimate hope tied to the second coming as taught in the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Eternal life with Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Rebuilding of earthly cities"
+      },
+      {
+        "id": "opt2",
+        "text": "Creation of new social systems"
+      }
+    ]
+  }
+]

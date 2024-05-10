@@ -1,0 +1,152 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What practical advice does Luther Warren give regarding readiness for the second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Predict the time'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Get ready and stay ready'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'Wait passively'"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The urgency of Christ's return compels us to constant readiness. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Being ready for Christ's coming involves examining our ----.",
+    "options": [
+      "'prophecies'",
+      "'hearts'",
+      "'actions'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'hearts'"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does constant readiness entail according to the Adventist perspective?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Living in fear'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Vigilant spiritual life'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'Isolation from the world'"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The message of Christ's return is only a symbolic representation. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The call to godly living is a response to the ---- of Christ's return.",
+    "options": [
+      "'certainty'",
+      "'imminence'",
+      "'mystery'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'imminence'"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the 'blazing light of the glory of Christ's return' symbolize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Judgment day'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Divine presence'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'Ultimate truth'"
+      }
+    ]
+  }
+]

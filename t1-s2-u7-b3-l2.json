@@ -1,0 +1,152 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Matthew 24:30, what will appear in the sky when Christ returns?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'A cross'"
+      },
+      {
+        "id": "opt1",
+        "text": "'The sign of the Son of Man'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'A full moon'"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Revelation 1:7 mentions that all kindreds of the earth shall wail because of Him. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Matthew 24:31 describes angels gathering His elect from the four ---- of the earth.",
+    "options": [
+      "'corners'",
+      "'nations'",
+      "'churches'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'corners'"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What role do angels play at Christ's second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Observers'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Messengers who gather the elect'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'To sound the trumpet'"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The gathering of the elect is a quiet, secretive event. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ's return is described as ---- in nature, not secretive or hidden.",
+    "options": [
+      "'glorious'",
+      "'mysterious'",
+      "'silent'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'glorious'"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What assurance do we receive from the loud trumpet sound?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Warning of impending doom'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Announcement of salvation'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'Signal of judgment'"
+      }
+    ]
+  }
+]

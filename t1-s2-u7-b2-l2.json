@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does 'the blessed hope' refer to in Christian theology?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The second coming of Jesus",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The creation of Earth"
+      },
+      {
+        "id": "opt2",
+        "text": "The promise of prosperity"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Why did the pilgrims regard the second coming as 'most auspicious'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It meant deliverance and restoration",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It promised wealth and power"
+      },
+      {
+        "id": "opt2",
+        "text": "It ensured earthly rule"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "John Wycliffe saw the second coming of Christ as the hope of the ----.",
+    "options": [
+      "church",
+      "faithful",
+      "nations"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "church"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What central message does Paul convey about the second coming in 1 Thessalonians 4:13-18?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Comfort each other with hope of resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Prepare for the end times"
+      },
+      {
+        "id": "opt2",
+        "text": "Maintain religious rituals"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White describes the second coming as what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The blessed hope",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "An uncertain event"
+      },
+      {
+        "id": "opt2",
+        "text": "A historical metaphor"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The second coming is eagerly awaited as it marks the end of ----.",
+    "options": [
+      "oppression",
+      "injustice",
+      "disparity"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "oppression"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What should Christians do in light of the second coming, according to Titus 2:11-14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Live godly lives",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Seek personal enlightenment"
+      },
+      {
+        "id": "opt2",
+        "text": "Disregard worldly affairs"
+      }
+    ]
+  }
+]

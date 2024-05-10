@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why is a correct understanding of prophetic symbolism important for our faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It enhances literal interpretation"
+      },
+      {
+        "id": "opt1",
+        "text": "It prepares us for future events",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It strengthens historical knowledge"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: William Miller's method involved using external commentaries extensively.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miller's method included reading no faster than he could ----.",
+    "options": [
+      "comprehend",
+      "note",
+      "compare"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "comprehend"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the guide suggest about beasts in prophecy according to Daniel 7:17-23?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They represent events"
+      },
+      {
+        "id": "opt1",
+        "text": "They represent kings or kingdoms",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They symbolize natural disasters"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Every prophetic symbol is explained by the Bible itself.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "As Miller discovered, a day in prophecy represents a ---- year.",
+    "options": [
+      "literal",
+      "prophetic",
+      "calendrical"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "prophetic"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is essential in interpreting the prophecies according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Knowledge of history"
+      },
+      {
+        "id": "opt1",
+        "text": "Understanding of symbols",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Fluency in ancient languages"
+      }
+    ]
+  }
+]

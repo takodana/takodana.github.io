@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What role did the United States play in Protestantism according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It was a minor player"
+      },
+      {
+        "id": "opt1",
+        "text": "It was a major center",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It opposed its spread"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The second coming is a joyful event for all humanity. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The guide mentions that one scholar estimated ---- references to Christ's return in the Old Testament.",
+    "options": [
+      "1845",
+      "3000",
+      "1500"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "1845"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the key message about the second coming from the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is inevitable"
+      },
+      {
+        "id": "opt1",
+        "text": "It is doubtful"
+      },
+      {
+        "id": "opt2",
+        "text": "It should inspire joy",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Miller's preaching about the second coming was solely based on his interpretation. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Believers have ---- for the second coming of Christ according to Isaiah 25:9.",
+    "options": [
+      "waited",
+      "hoped",
+      "prayed"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "waited"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What scholarly estimate is given about the New Testament references to the second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "About 300",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Exactly 1500"
+      },
+      {
+        "id": "opt2",
+        "text": "More than 2000"
+      }
+    ]
+  }
+]

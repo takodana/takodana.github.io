@@ -1,0 +1,165 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the duration from the decree to the end of the 2",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "300 days in prophetic years?"
+      },
+      {
+        "id": "opt1",
+        "text": "1"
+      },
+      {
+        "id": "opt2",
+        "text": "810 years"
+      },
+      {
+        "id": "opt3",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Does the 2",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "300 days prophecy connect to the message of Christ's ministry?"
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In the prophecy, the earth was initially thought to be the ---- to be cleansed.",
+    "options": [
+      "sanctuary",
+      "temple",
+      "church"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sanctuary"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What misconception did early Adventists have about the prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Christ's return date"
+      },
+      {
+        "id": "opt1",
+        "text": "Location of the sanctuary"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How did the early Adventists respond to the 1844 disappointment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Adjusting doctrines",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Abandoning faith"
+      },
+      {
+        "id": "opt2",
+        "text": "Strengthening community"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The prophecy study led to a new understanding of the ---- in heaven.",
+    "options": [
+      "sanctuary",
+      "kingdom",
+      "rule"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sanctuary"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is a central theme of the prophecy of Daniel 8:14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sanctuary's cleansing",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's second coming"
+      },
+      {
+        "id": "opt2",
+        "text": "Kingdom of heaven"
+      }
+    ]
+  }
+]

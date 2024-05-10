@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to the study guide, what does the 70 weeks in Daniel 9:27 represent?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "An era"
+      },
+      {
+        "id": "opt1",
+        "text": "An exclusive period for the Jews",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A literal number of weeks"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does the anointing of Jesus signify in prophetic terms?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The fulfillment of time",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The beginning of a new era"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Jesus preached that 'the time is ----' referring to the fulfillment of prophecy.",
+    "options": [
+      "fulfilled",
+      "extended",
+      "completed"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fulfilled"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What event in A.D. 31 is significant in the prophecy of Daniel 9?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Jesus' crucifixion",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Jesus' baptism"
+      },
+      {
+        "id": "opt2",
+        "text": "Jesus' resurrection"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How long after Jesus' baptism was He crucified?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Three and a half years",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Four years"
+      },
+      {
+        "id": "opt2",
+        "text": "Two years"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The offerings and sacrifices ceased when type met ----.",
+    "options": [
+      "antitype",
+      "example",
+      "symbol"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "antitype"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the cessation of the offerings symbolize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "End of ceremonial law",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Shift in worship"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above"
+      }
+    ]
+  }
+]

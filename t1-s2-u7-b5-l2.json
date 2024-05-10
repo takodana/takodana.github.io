@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the 'command to restore and build Jerusalem' in Daniel 9:25 signify?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A literal command",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A spiritual metaphor"
+      },
+      {
+        "id": "opt2",
+        "text": "An allegorical reference"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The 70 weeks prophecy is directly linked to which other prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "2300 days",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "1290 days"
+      },
+      {
+        "id": "opt2",
+        "text": "1335 days"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The angel instructed Daniel to 'understand the ----'.",
+    "options": [
+      "vision",
+      "dreams",
+      "prophecies"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "vision"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What role does the interpretation of prophecy play in Adventist doctrine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Central role",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Minor role"
+      },
+      {
+        "id": "opt2",
+        "text": "No role"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the 'cleansing of the sanctuary' a past, present, or future event according to Adventist belief?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Past"
+      },
+      {
+        "id": "opt1",
+        "text": "Present"
+      },
+      {
+        "id": "opt2",
+        "text": "Future",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The 70 weeks are 'cut off' from the ---- days.",
+    "options": [
+      "2300",
+      "3500",
+      "1800"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "2300"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does the prophecy of the 70 weeks serve as a messianic prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Predicts Jesus' death"
+      },
+      {
+        "id": "opt1",
+        "text": "Foretells Jesus' birth"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  }
+]

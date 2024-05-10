@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What principle does Isaiah 28:9-10 highlight about Bible interpretation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Learn progressively"
+      },
+      {
+        "id": "opt1",
+        "text": "Compare different texts",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Focus on New Testament"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to Proverbs 8:8-9, what characteristic should Bible teachings have?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Complexity"
+      },
+      {
+        "id": "opt1",
+        "text": "Clarity",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Symbolism"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "John 16:13 teaches that the Spirit of truth will guide us into all ----.",
+    "options": [
+      "truth",
+      "history",
+      "mystery"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "truth"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is emphasized by 2 Peter 1:19-21 about the prophecy's origin?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Human intuition"
+      },
+      {
+        "id": "opt1",
+        "text": "God's revelation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Scientific analysis"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Daniel 1:17 shows that God gives knowledge and understanding of all visions and dreams.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The symbols in prophetic books, like beasts, represent ----.",
+    "options": [
+      "kings",
+      "events",
+      "ideals"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "kings"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What key aspect of prophecy is highlighted by Daniel 2:45?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The clarity of interpretation"
+      },
+      {
+        "id": "opt1",
+        "text": "The importance of dreams"
+      },
+      {
+        "id": "opt2",
+        "text": "The symbolic nature",
+        "isCorrect": true
+      }
+    ]
+  }
+]

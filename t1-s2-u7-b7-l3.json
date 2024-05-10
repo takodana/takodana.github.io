@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the ultimate test of prophecy according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Love for Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Church attendance"
+      },
+      {
+        "id": "opt2",
+        "text": "Bible knowledge"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Can misunderstanding prophecy still fulfill God's purposes?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miller's disappointment was due to his ---- of prophecy.",
+    "options": [
+      "misinterpretation",
+      "understanding",
+      "appreciation"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "misinterpretation"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does prophecy reveal about our affections?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are tested",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are unimportant"
+      },
+      {
+        "id": "opt2",
+        "text": "They are private"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is every believer's response to prophecy a test of their spiritual state?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The message of prophecy is intended to ---- the church.",
+    "options": [
+      "purify",
+      "expand",
+      "decorate"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "purify"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Why is the correct understanding of Daniel 9:24-27 significant?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It confirms Bible accuracy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It names the Messiah"
+      },
+      {
+        "id": "opt2",
+        "text": "It predicts the end times"
+      }
+    ]
+  }
+]

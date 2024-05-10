@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What do the prophecies of Daniel reveal about God's control over history?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Foreknowledge only"
+      },
+      {
+        "id": "opt1",
+        "text": "Direct control",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Limited influence"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to Daniel 9:24-27, what is meant by 'Seventy weeks are determined'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Literal days"
+      },
+      {
+        "id": "opt1",
+        "text": "Prophetic symbolism",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Physical weeks"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The prophecy of ---- weeks in Daniel is symbolic of longer time periods.",
+    "options": [
+      "seventy",
+      "forty",
+      "ninety"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "seventy"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What event marks the end of the 2,300 days according to Daniel 8:14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Messiah's birth"
+      },
+      {
+        "id": "opt1",
+        "text": "The crucifixion"
+      },
+      {
+        "id": "opt2",
+        "text": "The cleansing of the sanctuary",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Miller's interpretation of the 2,300 days was based on what type of biblical analysis?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Literal interpretation"
+      },
+      {
+        "id": "opt1",
+        "text": "Symbolic interpretation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Numerological analysis"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "William Miller believed that the cleansing of the sanctuary referred to the ---- of the earth by fire.",
+    "options": [
+      "purification",
+      "destruction",
+      "renewal"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "purification"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does the prophecy of Daniel 8:14 influence our understanding of divine judgment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Shows a timeline",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Indicates methods"
+      },
+      {
+        "id": "opt2",
+        "text": "Reveals purposes"
+      }
+    ]
+  }
+]

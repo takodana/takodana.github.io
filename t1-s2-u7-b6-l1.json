@@ -1,0 +1,166 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "When was the decree issued by Artaxerxes, according to Ezra 7:7-13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "457 B.C.",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "483 B.C."
+      },
+      {
+        "id": "opt2",
+        "text": "424 B.C."
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does the decree in Ezra 7 signify in prophetic timeline?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Start of 2",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "300 days"
+      },
+      {
+        "id": "opt2",
+        "text": "End of 70 weeks"
+      },
+      {
+        "id": "opt3",
+        "text": "Both of the above"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "From the decree to Messiah's anointing is prophesied as ---- weeks in Daniel 9:25.",
+    "options": [
+      "sixty-nine",
+      "seventy",
+      "seventy-two"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sixty-nine"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What event marked the end of the 69 weeks, according to Acts 10:38?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Christ's baptism",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's birth"
+      },
+      {
+        "id": "opt2",
+        "text": "Christ's resurrection"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "When was Jesus crucified in relation to the prophetic timeline?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A.D. 31",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A.D. 27"
+      },
+      {
+        "id": "opt2",
+        "text": "A.D. 34"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The prophecy in Daniel 9:27 ends with the rejection of the gospel by the ----.",
+    "options": [
+      "Sanhedrin",
+      "Pharisees",
+      "Disciples"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Sanhedrin"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What year did the 70-week prophecy conclude?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A.D. 34",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A.D. 31"
+      },
+      {
+        "id": "opt2",
+        "text": "A.D. 27"
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the central theme of Scripture according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The creation story"
+      },
+      {
+        "id": "opt1",
+        "text": "The second coming of Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The exodus from Egypt"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is every New Testament book except four mentioning Christ's second coming? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "William Miller was a ---- farmer who began preaching about the second coming.",
+    "options": [
+      "Baptist",
+      "Methodist",
+      "Catholic"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Baptist"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which country did Protestantism take root according to the lesson?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "England"
+      },
+      {
+        "id": "opt1",
+        "text": "Germany"
+      },
+      {
+        "id": "opt2",
+        "text": "United States",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Bible has how many references to Christ's second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Over 1500"
+      },
+      {
+        "id": "opt1",
+        "text": "Exactly 1845",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "More than 3000"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The second coming of Jesus is a ---- thread that runs through the Bible's sacred pages.",
+    "options": [
+      "golden",
+      "silver",
+      "bronze"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "golden"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What effect did William Miller's movement have?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It led to a great disappointment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It was quickly forgotten"
+      },
+      {
+        "id": "opt2",
+        "text": "It strengthened church doctrines"
+      }
+    ]
+  }
+]

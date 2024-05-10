@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why is the second coming termed as 'the blessed hope'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It brings final redemption",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is a beautiful concept"
+      },
+      {
+        "id": "opt2",
+        "text": "It will be widely celebrated"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "In the context of suffering, how does the second coming bring hope?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By ending all earthly pain",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By shifting focus to the afterlife"
+      },
+      {
+        "id": "opt2",
+        "text": "By minimizing current troubles"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The anticipation of Christ's return fills believers with ----.",
+    "options": [
+      "hope",
+      "desire",
+      "anticipation"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "hope"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What role does the second coming play in resolving 'conflict and war'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It envisions a peaceful kingdom",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It encourages diplomatic efforts"
+      },
+      {
+        "id": "opt2",
+        "text": "It supports military interventions"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to the guide, why is the second coming essential for Christian faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It assures us of God's sovereignty",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It confirms biblical prophecies"
+      },
+      {
+        "id": "opt2",
+        "text": "It provides moral guidance"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The promise of a new world at Jesus' return gives hope for an end to ----.",
+    "options": [
+      "injustice",
+      "discomfort",
+      "inequality"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "injustice"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does Paul comfort the Thessalonian Christians about those who have died before Christ's return?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By promising their resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By explaining they are at peace"
+      },
+      {
+        "id": "opt2",
+        "text": "By stating they are watching over us"
+      }
+    ]
+  }
+]

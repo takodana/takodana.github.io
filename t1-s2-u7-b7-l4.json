@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What central theme does the 2",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "300-day prophecy highlight?"
+      },
+      {
+        "id": "opt1",
+        "text": "Judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Creation"
+      },
+      {
+        "id": "opt3",
+        "text": "Fall of Man"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Miller's teachings were based on a misunderstanding of what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Prophecy time",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's nature"
+      },
+      {
+        "id": "opt2",
+        "text": "Salvation method"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Millerite movement was particularly focused on the prophecy of ----.",
+    "options": [
+      "1844",
+      "Christ's return",
+      "Creation"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "1844"
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "Miller's efforts, though flawed, were driven by ---- intentions.",
+    "options": [
+      "good",
+      "selfish",
+      "uncertain"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "good"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Does prophecy serve to prepare the world for Christ's return?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "Was the primary error of the Millerites theological or interpretative?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Interpretative",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Theological"
+      },
+      {
+        "id": "opt2",
+        "text": "Both"
+      }
+    ]
+  },
+  {
+    "id": "fib7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 7,
+    "question": "The great controversy is ultimately a controversy over ----.",
+    "options": [
+      "truth",
+      "land",
+      "power"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "truth"
+      }
+    ]
+  }
+]

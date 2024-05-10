@@ -1,0 +1,152 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What imagery does Ellen G. White use to describe the second coming in 'The Great Controversy'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'A king on his throne'"
+      },
+      {
+        "id": "opt1",
+        "text": "'A bridegroom'"
+      },
+      {
+        "id": "opt2",
+        "text": "'A thief'",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The second coming is a joyful hope for believers, according to Ellen G. White. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White emphasizes that the second advent is the 'keynote' of the ----.",
+    "options": [
+      "'Bible'",
+      "'hymns'",
+      "'sermons'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'Bible'"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How is the second coming described as a 'precious, joy-inspiring hope'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'It ends all suffering'"
+      },
+      {
+        "id": "opt1",
+        "text": "'It fulfills God's promises'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "'It marks the end of sin'"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White's depiction of the second coming instills fear and dread. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ's return is essential to 'bring home again His ----.'",
+    "options": [
+      "'banished'",
+      "'lost'",
+      "'faithful'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "'banished'"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the reference to 'the region and shadow of death' signify in the context of the second coming?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "'Life's hardships'"
+      },
+      {
+        "id": "opt1",
+        "text": "'Earthly existence'"
+      },
+      {
+        "id": "opt2",
+        "text": "'Spiritual darkness'",
+        "isCorrect": true
+      }
+    ]
+  }
+]

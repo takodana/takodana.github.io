@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What fundamental approach to Bible study did William Miller follow?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Reading rapidly"
+      },
+      {
+        "id": "opt1",
+        "text": "Comparing scripture with scripture",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Isolating verses"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: William Miller's discovery about Christ's second coming was based on a single verse interpretation.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miller began his study by reading from Genesis and proceeded no faster than he could ---- the passages.",
+    "options": [
+      "understand",
+      "translate",
+      "recite"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "understand"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does Ephesians 5:22-32 use as a symbol for the church?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A bride",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A city"
+      },
+      {
+        "id": "opt2",
+        "text": "A lamp"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The Holy Spirit's role in opening understanding of the Word is highlighted by William Miller's study method.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The prophecy's symbolic nature requires the Bible to explain ----.",
+    "options": [
+      "itself",
+      "society",
+      "future"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "itself"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What discovery startled William Miller about the timing of Christ's return?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Exact date"
+      },
+      {
+        "id": "opt1",
+        "text": "General timeframe",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Symbolic interpretation"
+      }
+    ]
+  }
+]

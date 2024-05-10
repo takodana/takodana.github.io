@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the concept of the investigative judgment entail regarding future events?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Assessment of lives",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Return of Christ"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is the sanctuary doctrine integral to understanding Christ's current work?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The cleansing of the heavenly sanctuary is linked to ----.",
+    "options": [
+      "Christ's advocacy",
+      "Earth's renewal",
+      "Human redemption"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ's advocacy"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Does the sanctuary cleansing imply a judgment period?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What future event does the sanctuary cleansing foreshadow?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Christ's return",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "New Earth"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Adventist eschatology places emphasis on Christ's ---- in the heavenly sanctuary.",
+    "options": [
+      "work",
+      "appearance",
+      "teachings"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "work"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the ultimate significance of the investigative judgment for believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Preparation for eternity",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Confirmation of faith"
+      },
+      {
+        "id": "opt2",
+        "text": "Both of the above"
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is a common misconception about the 2,300 days prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is about earthly events",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is easily understood"
+      },
+      {
+        "id": "opt2",
+        "text": "It has no spiritual significance"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How does understanding the 70 weeks and 2,300 days enrich our faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By providing clarity"
+      },
+      {
+        "id": "opt1",
+        "text": "By challenging our beliefs"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Prophecy study should lead to a deeper ---- with God.",
+    "options": [
+      "conflict",
+      "relationship",
+      "misunderstanding"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What aspect of God's character is highlighted by the prophecies in Daniel?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His justice",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "His mystery"
+      },
+      {
+        "id": "opt2",
+        "text": "His omnipotence"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How important is the accuracy of biblical prophecy to Adventist belief?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Somewhat important"
+      },
+      {
+        "id": "opt1",
+        "text": "Very important",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Not important"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The cleansing mentioned in Daniel 8:14 refers to a cleansing in the ----.",
+    "options": [
+      "church",
+      "sanctuary",
+      "community"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sanctuary"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What lesson can be drawn from the error in Miller's interpretation of the 2,300 days?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Human fallibility"
+      },
+      {
+        "id": "opt1",
+        "text": "The need for humility"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  }
+]
