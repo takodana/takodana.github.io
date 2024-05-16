@@ -10,16 +10,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Increases complacency'"
+        "text": "Increases complacency"
       },
       {
         "id": "opt1",
-        "text": "'Enhances spiritual vigilance'",
+        "text": "Enhances spiritual vigilance",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'Reduces moral responsibility'"
+        "text": "Reduces moral responsibility"
       }
     ]
   },
@@ -38,7 +38,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -51,14 +52,14 @@
     "questionNumber": 3,
     "question": "The belief in the second coming encourages believers to live in ----.",
     "options": [
-      "'fear'",
-      "'hope'",
-      "'isolation'"
+      "fear",
+      "hope",
+      "isolation"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'hope'"
+        "blankItem": "hope"
       }
     ]
   },
@@ -73,16 +74,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Fear of being left behind'"
+        "text": "Fear of being left behind"
       },
       {
         "id": "opt1",
-        "text": "'Hope of redemption'",
+        "text": "Hope of redemption",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'Desire to avoid judgment'"
+        "text": "Desire to avoid judgment"
       }
     ]
   },
@@ -101,7 +102,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -114,14 +116,14 @@
     "questionNumber": 6,
     "question": "Readiness for Christ's return is akin to keeping our lamps ----.",
     "options": [
-      "'bright'",
-      "'full'",
-      "'lit'"
+      "bright",
+      "full",
+      "lit"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'lit'"
+        "blankItem": "lit"
       }
     ]
   },
@@ -136,16 +138,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'It is static'"
+        "text": "It is static"
       },
       {
         "id": "opt1",
-        "text": "'It requires constant renewal'",
+        "text": "It requires constant renewal",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'It is focused on fear'"
+        "text": "It is focused on fear"
       }
     ]
   }

@@ -10,16 +10,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'As a thief in the night'",
+        "text": "As a thief in the night",
         "isCorrect": true
       },
       {
         "id": "opt1",
-        "text": "'As a warrior'"
+        "text": "As a warrior"
       },
       {
         "id": "opt2",
-        "text": "'With a gentle whisper'"
+        "text": "With a gentle whisper"
       }
     ]
   },
@@ -34,7 +34,8 @@
     "options": [
       {
         "id": "opt0",
-        "text": "TRUE"
+        "text": "TRUE",
+        "isCorrect": true
       },
       {
         "id": "opt1",
@@ -51,14 +52,14 @@
     "questionNumber": 3,
     "question": "1 Thessalonians 5:4 mentions that we are not in ----, that the day should overtake us as a thief.",
     "options": [
-      "'darkness'",
-      "'doubt'",
-      "'fear'"
+      "darkness",
+      "doubt",
+      "fear"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'darkness'"
+        "blankItem": "darkness"
       }
     ]
   },
@@ -73,16 +74,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'We can predict the exact time'"
+        "text": "We can predict the exact time"
       },
       {
         "id": "opt1",
-        "text": "'We should be prepared and aware'",
+        "text": "We should be prepared and aware",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'It is inevitable but unpredictable'"
+        "text": "It is inevitable but unpredictable"
       }
     ]
   },
@@ -101,7 +102,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -114,14 +116,14 @@
     "questionNumber": 6,
     "question": "The return of Christ is meant to bring ---- to those waiting for Him.",
     "options": [
-      "'fear'",
-      "'salvation'",
-      "'judgment'"
+      "fear",
+      "salvation",
+      "judgment"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'salvation'"
+        "blankItem": "salvation"
       }
     ]
   },
@@ -136,16 +138,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'It is secretive'"
+        "text": "It is secretive"
       },
       {
         "id": "opt1",
-        "text": "'It is sudden and unexpected'",
+        "text": "It is sudden and unexpected",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'It is frightening'"
+        "text": "It is frightening"
       }
     ]
   }

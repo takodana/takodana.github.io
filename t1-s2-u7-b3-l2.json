@@ -10,16 +10,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'A cross'"
+        "text": "A cross"
       },
       {
         "id": "opt1",
-        "text": "'The sign of the Son of Man'",
+        "text": "The sign of the Son of Man",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'A full moon'"
+        "text": "A full moon"
       }
     ]
   },
@@ -34,7 +34,8 @@
     "options": [
       {
         "id": "opt0",
-        "text": "TRUE"
+        "text": "TRUE",
+        "isCorrect": true
       },
       {
         "id": "opt1",
@@ -51,14 +52,14 @@
     "questionNumber": 3,
     "question": "Matthew 24:31 describes angels gathering His elect from the four ---- of the earth.",
     "options": [
-      "'corners'",
-      "'nations'",
-      "'churches'"
+      "corners",
+      "nations",
+      "churches"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'corners'"
+        "blankItem": "corners"
       }
     ]
   },
@@ -73,16 +74,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Observers'"
+        "text": "Observers"
       },
       {
         "id": "opt1",
-        "text": "'Messengers who gather the elect'",
+        "text": "Messengers who gather the elect",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'To sound the trumpet'"
+        "text": "To sound the trumpet"
       }
     ]
   },
@@ -101,7 +102,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -114,14 +116,14 @@
     "questionNumber": 6,
     "question": "Christ's return is described as ---- in nature, not secretive or hidden.",
     "options": [
-      "'glorious'",
-      "'mysterious'",
-      "'silent'"
+      "glorious",
+      "mysterious",
+      "silent"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'glorious'"
+        "blankItem": "glorious"
       }
     ]
   },
@@ -136,16 +138,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Warning of impending doom'"
+        "text": "Warning of impending doom"
       },
       {
         "id": "opt1",
-        "text": "'Announcement of salvation'",
+        "text": "Announcement of salvation",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'Signal of judgment'"
+        "text": "Signal of judgment"
       }
     ]
   }

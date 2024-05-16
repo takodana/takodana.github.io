@@ -10,15 +10,15 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'A king on his throne'"
+        "text": "A king on his throne"
       },
       {
         "id": "opt1",
-        "text": "'A bridegroom'"
+        "text": "A bridegroom"
       },
       {
         "id": "opt2",
-        "text": "'A thief'",
+        "text": "A thief",
         "isCorrect": true
       }
     ]
@@ -34,7 +34,8 @@
     "options": [
       {
         "id": "opt0",
-        "text": "TRUE"
+        "text": "TRUE",
+        "isCorrect": true
       },
       {
         "id": "opt1",
@@ -51,14 +52,14 @@
     "questionNumber": 3,
     "question": "Ellen G. White emphasizes that the second advent is the 'keynote' of the ----.",
     "options": [
-      "'Bible'",
-      "'hymns'",
-      "'sermons'"
+      "Bible",
+      "hymns",
+      "sermons"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'Bible'"
+        "blankItem": "Bible"
       }
     ]
   },
@@ -73,16 +74,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'It ends all suffering'"
+        "text": "It ends all suffering"
       },
       {
         "id": "opt1",
-        "text": "'It fulfills God's promises'",
+        "text": "It fulfills God's promises",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'It marks the end of sin'"
+        "text": "It marks the end of sin"
       }
     ]
   },
@@ -101,7 +102,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -114,14 +116,14 @@
     "questionNumber": 6,
     "question": "Christ's return is essential to 'bring home again His ----.'",
     "options": [
-      "'banished'",
-      "'lost'",
-      "'faithful'"
+      "banished",
+      "lost",
+      "faithful"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'banished'"
+        "blankItem": "banished"
       }
     ]
   },
@@ -136,15 +138,15 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Life's hardships'"
+        "text": "Life's hardships"
       },
       {
         "id": "opt1",
-        "text": "'Earthly existence'"
+        "text": "Earthly existence"
       },
       {
         "id": "opt2",
-        "text": "'Spiritual darkness'",
+        "text": "Spiritual darkness",
         "isCorrect": true
       }
     ]

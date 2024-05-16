@@ -10,16 +10,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'It is selective'"
+        "text": "It is selective"
       },
       {
         "id": "opt1",
-        "text": "'It is unequivocal'",
+        "text": "It is unequivocal",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'It is mysterious'"
+        "text": "It is mysterious"
       }
     ]
   },
@@ -38,7 +38,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -51,14 +52,14 @@
     "questionNumber": 3,
     "question": "Ellen G. White describes Christ's return as a ---- that completes redemption.",
     "options": [
-      "'mystery'",
-      "'process'",
-      "'promise'"
+      "mystery",
+      "process",
+      "promise"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'promise'"
+        "blankItem": "promise"
       }
     ]
   },
@@ -73,16 +74,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Fear of the unknown'"
+        "text": "Fear of the unknown"
       },
       {
         "id": "opt1",
-        "text": "'Hope of deliverance'",
+        "text": "Hope of deliverance",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'Anxiety about judgment'"
+        "text": "Anxiety about judgment"
       }
     ]
   },
@@ -101,7 +102,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -114,14 +116,14 @@
     "questionNumber": 6,
     "question": "The 'joy-inspiring hope' of Christ's return impacts believers by fostering a spirit of ----.",
     "options": [
-      "'dread'",
-      "'anticipation'",
-      "'resignation'"
+      "dread",
+      "anticipation",
+      "resignation"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'anticipation'"
+        "blankItem": "anticipation"
       }
     ]
   },
@@ -136,16 +138,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'The unpredictability of life'"
+        "text": "The unpredictability of life"
       },
       {
         "id": "opt1",
-        "text": "'The certainty of God's promises'",
+        "text": "The certainty of God's promises",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'The fear of final judgment'"
+        "text": "The fear of final judgment"
       }
     ]
   }

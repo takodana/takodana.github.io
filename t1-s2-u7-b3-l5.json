@@ -10,16 +10,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Predict the time'"
+        "text": "Predict the time"
       },
       {
         "id": "opt1",
-        "text": "'Get ready and stay ready'",
+        "text": "Get ready and stay ready",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'Wait passively'"
+        "text": "Wait passively"
       }
     ]
   },
@@ -34,7 +34,8 @@
     "options": [
       {
         "id": "opt0",
-        "text": "TRUE"
+        "text": "TRUE",
+        "isCorrect": true
       },
       {
         "id": "opt1",
@@ -51,14 +52,14 @@
     "questionNumber": 3,
     "question": "Being ready for Christ's coming involves examining our ----.",
     "options": [
-      "'prophecies'",
-      "'hearts'",
-      "'actions'"
+      "prophecies",
+      "hearts",
+      "actions"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'hearts'"
+        "blankItem": "hearts"
       }
     ]
   },
@@ -73,16 +74,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Living in fear'"
+        "text": "Living in fear"
       },
       {
         "id": "opt1",
-        "text": "'Vigilant spiritual life'",
+        "text": "Vigilant spiritual life",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'Isolation from the world'"
+        "text": "Isolation from the world"
       }
     ]
   },
@@ -101,7 +102,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -114,14 +116,14 @@
     "questionNumber": 6,
     "question": "The call to godly living is a response to the ---- of Christ's return.",
     "options": [
-      "'certainty'",
-      "'imminence'",
-      "'mystery'"
+      "certainty",
+      "imminence",
+      "mystery"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'imminence'"
+        "blankItem": "imminence"
       }
     ]
   },
@@ -136,16 +138,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Judgment day'"
+        "text": "Judgment day"
       },
       {
         "id": "opt1",
-        "text": "'Divine presence'",
+        "text": "Divine presence",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'Ultimate truth'"
+        "text": "Ultimate truth"
       }
     ]
   }

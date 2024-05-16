@@ -10,16 +10,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Like lightning visible from east to west'",
+        "text": "Like lightning visible from east to west",
         "isCorrect": true
       },
       {
         "id": "opt1",
-        "text": "'Silent and unnoticed'"
+        "text": "Silent and unnoticed"
       },
       {
         "id": "opt2",
-        "text": "'Only visible to believers'"
+        "text": "Only visible to believers"
       }
     ]
   },
@@ -38,7 +38,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -51,14 +52,14 @@
     "questionNumber": 3,
     "question": "According to Acts 1:9-11, Christ's return will be ----.",
     "options": [
-      "'visible'",
-      "'audible'",
-      "'secret'"
+      "visible",
+      "audible",
+      "secret"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'visible'"
+        "blankItem": "visible"
       }
     ]
   },
@@ -73,16 +74,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Universality of His return'",
+        "text": "Universality of His return",
         "isCorrect": true
       },
       {
         "id": "opt1",
-        "text": "'Limited visibility'"
+        "text": "Limited visibility"
       },
       {
         "id": "opt2",
-        "text": "'Spiritual metaphor'"
+        "text": "Spiritual metaphor"
       }
     ]
   },
@@ -101,7 +102,8 @@
       },
       {
         "id": "opt1",
-        "text": "FALSE"
+        "text": "FALSE",
+        "isCorrect": true
       }
     ]
   },
@@ -114,14 +116,14 @@
     "questionNumber": 6,
     "question": "The trumpet sound announcing Christ's return will be heard by ----.",
     "options": [
-      "'every ear'",
-      "'only the faithful'",
-      "'the deceased'"
+      "every ear",
+      "only the faithful",
+      "the deceased"
     ],
     "blanks": [
       {
         "position": 0,
-        "blankItem": "'every ear'"
+        "blankItem": "every ear"
       }
     ]
   },
@@ -136,16 +138,16 @@
     "options": [
       {
         "id": "opt0",
-        "text": "'Only a few need to prepare'"
+        "text": "Only a few need to prepare"
       },
       {
         "id": "opt1",
-        "text": "'Everyone must be ready'",
+        "text": "Everyone must be ready",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "'It's symbolic and not literal'"
+        "text": "It's symbolic and not literal"
       }
     ]
   }
