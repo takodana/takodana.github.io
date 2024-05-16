@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "When Jesus returns, what is the fate of all humanity according to Revelation 22:10-12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They will be given a second chance"
+      },
+      {
+        "id": "opt1",
+        "text": "They will be judged",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They will be annihilated"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Christ comes to give out His final rewards. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Since Christ comes to give out His final rewards, there must be a ---- before that.",
+    "options": [
+      "resurrection",
+      "judgment",
+      "celebration"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "judgment"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What happens when Christ returns, according to Revelation 22:10-12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "There is no second chance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "There is a second chance"
+      },
+      {
+        "id": "opt2",
+        "text": "Everyone will be saved"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Every human being has had sufficient information to make their final decision. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Every human being will make their final, ---- decision for or against Christ.",
+    "options": [
+      "temporary",
+      "irrevocable",
+      "partial"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "irrevocable"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "When does probation close according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "At the resurrection"
+      },
+      {
+        "id": "opt1",
+        "text": "At the second coming"
+      },
+      {
+        "id": "opt2",
+        "text": "When the cases of those who have professed to be followers of Christ have been examined and decided",
+        "isCorrect": true
+      }
+    ]
+  }
+]

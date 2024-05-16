@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the term 'Most Holy Place' signify about the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's the center of God's presence",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It's just a part of heaven"
+      },
+      {
+        "id": "opt2",
+        "text": "It's an inaccessible area"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Christ entered the Most Holy Place only once. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Christ's entry into heaven was as a ---- for us.",
+    "options": [
+      "forerunner",
+      "pioneer",
+      "leader"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "forerunner"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the intercession of Christ involve according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Mediating for us",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Recording sins"
+      },
+      {
+        "id": "opt2",
+        "text": "Observing faith"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Christ's work in heaven is to complete the work started on Earth. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The heavenly sanctuary is where we see the light from ----.",
+    "options": [
+      "Calvary",
+      "God",
+      "the stars"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Calvary"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Hebrews 6:20 tell us about our role in relation to Christ?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "We should follow Him",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "We should worship Him"
+      },
+      {
+        "id": "opt2",
+        "text": "We should fear Him"
+      }
+    ]
+  }
+]

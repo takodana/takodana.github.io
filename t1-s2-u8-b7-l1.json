@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In the judgment, what does Jesus show to claim forgiveness for His people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His wounded hands",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "His robe of righteousness"
+      },
+      {
+        "id": "opt2",
+        "text": "His perfect life"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to Ellen G. White, what should lead to humility and deep searching of heart?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Viewing Christ's spotless character",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Reading the Bible"
+      },
+      {
+        "id": "opt2",
+        "text": "Attending church"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Christ alone can make an effectual ---- in our behalf.",
+    "options": [
+      "plea",
+      "case",
+      "argument"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "plea"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does Christ use to silence the accuser of His people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Our good works"
+      },
+      {
+        "id": "opt1",
+        "text": "His own merits",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The angels' testimony"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to Ellen G. White, we are living in the great day of ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Atonement",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Judgment"
+      },
+      {
+        "id": "opt2",
+        "text": "Salvation"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The great day of atonement requires us to ---- our souls by repentance and humility.",
+    "options": [
+      "afflict",
+      "comfort",
+      "praise"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "afflict"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What should we have to be retained in the book of life?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sorrow for sin and true repentance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Perfect obedience"
+      },
+      {
+        "id": "opt2",
+        "text": "Sacrificial offerings"
+      }
+    ]
+  }
+]

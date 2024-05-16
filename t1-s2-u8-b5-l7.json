@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What ultimate hope does Jesus' role as High Priest give us according to Hebrews 7:25?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Complete salvation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Temporary relief"
+      },
+      {
+        "id": "opt2",
+        "text": "Partial forgiveness"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Jesus' sacrifice and intercession are separate aspects of His work.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Jesus saves us completely from the ---- of sin (Hebrews 7:25).",
+    "options": [
+      "penalty",
+      "power",
+      "both"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "both"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the continual presence of God's law in the heavenly sanctuary imply?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is eternal and unchanging",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is under review"
+      },
+      {
+        "id": "opt2",
+        "text": "It is outdated"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The sanctuary service only symbolizes spiritual truths and has no literal significance.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "According to Hebrews 4:14-16, we can approach the throne of grace with ----.",
+    "options": [
+      "boldness",
+      "hesitation",
+      "fear"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "boldness"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the 'throne of grace' provide us according to Hebrews 4:16?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A place for mercy and help",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A site for judgment"
+      },
+      {
+        "id": "opt2",
+        "text": "A location for sacrifices"
+      }
+    ]
+  }
+]

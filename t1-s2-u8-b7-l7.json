@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc43",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 43,
+    "question": "What should our response be to Christ's work on our behalf?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Humility and repentance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Pride and self-reliance"
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference"
+      }
+    ]
+  },
+  {
+    "id": "mc44",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 44,
+    "question": "Christ's arguments against the accuser are founded on His own merits. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib45",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 45,
+    "question": "Christ has graven us on the palms of His ----.",
+    "options": [
+      "hands",
+      "feet",
+      "robe"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "hands"
+      }
+    ]
+  },
+  {
+    "id": "mc46",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 46,
+    "question": "Why should the acknowledged people of God be humble?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They stand before the Lord in filthy garments",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are perfect"
+      },
+      {
+        "id": "opt2",
+        "text": "They are superior"
+      }
+    ]
+  },
+  {
+    "id": "mc47",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 47,
+    "question": "What does Christ use to silence the accuser of His people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Our good works"
+      },
+      {
+        "id": "opt1",
+        "text": "His own merits",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The angels' testimony"
+      }
+    ]
+  },
+  {
+    "id": "fib48",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 48,
+    "question": "The great day of atonement requires us to ---- our souls by repentance and humility.",
+    "options": [
+      "afflict",
+      "comfort",
+      "praise"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "afflict"
+      }
+    ]
+  },
+  {
+    "id": "mc49",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 49,
+    "question": "What should we have to be retained in the book of life?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sorrow for sin and true repentance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Perfect obedience"
+      },
+      {
+        "id": "opt2",
+        "text": "Sacrificial offerings"
+      }
+    ]
+  }
+]

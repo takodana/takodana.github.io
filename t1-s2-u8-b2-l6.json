@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What was the crucial choice faced by every angel during the heavenly conflict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Good vs. evil"
+      },
+      {
+        "id": "opt1",
+        "text": "Jesus vs. Lucifer",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Stay or leave"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The ability to make choices defines our humanity according to the Bible study guide. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Being human is fundamentally about being able to make ---- choices.",
+    "options": [
+      "moral",
+      "easy",
+      "complex"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "moral"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does the story of the heavenly war relate to our personal spiritual battles?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Emphasizes conflict"
+      },
+      {
+        "id": "opt1",
+        "text": "Highlights choice",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Suggests destiny"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The accusations of pride and jealousy against God by Lucifer were baseless. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Satan's deception teaches us to be cautious of ----.",
+    "options": [
+      "lies",
+      "manipulation",
+      "his influence"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "his influence"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What lesson do we learn from Lucifer's fall?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Power of influence"
+      },
+      {
+        "id": "opt1",
+        "text": "Consequences of pride",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Importance of truth"
+      }
+    ]
+  }
+]

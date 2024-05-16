@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc8",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 8,
+    "question": "Jesus' lifting of His wounded hands for us before the Father stirs what emotions?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Gratitude",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Indifference"
+      },
+      {
+        "id": "opt2",
+        "text": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "mc9",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 9,
+    "question": "Christ's plea on our behalf is based on His own merits. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib10",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 10,
+    "question": "The sacrifices of God are a broken spirit: a broken and a ---- heart.",
+    "options": [
+      "contrite",
+      "pure",
+      "love"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "contrite"
+      }
+    ]
+  },
+  {
+    "id": "mc11",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 11,
+    "question": "What leads to a humble opinion of ourselves?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Purifying our souls",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Accumulating knowledge"
+      },
+      {
+        "id": "opt2",
+        "text": "Doing good deeds"
+      }
+    ]
+  },
+  {
+    "id": "mc12",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 12,
+    "question": "Christ is able to ---- the accuser of His people.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "rebuke",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "praise"
+      },
+      {
+        "id": "opt2",
+        "text": "ignore"
+      }
+    ]
+  },
+  {
+    "id": "fib13",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 13,
+    "question": "Christ has graven us on the palms of His ----.",
+    "options": [
+      "hands",
+      "feet",
+      "robe"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "hands"
+      }
+    ]
+  },
+  {
+    "id": "mc14",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 14,
+    "question": "Why should the acknowledged people of God be humble?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They stand before the Lord in filthy garments",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are perfect"
+      },
+      {
+        "id": "opt2",
+        "text": "They are superior"
+      }
+    ]
+  }
+]

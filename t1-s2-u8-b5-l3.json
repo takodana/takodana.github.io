@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How is Jesus' role as our High Priest described in Hebrews 4:14-16?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Mediator",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Teacher"
+      },
+      {
+        "id": "opt2",
+        "text": "Savior"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Our faith allows us to enter the physical location of the heavenly sanctuary.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Jesus saves us to the '----' (Hebrews 7:25).",
+    "options": [
+      "uttermost",
+      "ends",
+      "fullest"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "uttermost"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the blood on the brazen altar in the court symbolize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sacrifice for sin",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Covenant renewal"
+      },
+      {
+        "id": "opt2",
+        "text": "Prayer sanctification"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The presence of God's law in the heavenly sanctuary indicates its temporal nature.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "We are invited to approach the throne of ---- boldly (Hebrews 4:16).",
+    "options": [
+      "grace",
+      "God",
+      "mercy"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "grace"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the relationship between the law and the gospel as shown in the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are inseparable",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are independent"
+      },
+      {
+        "id": "opt2",
+        "text": "They are contradictory"
+      }
+    ]
+  }
+]

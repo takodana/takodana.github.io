@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Where was the sanctuary located within the Israelite camp?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "At the center",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "At the entrance"
+      },
+      {
+        "id": "opt2",
+        "text": "On a hill"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Only Levites were involved in the maintenance of the sanctuary. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White emphasizes that understanding the heavenly sanctuary is crucial for understanding the ---- of sin.",
+    "options": [
+      "consequence",
+      "origin",
+      "resolution"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "consequence"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How is the heavenly sanctuary described in terms of its size and complexity in the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Immeasurable and complex",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Concise and simple"
+      },
+      {
+        "id": "opt2",
+        "text": "Not specified"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The earthly sanctuary was an exact replica of the heavenly model. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Hebrews 8:5 tells us that the earthly sanctuary was made according to the ---- shown to Moses on the mountain.",
+    "options": [
+      "pattern",
+      "vision",
+      "blueprint"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "pattern"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What important lesson do we learn from the concept of two sanctuaries?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Obedience is key"
+      },
+      {
+        "id": "opt1",
+        "text": "Symbolism in scripture is crucial",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Prophecies are literal"
+      }
+    ]
+  }
+]

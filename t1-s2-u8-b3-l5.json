@@ -1,0 +1,153 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What was the high priest's primary action on the Day of Atonement?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Offering sacrifices"
+      },
+      {
+        "id": "opt1",
+        "text": "Cleaning the sanctuary"
+      },
+      {
+        "id": "opt2",
+        "text": "Entering the Most Holy Place",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The people of Israel worked as usual on the Day of Atonement. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Day of Atonement involved afflicting one's ----.",
+    "options": [
+      "soul",
+      "body",
+      "neighbors"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "soul"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Why was the Day of Atonement called Yom Kippur?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Means \"Day of Atonement\" in Hebrew,Means \"Day of Sacrifice\""
+      },
+      {
+        "id": "opt1",
+        "text": "Means \"Day of Cleansing\""
+      },
+      {
+        "id": "opt3",
+        "text": "Means \"Day of Atonement\" in Hebrew,"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The scapegoat was sacrificed on the Day of Atonement. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "On the Day of Atonement, the sins of Israel were placed on the ---- goat.",
+    "options": [
+      "scapegoat",
+      "offering",
+      "burnt"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "scapegoat"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the Day of Atonement teach us about sin?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's unimportant"
+      },
+      {
+        "id": "opt1",
+        "text": "It can be ignored"
+      },
+      {
+        "id": "opt2",
+        "text": "It needs to be cleansed",
+        "isCorrect": true
+      }
+    ]
+  }
+]

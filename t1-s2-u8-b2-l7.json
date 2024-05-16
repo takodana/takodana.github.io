@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Lucifer's rebellion reveal about the nature of evil?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's often hidden"
+      },
+      {
+        "id": "opt1",
+        "text": "It's obvious"
+      },
+      {
+        "id": "opt2",
+        "text": "It starts from within",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Satan's deception of angels demonstrates his persuasive power. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "During the heavenly war, every angel had to choose for or against ----.",
+    "options": [
+      "Christ",
+      "peace",
+      "power"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What was the nature of the conflict in heaven according to scripture?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Physical battle"
+      },
+      {
+        "id": "opt1",
+        "text": "Ideological battle",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Territorial dispute"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The expulsion of Satan signifies the ultimate victory of good over evil. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The decision for or against Christ during Earth's critical times parallels the ---- in heaven.",
+    "options": [
+      "war",
+      "creation",
+      "festival"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "war"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the ongoing battle between good and evil teach us?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Evil is permanent"
+      },
+      {
+        "id": "opt1",
+        "text": "Vigilance is necessary",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Suffering is inevitable"
+      }
+    ]
+  }
+]

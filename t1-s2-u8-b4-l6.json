@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Jesus relate differently to in Matthew 25:1-13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Different groups of believers",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The faithful and the unfaithful"
+      },
+      {
+        "id": "opt2",
+        "text": "The rich and the poor"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The door of mercy will be shut after probation closes. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The cases of those who have professed to be followers of Christ will be ---- and decided.",
+    "options": [
+      "ignored",
+      "examined",
+      "forgotten"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "examined"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Ellen G. White, when is the work for man's salvation completed?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Before the cases are examined"
+      },
+      {
+        "id": "opt1",
+        "text": "When the work of investigation is ended",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Before the second coming"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The work of investigation ends before the cases are examined and decided. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Those who were ready went in with Him to the ----.",
+    "options": [
+      "resurrection",
+      "feast",
+      "marriage"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "marriage"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What happens when the great work for man's salvation is completed?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Everyone is saved"
+      },
+      {
+        "id": "opt1",
+        "text": "The door of mercy is shut",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The dead rise"
+      }
+    ]
+  }
+]

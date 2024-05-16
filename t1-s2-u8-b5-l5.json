@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the 'throne of grace' mentioned in Hebrews 4:16 symbolize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's mercy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "God's judgment"
+      },
+      {
+        "id": "opt2",
+        "text": "God's omnipotence"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The blood seen in the heavenly sanctuary is purely symbolic.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Hebrews 10:19-22, Jesus has opened a new and living ---- for us.",
+    "options": [
+      "way",
+      "path",
+      "road"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "way"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the presence of blood in the sanctuary tell us about God's dealings with sin?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is taken seriously",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is overlooked"
+      },
+      {
+        "id": "opt2",
+        "text": "It is condoned"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The ark of the covenant contains only a symbolic representation of God's law.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The infinite mercy of God is balanced by His ----.",
+    "options": [
+      "justice",
+      "wrath",
+      "power"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "justice"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the mercy seat above the ark signify in the context of judgment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Mercy triumphs over judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Justice is harsh"
+      },
+      {
+        "id": "opt2",
+        "text": "There is no forgiveness"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What did the sacrifices in the earthly sanctuary symbolize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Israelites' devotion"
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's ultimate sacrifice",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The priests' intercession"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The services of the earthly sanctuary foreshadow Jesus' ministry in heaven. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Christ's death is described as a ---- sacrifice, fulfilling the earthly symbols.",
+    "options": [
+      "final",
+      "renewable",
+      "continuous"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "final"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Hebrews 8:6, what makes the new covenant better?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It has clearer laws"
+      },
+      {
+        "id": "opt1",
+        "text": "It is based on better promises",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It involves more rituals"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Christ's mediation in heaven is temporary until His return. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Great Controversy highlights that the cleansing of the heavenly sanctuary is crucial to understanding the ---- of prophecy.",
+    "options": [
+      "meaning",
+      "end",
+      "scope"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "meaning"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Hebrews 9:12 say about Christ's sacrifice compared to those of the earthly priests?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It needs to be repeated"
+      },
+      {
+        "id": "opt1",
+        "text": "It is once for all",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is less effective"
+      }
+    ]
+  }
+]

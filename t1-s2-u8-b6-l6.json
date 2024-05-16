@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why is the judgment considered necessary in the plan of salvation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It finalizes the redemption process",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It initiates the redemption process"
+      },
+      {
+        "id": "opt2",
+        "text": "It is unrelated to redemption"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Christ's advocacy is crucial for our salvation. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Our entry into the heavenly sanctuary is through ----.",
+    "options": [
+      "faith",
+      "law",
+      "command"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "faith"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the term 'veil' symbolize in the context of the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Separation from sin"
+      },
+      {
+        "id": "opt1",
+        "text": "Pathway to God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Barrier to faith"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The concept of Jesus as our Advocate is central to the Seventh-day Adventist faith. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ's role as Advocate involves pleading for ----.",
+    "options": [
+      "us",
+      "them",
+      "angels"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "us"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What significant benefit does Christ's intercession in the sanctuary offer us?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Assurance of forgiveness",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Proof of God's love"
+      },
+      {
+        "id": "opt2",
+        "text": "Sign of the end times"
+      }
+    ]
+  }
+]

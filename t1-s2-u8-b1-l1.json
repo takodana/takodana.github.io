@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What event in 1844 led to a new understanding among the Millerites?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The second coming of Jesus"
+      },
+      {
+        "id": "opt1",
+        "text": "The birth of a new church"
+      },
+      {
+        "id": "opt2",
+        "text": "The cleansing of the heavenly sanctuary",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is the heavenly sanctuary real or symbolic according to Hebrews 8:2?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Symbolic"
+      },
+      {
+        "id": "opt1",
+        "text": "Real",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Both"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Daniel 7 and 8, the pre-Advent judgment is symbolized by the '---- of the sanctuary'.",
+    "options": [
+      "cleansing",
+      "opening",
+      "renewing"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "cleansing"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which empires are mentioned in both Daniel 7 and Daniel 8 as part of the prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Babylon and Media-Persia"
+      },
+      {
+        "id": "opt1",
+        "text": "Greece and Rome"
+      },
+      {
+        "id": "opt2",
+        "text": "All listed empires",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Millerites' understanding of the 2,300-day prophecy initially involved which event?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The cleansing of the earthly sanctuary"
+      },
+      {
+        "id": "opt1",
+        "text": "The second coming of Jesus",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The destruction of Earth"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In 1844, the Millerites misunderstood the event of October 22 as the second coming of Jesus instead of the '---- in heaven'.",
+    "options": [
+      "judgment",
+      "feast",
+      "celebration"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "judgment"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the 'cleansing of the sanctuary' symbolize in Adventist doctrine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The final judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The rebirth of Christ"
+      },
+      {
+        "id": "opt2",
+        "text": "The fall of Babylon"
+      }
+    ]
+  }
+]

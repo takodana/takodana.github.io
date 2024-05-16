@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the significance of the Day of Atonement in ancient Israel?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A day of regular worship"
+      },
+      {
+        "id": "opt1",
+        "text": "A time for festivals"
+      },
+      {
+        "id": "opt2",
+        "text": "The cleansing of the sanctuary",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The high priest entered the Most Holy Place only on the Day of Atonement. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Day of Atonement is also known as Yom ----.",
+    "options": [
+      "Kippur",
+      "Kippah",
+      "HaShoah"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Kippur"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What was the role of the scapegoat Azazel on the Day of Atonement?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To be sacrificed"
+      },
+      {
+        "id": "opt1",
+        "text": "To be set free"
+      },
+      {
+        "id": "opt2",
+        "text": "To carry away sins",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "All regular activity ceased on the Day of Atonement. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The high priest placed his hands on the live goat and confessed ---- sins.",
+    "options": [
+      "Israel's",
+      "his own",
+      "the priests'"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Israel's"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the Day of Atonement symbolize in the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The creation of the world"
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's ministry",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The end of time"
+      }
+    ]
+  }
+]

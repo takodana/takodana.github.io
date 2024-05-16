@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Hebrews 10:9-14, how does Jesus' ministry in the heavenly sanctuary differ from the priest's ministry on Earth?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Jesus' ministry is temporary"
+      },
+      {
+        "id": "opt1",
+        "text": "Jesus' ministry is spiritual only"
+      },
+      {
+        "id": "opt2",
+        "text": "Jesus' ministry provides eternal redemption",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Hebrews 10:12 says Jesus offered one sacrifice for sins forever. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Jesus, our advocate, entered the ---- place once and for all.",
+    "options": [
+      "Most Holy",
+      "Very Holy",
+      "Sacred"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Most Holy"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the significance of Jesus being our Advocate as mentioned in 1 John 2:1?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "He pleads our case",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "He judges our actions"
+      },
+      {
+        "id": "opt2",
+        "text": "He observes our faith"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Hebrews 9:28 states Jesus will come again to deal with our sins. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Jesus' sacrifice was offered once to take away the ---- of many.",
+    "options": [
+      "sins",
+      "crimes",
+      "mistakes"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sins"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Hebrews 6:19-20 imply about our role in Christ's ministry?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "We must observe"
+      },
+      {
+        "id": "opt1",
+        "text": "We must participate",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "We must judge"
+      }
+    ]
+  }
+]

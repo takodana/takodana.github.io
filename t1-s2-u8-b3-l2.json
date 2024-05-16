@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What did the high priest do after sprinkling the blood on the mercy seat?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Went home"
+      },
+      {
+        "id": "opt1",
+        "text": "Rested"
+      },
+      {
+        "id": "opt2",
+        "text": "Applied the blood to the horns of the altars",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Anyone not afflicted on the Day of Atonement would be cut off. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "On the Day of Atonement, the people of Israel sought God in ---- and heartfelt confession.",
+    "options": [
+      "humility",
+      "joy",
+      "sadness"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "humility"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The high priest's actions on the Day of Atonement included cleansing which areas?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Homes"
+      },
+      {
+        "id": "opt1",
+        "text": "The temple"
+      },
+      {
+        "id": "opt2",
+        "text": "The entire sanctuary",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Day of Atonement included a complete fast for the people. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The blood of the Lord's goat was used to make an end of ----.",
+    "options": [
+      "reconciling",
+      "judging",
+      "praying"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "reconciling"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What was the significance of the Day of Atonement in ancient Israel?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A reminder of their sins"
+      },
+      {
+        "id": "opt1",
+        "text": "The final harvest"
+      },
+      {
+        "id": "opt2",
+        "text": "A day of judgment",
+        "isCorrect": true
+      }
+    ]
+  }
+]

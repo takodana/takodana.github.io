@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc29",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 29,
+    "question": "What does the acknowledgment of our filthy garments before the Lord lead to?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Humility",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Pride"
+      },
+      {
+        "id": "opt2",
+        "text": "Confidence"
+      }
+    ]
+  },
+  {
+    "id": "mc30",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 30,
+    "question": "Christ's wounded hands signify His sacrifice for us. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib31",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 31,
+    "question": "The more closely we view the spotless character of Christ the stronger our desire to be ---- to His image.",
+    "options": [
+      "conformed",
+      "opposed",
+      "indifferent"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "conformed"
+      }
+    ]
+  },
+  {
+    "id": "mc32",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 32,
+    "question": "Why should we have a humble opinion of ourselves?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Because we are purifying our souls",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Because we are perfect"
+      },
+      {
+        "id": "opt2",
+        "text": "Because we are superior"
+      }
+    ]
+  },
+  {
+    "id": "mc33",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 33,
+    "question": "Our righteousness sanctification and redemption are found in whom?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Ourselves"
+      },
+      {
+        "id": "opt2",
+        "text": "The Church"
+      }
+    ]
+  },
+  {
+    "id": "fib34",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 34,
+    "question": "Christ is able to silence the accuser with arguments founded on His own ----.",
+    "options": [
+      "merits",
+      "words",
+      "deeds"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "merits"
+      }
+    ]
+  },
+  {
+    "id": "mc35",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 35,
+    "question": "What does the work of atonement involve?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Saving lost sinners",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Condemning the wicked"
+      },
+      {
+        "id": "opt2",
+        "text": "Rewarding the righteous"
+      }
+    ]
+  }
+]

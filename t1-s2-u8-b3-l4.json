@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How often did the Day of Atonement occur?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Monthly"
+      },
+      {
+        "id": "opt1",
+        "text": "Weekly"
+      },
+      {
+        "id": "opt2",
+        "text": "Annually",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Day of Atonement is the same as Passover. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "During the Day of Atonement, the people had to ---- their hearts.",
+    "options": [
+      "examine",
+      "celebrate",
+      "ignore"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "examine"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What did the scapegoat symbolize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The priests"
+      },
+      {
+        "id": "opt1",
+        "text": "The sins of Israel",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The temple"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Day of Atonement was a day of rejoicing. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "On the Day of Atonement, the high priest entered the presence of ----.",
+    "options": [
+      "God",
+      "the people",
+      "angels"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the scapegoat being led into the wilderness represent?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sins being removed from Israel",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The start of a journey"
+      },
+      {
+        "id": "opt2",
+        "text": "The end of the year"
+      }
+    ]
+  }
+]

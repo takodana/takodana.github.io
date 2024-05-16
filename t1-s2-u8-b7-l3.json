@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc15",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 15,
+    "question": "What emotion should we feel knowing Jesus makes an effectual plea for us?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Hope",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Despair"
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference"
+      }
+    ]
+  },
+  {
+    "id": "mc16",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 16,
+    "question": "We are now living in the great day of atonement. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib17",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 17,
+    "question": "In the few remaining days of our ---- we should afflict our souls before God.",
+    "options": [
+      "probation",
+      "life",
+      "service"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "probation"
+      }
+    ]
+  },
+  {
+    "id": "mc18",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 18,
+    "question": "What should all who would have their names retained in the book of life do?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Afflict their souls",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Ignore their sins"
+      },
+      {
+        "id": "opt2",
+        "text": "Seek wealth"
+      }
+    ]
+  },
+  {
+    "id": "mc19",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 19,
+    "question": "What is God's work in saving lost sinners called?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Atonement",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Judgment"
+      },
+      {
+        "id": "opt2",
+        "text": "Condemnation"
+      }
+    ]
+  },
+  {
+    "id": "fib20",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 20,
+    "question": "The work of ---- is the work of God in saving sinners.",
+    "options": [
+      "atonement",
+      "creation",
+      "destruction"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "atonement"
+      }
+    ]
+  },
+  {
+    "id": "mc21",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 21,
+    "question": "Why is the day dedicated to the work of God in saving sinners good news?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Because it brings salvation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Because it brings judgment"
+      },
+      {
+        "id": "opt2",
+        "text": "Because it brings punishment"
+      }
+    ]
+  }
+]

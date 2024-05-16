@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the intercession of Christ allow us to do?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Approach God's throne",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Ignore sin"
+      },
+      {
+        "id": "opt2",
+        "text": "Focus on the law"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Ellen G. White emphasizes that entering the veil is a matter of faith. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Christ's mediation reflects the ---- demands of God's law.",
+    "options": [
+      "broadest",
+      "narrowest",
+      "strictest"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "broadest"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does following Christ inside the veil benefit us?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Gives us a clearer redemption insight",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Justifies our sins"
+      },
+      {
+        "id": "opt2",
+        "text": "Strengthens legalistic views"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The mediation of Christ in the heavenly sanctuary is a continuation of His Earthly ministry. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ's sacrifice deals with sin once and for all, emphasizing its ---- nature.",
+    "options": [
+      "perpetual",
+      "temporary",
+      "occasional"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "perpetual"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What aspect of God's character is revealed through Christ's ministry in the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His justice"
+      },
+      {
+        "id": "opt1",
+        "text": "His mercy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "His omnipotence"
+      }
+    ]
+  }
+]

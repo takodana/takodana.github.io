@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc22",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 22,
+    "question": "What should the great day of atonement lead us to feel?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Humility",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Pride"
+      },
+      {
+        "id": "opt2",
+        "text": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "mc23",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 23,
+    "question": "Christ alone can make an effectual plea in our behalf. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib24",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 24,
+    "question": "Christ's arguments against the accuser are founded on His own ----.",
+    "options": [
+      "merits",
+      "works",
+      "words"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "merits"
+      }
+    ]
+  },
+  {
+    "id": "mc25",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 25,
+    "question": "What does relying on Christ as our righteousness lead to?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Humility",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Arrogance"
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference"
+      }
+    ]
+  },
+  {
+    "id": "mc26",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 26,
+    "question": "We cannot answer the charges of Satan against us. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib27",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 27,
+    "question": "We should realize our sinful condition and rely on Christ as our ----.",
+    "options": [
+      "righteousness",
+      "judge",
+      "example"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "righteousness"
+      }
+    ]
+  },
+  {
+    "id": "mc28",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 28,
+    "question": "What should be our response to Christ's work on our behalf?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Humility and repentance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Pride and self-reliance"
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference"
+      }
+    ]
+  }
+]

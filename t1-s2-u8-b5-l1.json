@@ -1,0 +1,144 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "\"What is referred to as the 'new and living way' that Jesus opened for us, according to Hebrews 10:20?\"Christ's resurrection,Christ's teachings,Christ's sacrifice,,Christ's sacrifice,",
+    "options": []
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to Hebrews 4:16, we are invited to come boldly to the throne of grace to receive what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Forgiveness and strength"
+      },
+      {
+        "id": "opt1",
+        "text": "Help and mercy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Guidance and protection"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Hebrews 4:14 encourages us to 'hold fast our ----'.",
+    "options": [
+      "faith",
+      "confession",
+      "hope"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "confession"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the sprinkled blood on the curtain before the mercy seat signify?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Redemption",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Consecration"
+      },
+      {
+        "id": "opt2",
+        "text": "Cleansing"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The mercy of God is limited.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Blood seen on the horns of the golden altar of incense represents ----.",
+    "options": [
+      "mercy",
+      "sacrifice",
+      "intercession"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "intercession"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The 'mercy seat' in the context of Hebrews 10:19-22 represents what aspect of God's character?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Justice and mercy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Power and authority"
+      },
+      {
+        "id": "opt2",
+        "text": "Wisdom and guidance"
+      }
+    ]
+  }
+]

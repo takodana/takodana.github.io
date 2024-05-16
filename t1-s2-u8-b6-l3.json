@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Christ's death relate to His intercession in the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It precedes His intercession",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It contradicts His intercession"
+      },
+      {
+        "id": "opt2",
+        "text": "It is unrelated"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The judgment is necessary for the plan of salvation. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Christ's death and intercession are meant to resolve the ---- controversy.",
+    "options": [
+      "great",
+      "eternal",
+      "divine"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "great"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What role does the heavenly sanctuary play in the great controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's the battleground",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It's a place of refuge"
+      },
+      {
+        "id": "opt2",
+        "text": "It's a symbolic representation"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Christ's intercession provides benefits of atonement to those who seek Him. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Our approach to the heavenly sanctuary should be with ----.",
+    "options": [
+      "faith",
+      "hope",
+      "love"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "faith"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What ultimate event does Hebrews 9:28 refer to regarding Christ's return?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Final judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "New creation"
+      },
+      {
+        "id": "opt2",
+        "text": "Continuation of intercession"
+      }
+    ]
+  }
+]

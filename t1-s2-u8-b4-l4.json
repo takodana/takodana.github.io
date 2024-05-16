@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Ellen G. White, when does the door of mercy shut?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Before the work of investigation"
+      },
+      {
+        "id": "opt1",
+        "text": "After the cases are examined and decided",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Before the second coming"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The judgment is not a prominent theme throughout the Bible. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Jesus pointed His hearers to a future time of ----.",
+    "options": [
+      "peace",
+      "judgment",
+      "joy"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "judgment"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What did Jesus say men will give account of in the day of judgment according to Matthew 12:36?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Every idle word they speak",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Every sin they commit"
+      },
+      {
+        "id": "opt2",
+        "text": "Every prayer they pray"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Paul says that God will bring to light the hidden things of darkness. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The angelic messenger said to John, 'The hour of His ---- has come.'",
+    "options": [
+      "return",
+      "judgment",
+      "coming"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "judgment"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Ecclesiastes 12:14 say God will bring into judgment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Every work",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Every thought"
+      },
+      {
+        "id": "opt2",
+        "text": "Every prayer"
+      }
+    ]
+  }
+]

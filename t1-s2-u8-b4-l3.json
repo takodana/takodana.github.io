@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why does Jesus relate differently to the two groups of believers in Matthew 25:1-13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Because of their status"
+      },
+      {
+        "id": "opt1",
+        "text": "Because of their wealth"
+      },
+      {
+        "id": "opt2",
+        "text": "Because of their readiness",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The door of mercy will be shut after the work of investigation is ended. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Those who were ready went in with Him to the ----.",
+    "options": [
+      "resurrection",
+      "feast",
+      "marriage"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "marriage"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Ellen G. White, the great work for man's salvation will be completed when?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "When the first angel sounds"
+      },
+      {
+        "id": "opt1",
+        "text": "When probation closes"
+      },
+      {
+        "id": "opt2",
+        "text": "When the work of investigation shall be ended",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Probation will close before the cases of those who profess to follow Christ have been examined. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The cases of those who have professed to be followers of Christ will be ---- and decided.",
+    "options": [
+      "ignored",
+      "examined",
+      "forgotten"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "examined"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What will happen when the great work for man's salvation is completed?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Everyone will be saved"
+      },
+      {
+        "id": "opt1",
+        "text": "The door of mercy will be shut",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The dead will rise"
+      }
+    ]
+  }
+]

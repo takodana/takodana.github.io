@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Hebrews 8:10, where does God promise to write His laws?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "In our minds and hearts",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "On tablets of stone"
+      },
+      {
+        "id": "opt2",
+        "text": "In the book of life"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Jesus' sacrifice is described as atonement for our sins without condition.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Entering by faith into the heavenly sanctuary, we find ---- for our past sins.",
+    "options": [
+      "pardon",
+      "power",
+      "peace"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "pardon"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the significance of the law being in the ark of the covenant according to Revelation 11:19?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It underscores its unchangeability",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It represents forgiveness"
+      },
+      {
+        "id": "opt2",
+        "text": "It signifies new beginnings"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Christ's intercession in heaven is limited to certain individuals.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "God's law is written on our ---- according to Hebrews 8:10.",
+    "options": [
+      "hearts",
+      "minds",
+      "souls"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "hearts"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What hope do we have as we stand before the law of God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Forgiveness through Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Condemnation"
+      },
+      {
+        "id": "opt2",
+        "text": "None"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What element in the heavenly sanctuary service highlights God's forgiveness?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The blood sprinkling",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The water for washing"
+      },
+      {
+        "id": "opt2",
+        "text": "The incense burning"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Jesus' intercession is a temporary arrangement.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Hebrews 10:22 invites us to draw near with a true heart in full assurance of ----.",
+    "options": [
+      "faith",
+      "love",
+      "hope"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "faith"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Why is Jesus' blood significant in the heavenly sanctuary context?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It cleanses us from sin",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It marks the boundary of the sacred"
+      },
+      {
+        "id": "opt2",
+        "text": "It symbolizes resurrection"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The law found in the ark of the covenant is symbolic and not actual.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Jesus' role as High Priest involves Him making ---- for us.",
+    "options": [
+      "intercession",
+      "decisions",
+      "judgments"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "intercession"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": -3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does the 'new and living way' opened by Jesus affect our relationship with God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It allows direct access",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It requires priestly intermediation"
+      },
+      {
+        "id": "opt2",
+        "text": "It limits personal engagement"
+      }
+    ]
+  }
+]

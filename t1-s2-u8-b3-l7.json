@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What was the outcome for anyone who did not afflict their soul on the Day of Atonement?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They were blessed"
+      },
+      {
+        "id": "opt1",
+        "text": "They were cut off",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They were honored"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Day of Atonement was optional for the Israelites. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The high priest confessed the sins of ---- on the live goat.",
+    "options": [
+      "Israel",
+      "himself",
+      "the priests"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Israel"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What did the Day of Atonement signify for the people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "New year"
+      },
+      {
+        "id": "opt1",
+        "text": "Cleansing from sin",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A time of war"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Day of Atonement involved both the sanctuary and the people. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "On the Day of Atonement, the sins were transferred out of the ----.",
+    "options": [
+      "sanctuary",
+      "land",
+      "temple"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sanctuary"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the Day of Atonement teach us about God's judgment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's unfair"
+      },
+      {
+        "id": "opt1",
+        "text": "It's final"
+      },
+      {
+        "id": "opt2",
+        "text": "It's thorough",
+        "isCorrect": true
+      }
+    ]
+  }
+]

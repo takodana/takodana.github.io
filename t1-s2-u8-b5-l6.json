@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the 'new and living way' relate to our ability to approach God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It facilitates it",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It restricts it"
+      },
+      {
+        "id": "opt2",
+        "text": "It complicates it"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The law in the ark of the covenant is an exact copy of what is on Earth.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "By faith, we enter the heavenly sanctuary and are cleansed by Jesus' ----.",
+    "options": [
+      "blood",
+      "sacrifice",
+      "mercy"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "blood"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the throne of grace offer us in times of need according to Hebrews 4:16?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Help",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Mercy"
+      },
+      {
+        "id": "opt2",
+        "text": "Condemnation"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Our sins can permanently stain the heavenly sanctuary.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Hebrews 10:22 urges us to have our hearts sprinkled from an evil ----.",
+    "options": [
+      "conscience",
+      "mind",
+      "spirit"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "conscience"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What central theme is highlighted by the blood in various parts of the sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Redemption is comprehensive",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "God's demands are unyielding"
+      },
+      {
+        "id": "opt2",
+        "text": "The law is punitive"
+      }
+    ]
+  }
+]

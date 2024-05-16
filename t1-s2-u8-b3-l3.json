@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why was the Day of Atonement crucial for the Israelites?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To celebrate the new year"
+      },
+      {
+        "id": "opt1",
+        "text": "To cleanse from sin",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To honor the high priest"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Day of Atonement was a time for feasting and joy. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The high priest made \"an end of ----\" by applying the blood to the sanctuary.",
+    "options": [
+      "reconciling",
+      "atonement",
+      "cleansing"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "reconciling"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What did the people of Israel do while the high priest was in the Most Holy Place?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Worked their fields"
+      },
+      {
+        "id": "opt1",
+        "text": "Fasted and prayed",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Went to the market"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Day of Atonement involved the transfer of blood out of the sanctuary. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "On the Day of Atonement, God had a clean sanctuary and a clean ----.",
+    "options": [
+      "people",
+      "land",
+      "temple"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "people"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the ultimate responsibility of the scapegoat Azazel?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To be worshipped"
+      },
+      {
+        "id": "opt1",
+        "text": "To bear the sins of Israel",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To guide the people"
+      }
+    ]
+  }
+]

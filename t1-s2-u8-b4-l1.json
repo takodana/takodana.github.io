@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the similarity between Daniel 7:9, 10 and Revelation 14:6, 7?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They both describe the first coming of Christ"
+      },
+      {
+        "id": "opt1",
+        "text": "They both talk about judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They both describe the resurrection"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "In Ecclesiastes 12:14, it is said that God will bring every work into judgment. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Jesus pointed His hearers to a future time of ----.",
+    "options": [
+      "judgment",
+      "mercy",
+      "forgiveness"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "judgment"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Matthew 12:36, what will men give account of in the day of judgment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Every word they speak",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Every action they take"
+      },
+      {
+        "id": "opt2",
+        "text": "Every thought they think"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Paul adds that God will 'bring to light the hidden things of darkness.' True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The angelic messenger said to John, 'The hour of His ---- has come.'",
+    "options": [
+      "judgment",
+      "return",
+      "wrath"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "judgment"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is a prominent theme throughout the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Creation"
+      },
+      {
+        "id": "opt2",
+        "text": "Redemption"
+      }
+    ]
+  }
+]

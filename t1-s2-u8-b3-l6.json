@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the Day of Atonement foreshadow in the New Testament?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Jesus' birth"
+      },
+      {
+        "id": "opt1",
+        "text": "The resurrection"
+      },
+      {
+        "id": "opt2",
+        "text": "Christ's ministry in the heavenly sanctuary",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Day of Atonement involved only the priests. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The blood used on the Day of Atonement was from the ---- goat.",
+    "options": [
+      "Lord's",
+      "scapegoat",
+      "burnt"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Lord's"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What was required of the people during the Day of Atonement?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To celebrate"
+      },
+      {
+        "id": "opt1",
+        "text": "To work"
+      },
+      {
+        "id": "opt2",
+        "text": "To afflict their souls",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The high priest's actions on the Day of Atonement were symbolic of future events. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Day of Atonement in ancient Israel pointed forward to the ---- judgment.",
+    "options": [
+      "great",
+      "last",
+      "divine"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "great"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the sprinkling of blood on the mercy seat represent?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's mercy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "God's wrath"
+      },
+      {
+        "id": "opt2",
+        "text": "God's forgetfulness"
+      }
+    ]
+  }
+]

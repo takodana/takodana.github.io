@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which chapter of Daniel provides a parallel to the heavenly judgment as described in the study guide\",Daniel 7,Daniel 8,Both Daniel 7 and Daniel 8,,Both Daniel 7 and Daniel 8, 2,1,2,MC,2,The cleansing of the heavenly sanctuary is a direct fulfillment of which earthly service?,Daily services,Yearly cleansing,Both services,,Yearly cleansing, 2,1,2,FIB,3,\"The prophecy timeline of 2,300 days culminates in the '---- of the sanctuary'.\"",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "cleansing",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "building"
+      },
+      {
+        "id": "opt2",
+        "text": "restructuring"
+      }
+    ]
+  }
+]

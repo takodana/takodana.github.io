@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What did the materials used in the wilderness sanctuary represent?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Israel's wealth"
+      },
+      {
+        "id": "opt1",
+        "text": "Spiritual virtues",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "God's creation"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Each component of the earthly sanctuary had a direct biblical meaning. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "John 1:29 refers to Jesus as the ---- of God who takes away the sin of the world.",
+    "options": [
+      "Lamb",
+      "Light",
+      "Savior"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Lamb"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who showed Moses the design for the sanctuary according to Exodus 25:9?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Angels"
+      },
+      {
+        "id": "opt1",
+        "text": "God Himself",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Elders of Israel"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Moses received the sanctuary pattern on Mount Sinai. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Hebrews 7:25 states that Jesus is always able to ---- for those who come to God through Him.",
+    "options": [
+      "intercede",
+      "bless",
+      "guide"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "intercede"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Christ's intercession in the heavenly sanctuary mean for believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are continually judged"
+      },
+      {
+        "id": "opt1",
+        "text": "Their sins are continually cleansed",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They must offer sacrifices"
+      }
+    ]
+  }
+]

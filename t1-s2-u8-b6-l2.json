@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In what way is Christ's intercession in the heavenly sanctuary essential to salvation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It completes His work",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is a symbolic act"
+      },
+      {
+        "id": "opt2",
+        "text": "It is a preliminary step"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Christ's intercession is as essential as His death. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "By faith, we enter within the ----, following Christ.",
+    "options": [
+      "veil",
+      "door",
+      "gate"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "veil"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the light from the cross of Calvary reflect in the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's law"
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's sacrifice",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Angelic purity"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Great Controversy states that the salvation plan was costly to heaven. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Jesus opened the way to the Father's ---- through His mediation.",
+    "options": [
+      "throne",
+      "home",
+      "kingdom"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "throne"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": -2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Jesus' life and death reveal to us, according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The nature of sin"
+      },
+      {
+        "id": "opt1",
+        "text": "The character of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The purpose of law"
+      }
+    ]
+  }
+]

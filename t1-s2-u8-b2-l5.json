@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is at the heart of the great controversy, as illustrated by the sanctuary service?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Power struggle"
+      },
+      {
+        "id": "opt1",
+        "text": "Authority"
+      },
+      {
+        "id": "opt2",
+        "text": "Choice and allegiance",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The expulsion of Satan and his angels was purely spiritual without any physical aspects. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Lucifer's fall began with ---- taking root in his heart.",
+    "options": [
+      "jealousy",
+      "anger",
+      "distrust"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "jealousy"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What capacity did God embed in humanity as part of creation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To obey"
+      },
+      {
+        "id": "opt1",
+        "text": "To reason and choose",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To follow instinct"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The conflict described in heaven was solely ideological. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Our ability to make choices reflects our being made in the image of ----.",
+    "options": [
+      "God",
+      "angels",
+      "nature"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": -1,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the decision process in heaven reveal about the nature of the great controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's about power"
+      },
+      {
+        "id": "opt1",
+        "text": "It's about knowledge"
+      },
+      {
+        "id": "opt2",
+        "text": "It's about allegiance",
+        "isCorrect": true
+      }
+    ]
+  }
+]

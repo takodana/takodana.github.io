@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the completion of Christ's work in the sanctuary signal about the end times?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The nearness of His return",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The delay of His return"
+      },
+      {
+        "id": "opt2",
+        "text": "The irrelevance of His return"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The benefits of Christ's atonement are accessible to all believers. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The heavenly sanctuary serves as a ---- for God's people.",
+    "options": [
+      "refuge",
+      "challenge",
+      "trial"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "refuge"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the ultimate result of Christ's intercession according to the Adventist belief?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Salvation for mankind",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Reformation of the church"
+      },
+      {
+        "id": "opt2",
+        "text": "Restoration of the law"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Jesus' return is dependent on His work in the heavenly sanctuary. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In the heavenly sanctuary, Christ acts as a ----.",
+    "options": [
+      "mediator",
+      "judge",
+      "creator"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "mediator"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Christ's role in the heavenly sanctuary reveal about His character?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His compassion",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "His wrath"
+      },
+      {
+        "id": "opt2",
+        "text": "His detachment"
+      }
+    ]
+  }
+]

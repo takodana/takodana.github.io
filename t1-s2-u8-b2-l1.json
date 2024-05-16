@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What purpose does the sanctuary serve according to Exodus 25:8?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To symbolize God's throne"
+      },
+      {
+        "id": "opt1",
+        "text": "To house the Ten Commandments"
+      },
+      {
+        "id": "opt2",
+        "text": "To dwell among His people",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is the 'true tabernacle' mentioned in Hebrews 8:2 man-made?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE"
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The earthly sanctuary was a ----, or model, of the heavenly one as explained in Hebrews 8:5.",
+    "options": [
+      "type",
+      "shadow",
+      "copy"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "type"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the sanctuary being cleansed signify in the prophecy of Daniel 8:14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The end of the world"
+      },
+      {
+        "id": "opt1",
+        "text": "The cleansing of sin",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The return of Jesus"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The services of the earthly sanctuary ceased to have meaning after Jesus' death. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White writes that the cleansing of the heavenly sanctuary began in ----.",
+    "options": [
+      "1844",
+      "1863",
+      "1901"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "1844"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What role does Jesus play in the heavenly sanctuary, as per Hebrews 8:1-6?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Judge"
+      },
+      {
+        "id": "opt1",
+        "text": "High Priest",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Savior"
+      }
+    ]
+  }
+]
