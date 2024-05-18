@@ -6,20 +6,152 @@
     "sequence": 2,
     "type": "MC",
     "questionNumber": 1,
-    "question": "Which chapter of Daniel provides a parallel to the heavenly judgment as described in the study guide\",Daniel 7,Daniel 8,Both Daniel 7 and Daniel 8,,Both Daniel 7 and Daniel 8, 2,1,2,MC,2,The cleansing of the heavenly sanctuary is a direct fulfillment of which earthly service?,Daily services,Yearly cleansing,Both services,,Yearly cleansing, 2,1,2,FIB,3,\"The prophecy timeline of 2,300 days culminates in the '---- of the sanctuary'.\"",
+    "question": "Which chapter of Daniel provides a parallel to the heavenly judgment as described in the study guide",
     "options": [
       {
         "id": "opt0",
-        "text": "cleansing",
+        "text": "Daniel 7"
+      },
+      {
+        "id": "opt1",
+        "text": "Daniel 8"
+      },
+      {
+        "id": "opt2",
+        "text": "Both Daniel 7 and Daniel 8",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The cleansing of the heavenly sanctuary is a direct fulfillment of which earthly service?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Daily services"
+      },
+      {
+        "id": "opt1",
+        "text": "Yearly cleansing",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Both services"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The prophecy timeline of 2,300 days culminates in the '---- of the sanctuary'.",
+    "options": [
+      "cleansing",
+      "building",
+      "restructuring"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "cleansing"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How are the earthly and heavenly sanctuaries related according to the Adventist belief?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Symbolically",
         "isCorrect": true
       },
       {
         "id": "opt1",
-        "text": "building"
+        "text": "Physically"
       },
       {
         "id": "opt2",
-        "text": "restructuring"
+        "text": "Both symbolically and spiritually"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Was the disappointment of October 22, 1844, a misunderstanding of biblical prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "After 1844, Adventists believe that Christ began His ministry in the '---- sanctuary'.",
+    "options": [
+      "heavenly",
+      "earthly",
+      "universal"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heavenly"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 1,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which book of the Bible helps explain Christ's ministry in the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Revelation"
+      },
+      {
+        "id": "opt1",
+        "text": "Daniel"
+      },
+      {
+        "id": "opt2",
+        "text": "Both Revelation and Daniel",
+        "isCorrect": true
       }
     ]
   }

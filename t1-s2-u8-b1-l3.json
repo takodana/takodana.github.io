@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What key event does Daniel 7 describe that relates to Christ's heavenly ministry?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The lion's vision"
+      },
+      {
+        "id": "opt1",
+        "text": "The judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The bear's rise"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The concept of a heavenly 'cleansing' implies what about the state of the sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It was defiled",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is symbolic"
+      },
+      {
+        "id": "opt2",
+        "text": "It is a parable"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Millerites' historic misunderstanding concerns the '---- of Christ'.",
+    "options": [
+      "return",
+      "ministry",
+      "creation"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "return"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What significance does the year 1844 hold in Adventist theology?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The beginning of the end"
+      },
+      {
+        "id": "opt1",
+        "text": "The start of the heavenly judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The rebirth of the church"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the investigative judgment a biblical concept according to Adventists?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Daniel's visions are concerned with historical events and their impact on the '---- of faith'.",
+    "options": [
+      "future",
+      "path",
+      "community"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "future"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 2,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the investigative judgment signify for humanity?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The end of mercy"
+      },
+      {
+        "id": "opt1",
+        "text": "The close of probation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The continuation of grace"
+      }
+    ]
+  }
+]

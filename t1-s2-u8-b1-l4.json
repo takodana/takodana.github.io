@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How do Daniel's prophecies correlate with the heavenly sanctuary's services?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Loosely"
+      },
+      {
+        "id": "opt1",
+        "text": "Precisely",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Indirectly"
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What is the ultimate outcome of the cleansing of the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Restoration of order",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "End of the world"
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B"
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Millerites came to understand the sanctuary's cleansing as Christ's work in the '----'.",
+    "options": [
+      "heavenly",
+      "earthly",
+      "celestial"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heavenly"
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to the guide, what is the role of the heavenly High Priest?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To judge"
+      },
+      {
+        "id": "opt1",
+        "text": "To intercede",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To observe"
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Does the sanctuary theme play a central role in Adventist eschatology?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE"
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Hebrews 8:1-2 refers to Christ as a High Priest in the '---- of the Majesty in the heavens'.",
+    "options": [
+      "throne",
+      "right hand",
+      "sanctuary"
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "throne"
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What parallel is drawn between the heavenly and earthly sanctuaries?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Architectural similarity"
+      },
+      {
+        "id": "opt1",
+        "text": "Spiritual significance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Both B and C"
+      }
+    ]
+  }
+]
