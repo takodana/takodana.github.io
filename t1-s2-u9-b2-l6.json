@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the main purpose of the blood sprinkled on the mercy seat?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To sanctify the ark",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "To cleanse from sins",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To decorate the sanctuary",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The ark contained only the Ten Commandments by the time of Solomon. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Great Controversy between good and evil is reflected in the ---- of the sanctuary.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "services"
+      }
+    ],
+    "options": [
+      "services",
+      "structure",
+      "decorations"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who could witness the Shekinah glory in the sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "All Israelites",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Only priests",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Only the high priest",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Sabbath will remain significant throughout eternity. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White described the law in the sanctuary as the ---- of God's government.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "foundation"
+      }
+    ],
+    "options": [
+      "foundation",
+      "detail",
+      "mistake"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which aspect of Christ's ministry is directly linked to the sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His teachings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "His sacrifice",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "His resurrection",
+        "isCorrect": false
+      }
+    ]
+  }
+]

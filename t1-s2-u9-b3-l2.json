@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What affirmation about God's law is attributed to John Wesley?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is temporary",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It is absolute",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It stands fast as the faithful witness in heaven",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The ceremonial law is still in effect as per the New Testament teachings.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Psalm 89:14 states that righteousness and ---- are the foundation of God's throne.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "justice"
+      }
+    ],
+    "options": [
+      "justice",
+      "mercy",
+      "truth"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Psalm 119:142, what is the nature of God's law?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Changeable",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Temporary",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Truth",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White links the opposition to the sanctuary's truth with a rejection of:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's existence",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The law's validity",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Jesus' teachings",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Romans 7:11 states that sin, taking occasion by the ----, deceived me.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "commandment"
+      }
+    ],
+    "options": [
+      "commandment",
+      "law",
+      "rule"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The Great Controversy highlights that the law in the earthly sanctuary was an exact transcript of the:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "law in heaven",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Roman laws",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Philosophical principles",
+        "isCorrect": false
+      }
+    ]
+  }
+]

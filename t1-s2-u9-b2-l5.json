@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does 1 Peter 1:18-19 imply about the significance of Christ's blood in the context of the sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is symbolic only",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It cleanses from sin",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is a historical marker",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Ten Commandments were rewritten after Moses broke the first set. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Leviticus 23:29-31, the Day of Atonement is a time for ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "soul-searching"
+      }
+    ],
+    "options": [
+      "feasting",
+      "soul-searching",
+      "harvesting"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who was permitted to enter the Most Holy Place according to the Old Testament?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Any priest",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Only the high priest",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Levites",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Every Israelite was required to participate in the Day of Atonement rituals. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "On the Day of Atonement, the high priest would enter the Most Holy Place to make ---- for sin.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "atonement"
+      }
+    ],
+    "options": [
+      "prayer",
+      "atonement",
+      "offerings"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the presence of God's law in the heavenly sanctuary indicate about its nature?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is changeable",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It is eternal",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is advisory",
+        "isCorrect": false
+      }
+    ]
+  }
+]

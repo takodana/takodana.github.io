@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to James 2:10, to offend in one point of the law is to be ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Guilty of none",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Guilty of all",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Partially guilty",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The Sabbath commandment is irrelevant in the context of the sanctuary.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Satan encourages transgression to undermine ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "The Law"
+      }
+    ],
+    "options": [
+      "Worship",
+      "Faith",
+      "The Law"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The crisis over the mark of the beast relates to ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Economic policies",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Worship practices",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Political alliances",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The sanctuary's Most Holy Place holds no significant meaning for end-time worship.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Sabbath reminds us that God is our ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Creator"
+      }
+    ],
+    "options": [
+      "Creator",
+      "Judge",
+      "Healer"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The essence of sin, according to the study guide, is ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Rebellion",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Disobedience",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Ignorance",
+        "isCorrect": false
+      }
+    ]
+  }
+]

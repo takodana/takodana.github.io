@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Hebrews 10:3 tell us about the Day of Atonement?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It was a day of celebration",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It was a day of remembrance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It was a day of forgiveness",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Only the high priest could enter the Most Holy Place on the Day of Atonement. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The sacrifices on the Day of Atonement were a demonstration of God's ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "mercy"
+      }
+    ],
+    "options": [
+      "anger",
+      "mercy",
+      "indifference"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which biblical book details the materials inside the Ark of the Covenant?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Genesis",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Exodus",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Leviticus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Sabbath is irrelevant to the doctrine of the sanctuary. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The law inside the ark is a transcript of the law in the ---- sanctuary.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heavenly"
+      }
+    ],
+    "options": [
+      "heavenly",
+      "earthly",
+      "universal"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What represented God's presence above the Ark of the Covenant?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A crown of thorns",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Shekinah glory",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A golden halo",
+        "isCorrect": false
+      }
+    ]
+  }
+]

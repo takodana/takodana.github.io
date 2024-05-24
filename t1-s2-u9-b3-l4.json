@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "John Wesley emphasized that the moral law is:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Applicable only in Old Testament times",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Never to be abolished",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Only for the Jews",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: God's character changes over time.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White states that the law is the ---- of God's throne.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "foundation"
+      }
+    ],
+    "options": [
+      "foundation",
+      "decoration",
+      "shadow"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is significant about the law being placed in the ark in the sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It was hidden from view",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It symbolizes God's authority and law's centrality",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It was temporary",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to Psalm 111, what accompanies the fear of the Lord?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Wealth and prosperity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Understanding",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Long life",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Proverbs 28:9 implies that turning one's ear away from hearing the law makes their prayer an ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "abomination"
+      }
+    ],
+    "options": [
+      "abomination",
+      "insignificance",
+      "effort"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What do the scriptural comparisons in Exodus 34:5-7 and Romans 7:11, 12 highlight?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The complexity of the law",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The just nature of God as reflected in His law",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The historical context of the law",
+        "isCorrect": false
+      }
+    ]
+  }
+]

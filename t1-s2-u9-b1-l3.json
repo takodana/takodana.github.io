@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What role does the Sabbath play in last-day events according to Revelation 14:6-12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A sign of allegiance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A day of rest",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A symbol of past",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: God's law, as understood by Adventists, includes the Ten Commandments exclusively.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In the final crisis, the 'mark of the beast' challenges ---- of worship.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Freedom"
+      }
+    ],
+    "options": [
+      "Freedom",
+      "Method",
+      "Places"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The 'Most Holy Place' represents what aspect of Christ's ministry?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His sacrifice",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "His resurrection",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "His intercession",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Observing the Sabbath ensures compliance with all of God's law.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "James 2:10 teaches that breaking even one commandment is seen as breaking ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "All"
+      }
+    ],
+    "options": [
+      "All",
+      "None",
+      "Most"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The study guide suggests that Satan's strategy includes undermining the ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Gospel",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Sabbath",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Prophecy",
+        "isCorrect": false
+      }
+    ]
+  }
+]

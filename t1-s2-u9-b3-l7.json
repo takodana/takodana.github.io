@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Ellen G. White emphasizes that the law in the heavenly sanctuary is an exact transcript of:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Ten Commandments",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The law on Earth",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "New Testament teachings",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The essence of God's character is reflected in His laws.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Psalm 111:8 says that God's covenant and ---- are forever.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "precepts"
+      }
+    ],
+    "options": [
+      "promises",
+      "precepts",
+      "truth"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which verse emphasizes the permanence and perfection of God's law?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Romans 7:12",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Psalm 19:7",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "1 John 3:4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The unchangeable nature of God's law suggests that it is:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Irrelevant today",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Still relevant today",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Only relevant in Old Testament times",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The foundation of God's throne, as per Ellen G. White, is His ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "law"
+      }
+    ],
+    "options": [
+      "justice",
+      "law",
+      "mercy"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does Psalm 119 depict the law in terms of its impact on a believer's life?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As a burden",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "As a guide",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "As an option",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "mc3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "What does the 'testimony of Jesus Christ' in Revelation 12:17 refer to?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Prophecy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The Gospels",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Church Doctrine",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "The Sabbath is a reminder of God's role as ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Creator"
+      }
+    ],
+    "options": [
+      "Creator",
+      "Redeemer",
+      "King"
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The sanctuary theme is central to the Adventist understanding of worship.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "Which commandment is highlighted as foundational for worship in the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "First",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Fourth",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Tenth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Satan's rebellion was primarily against God's ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Character",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Law",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Authority",
+        "isCorrect": false
+      }
+    ]
+  }
+]

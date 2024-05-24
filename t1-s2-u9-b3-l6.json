@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which Psalm describes the law as more desirable than gold and sweeter than honey?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Psalm 119",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Psalm 19",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Psalm 34",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The law is only for understanding right from wrong.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "John Wesley described the moral law as standing fast as the ---- witness in heaven.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "faithful"
+      }
+    ],
+    "options": [
+      "faithful",
+      "eternal",
+      "solemn"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does Ellen G. White say about the impact of understanding the heavenly sanctuary on the law?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It diminishes its importance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It confirms its importance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It changes its interpretation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to John Wesley, the moral law is applicable to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Only the Israelites",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "All mankind\t in all ages",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Christians after Christ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The moral basis for humanity is often seen as a reflection of God's ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "law"
+      }
+    ],
+    "options": [
+      "power",
+      "law",
+      "mercy"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Ellen G. White's writings suggest that resistance to God's law is due to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Lack of knowledge",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Human nature",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Satanic deception",
+        "isCorrect": true
+      }
+    ]
+  }
+]

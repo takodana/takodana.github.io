@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What critical role does the law in the Most Holy Place play in the heavenly judgment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is the basis of judgment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is irrelevant",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is a witness only",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Shekinah glory signifies God's eternal absence. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Ark of the Covenant housed the Ten Commandments, which are a part of God's ---- law.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "moral"
+      }
+    ],
+    "options": [
+      "moral",
+      "ceremonial",
+      "civil"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "On what basis were the early Adventist believers led to affirm the perpetuity of the Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cultural tradition",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Biblical prophecy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Scriptural command",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The teachings on the heavenly sanctuary were fully understood in the early church. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The law of God in the heavenly sanctuary is the 'great original,' of which the stone tablets are an ---- transcript.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "exact"
+      }
+    ],
+    "options": [
+      "exact",
+      "altered",
+      "expanded"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which event is directly connected to the cleansing of the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Second Coming",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The Crucifixion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The Day of Atonement",
+        "isCorrect": true
+      }
+    ]
+  }
+]

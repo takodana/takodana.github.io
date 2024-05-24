@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to the writings of Ellen G. White, what is the true reason behind opposition to God's law?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Misunderstanding",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Moral decline",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Satanic influence",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The law of God can change with time as society evolves.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Psalm 19:11 promises great ---- for those who keep the law.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "reward"
+      }
+    ],
+    "options": [
+      "reward",
+      "power",
+      "freedom"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which verse implies that God's law is a reflection of His character?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Exodus 34:6-7",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "John 3:16",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Romans 1:20",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White discusses the law as foundational to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cultural identity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The throne of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Historical narratives",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Great Controversy describes the heavenly sanctuary's law as being the exact transcript of the law on ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "earth"
+      }
+    ],
+    "options": [
+      "earth",
+      "Mars",
+      "Saturn"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the 'secret' mentioned in The Great Controversy regarding the Sabbath commandment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Its changing nature",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Its eternal significance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Its cultural context",
+        "isCorrect": false
+      }
+    ]
+  }
+]

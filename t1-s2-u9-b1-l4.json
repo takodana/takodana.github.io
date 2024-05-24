@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which of these is NOT a theme of the Adventist study on the sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Creation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Sin",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Forgiveness",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The link between the sanctuary and the Sabbath is explicitly mentioned in Genesis.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 12:17 highlights the persecution of those who keep ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God's commandments"
+      }
+    ],
+    "options": [
+      "The faith",
+      "God's commandments",
+      "The tradition"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Adventist belief, what is the central issue in the last-day events?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Authority of Scripture",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Role of the church",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Identity of the Creator",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The final crisis will be a test of faith over doctrinal accuracy.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Sabbath serves as a memorial to God as our ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Creator"
+      }
+    ],
+    "options": [
+      "Redeemer",
+      "Creator",
+      "Protector"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The theme of God's government, as explored in the study guide, focuses on His ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Mercy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Justice",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Law",
+        "isCorrect": true
+      }
+    ]
+  }
+]

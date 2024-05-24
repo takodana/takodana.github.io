@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Psalm 111:7,8 teach about God's commandments?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are trustworthy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are temporary",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They are unclear",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Matthew 5:17 implies that Jesus came to abolish the law.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Ecclesiastes 12:13, the whole duty of man is to ---- God and keep His ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fear commandments"
+      }
+    ],
+    "options": [
+      "fear commandments",
+      "love words",
+      "serve laws"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "1 John 5:3 describes God's commandments as:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Burdensome",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Lovely",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Not burdensome",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to Proverbs 28:9, how does God view the prayers of those who turn away from the law?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "He hears them",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "He ignores them",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "He mocks them",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Psalm 19:7 states that the law of the Lord is perfect, converting the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "soul"
+      }
+    ],
+    "options": [
+      "soul",
+      "mind",
+      "heart"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Romans 7:12 declares the law to be:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Holy and just and good",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Old and outdated",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Complicated and confusing",
+        "isCorrect": false
+      }
+    ]
+  }
+]

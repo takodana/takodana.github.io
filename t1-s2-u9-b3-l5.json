@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What theological principle is illustrated by God's law being unchanged?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Divine adaptability",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Divine immutability",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Human flexibility",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The Ten Commandments are less relevant in the New Testament era.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White describes the law as a transcript of the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "character"
+      }
+    ],
+    "options": [
+      "heaven",
+      "character",
+      "word"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What do the cited Bible verses suggest about the role of the law in Christian life?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's optional",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It's foundational",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It's temporary",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How does Psalm 19 describe the commandments of the Lord?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Confusing and outdated",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Perfect and righteous",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Difficult and demanding",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Romans 7:12 calls the law holy, and the commandment holy, and just, and ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "good"
+      }
+    ],
+    "options": [
+      "pure",
+      "good",
+      "firm"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The Great Controversy points out that the law in the earthly sanctuary represents:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A metaphor for human laws",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "An exact copy of the heavenly law",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A guideline for priests only",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What was contained in the Ark of the Covenant according to Revelation 11:19?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Aaron's rod",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Manna",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The Ten Commandments",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The Day of Atonement was a day of celebration and feasting. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Day of Atonement is described as a day of ---- for Israel.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "judgment"
+      }
+    ],
+    "options": [
+      "celebration",
+      "judgment",
+      "feasting"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Ellen G. White in The Great Controversy, what is the significance of the law of God in the heavenly sanctuary?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is temporary",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It is unchanging",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is irrelevant",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The law of God was abolished at the cross. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The presence of God above the mercy seat is represented by ---- glory.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Shekinah"
+      }
+    ],
+    "options": [
+      "Shekinah",
+      "radiant",
+      "dim"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What was sprinkled on the mercy seat during the Day of Atonement?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Water",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Oil",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Blood",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the apostle John describe the temple in heaven in Revelation 11:19?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Closed",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Destroyed",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Opened",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The golden cover of the ark is known as the throne of grace. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The divine law is 'sacredly enshrined' in the ---- of holies in heaven.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "most"
+      }
+    ],
+    "options": [
+      "holy",
+      "most",
+      "inner"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which attribute of God is beautifully combined in the presence above the mercy seat?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Mercy and justice",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Power and wisdom",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Love and righteousness",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White's writings are considered additional scripture by Seventh-Day Adventists. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Day of Atonement symbolizes the final ---- of sin.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "eradication"
+      }
+    ],
+    "options": [
+      "celebration",
+      "remembrance",
+      "eradication"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the prophetic significance of the sanctuary service?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It foreshadows the end of the world",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It illustrates salvation history",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It represents the creation week",
+        "isCorrect": false
+      }
+    ]
+  }
+]

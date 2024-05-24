@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which item was not found in the Ark of the Covenant according to historical records?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Aaron's rod",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A golden pot of manna",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Elijah's cloak",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The teachings of the sanctuary help to understand the character of God. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The sanctuary service illustrates the ---- process.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "salvation"
+      }
+    ],
+    "options": [
+      "creation",
+      "salvation",
+      "educational"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What was the reaction of the Israelites when they saw the Shekinah glory?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They rejoiced",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They were indifferent",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They fell on their faces",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The Day of Atonement is the only day the high priest would enter the Most Holy Place. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The cover of the ark is referred to as the ---- seat.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "mercy"
+      }
+    ],
+    "options": [
+      "mercy",
+      "judgment",
+      "throne"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What symbolizes the ultimate removal of sin according to the sanctuary doctrine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The golden candlestick",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The cleansing of the sanctuary",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The showbread",
+        "isCorrect": false
+      }
+    ]
+  }
+]
