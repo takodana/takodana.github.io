@@ -1,0 +1,146 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the final test that will be brought to Christians worldwide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sabbath observance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Sunday law",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Prayer rituals",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How does one receive 'the mark of the beast'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Rejecting Sabbath",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Accepting Sunday",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "The 'mark of the beast' symbolizes ---- to papal authority.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "submission"
+      }
+    ],
+    "options": [
+      "submission",
+      "resistance",
+      "apathy"
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How are last-day events related to Sabbath observance?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Directly related",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Not related",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Irrelevant",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What should Christians understand about grace and law?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They contradict each other",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They are independent",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They harmonize",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 7,
+    "question": "Grace alone is sufficient for salvation, not ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "works"
+      }
+    ],
+    "options": [
+      "works",
+      "rituals",
+      "law"
+    ]
+  }
+]

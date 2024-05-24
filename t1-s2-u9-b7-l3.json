@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Ellen G. White, who enforces Sunday observance?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Rome",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Local churches",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Individuals",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What should Christians choose between?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Commandments of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Commandments of men",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Personal beliefs",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Christians must relate to government as ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "guides"
+      }
+    ],
+    "options": [
+      "guides",
+      "opponents",
+      "observers"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What danger does the union of church and state pose?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Limits religious freedom",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Enhances community",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Encourages diversity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Who has the authority to designate the true Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Pope",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Local pastors",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White emphasizes the importance of ---- in the face of end-time events.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "vigilance"
+      }
+    ],
+    "options": [
+      "vigilance",
+      "celebration",
+      "indifference"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the mark of allegiance to Rome?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sunday observance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Sabbath observance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Prayer",
+        "isCorrect": false
+      }
+    ]
+  }
+]

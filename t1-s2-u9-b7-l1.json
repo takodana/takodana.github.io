@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why is vigilance necessary for Christians in modern times?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Always be prepared",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "False teachings are prevalent",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Society changes rapidly",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is salvation achieved through obedience to the law?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Salvation is by grace alone, not by ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "works"
+      }
+    ],
+    "options": [
+      "works",
+      "faith",
+      "law"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How should Christians view the union of church and state?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As a potential threat",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "As a necessary evil",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "As beneficial",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What role does the Bible play in disputing popular but unbiblical doctrines?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Central",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Minimal",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "None",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White referred to Sunday as 'the ---- of the beast.'",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "mark"
+      }
+    ],
+    "options": [
+      "mark",
+      "image",
+      "sign"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which day is the Sabbath according to biblical commandment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sunday",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Saturday",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Any day",
+        "isCorrect": false
+      }
+    ]
+  }
+]

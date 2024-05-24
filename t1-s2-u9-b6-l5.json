@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Revelation 14 say about the timing of God's judgment?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is imminent",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is delayed indefinitely",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It has already passed",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What role does 'the beast' play in the end times according to Revelation 14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Antagonist",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Neutral observer",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Supporting character",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 14 warns against worshiping the beast and his ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "image"
+      }
+    ],
+    "options": [
+      "image",
+      "statue",
+      "creation"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the 'wine' of Babylon cause people to do?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Reject true worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Adopt new technologies",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Become physically ill",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the 'faith of Jesus' accessible to everyone? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The 'faith of Jesus' enables believers to face ---- without fear.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "death"
+      }
+    ],
+    "options": [
+      "death",
+      "success",
+      "challenges"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which is a key element of the end-time messages in Revelation 14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Call to repentance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Advocacy for peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Political reform",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the primary emotion of the devil towards God's end-time people as described in Revelation 12:12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Rage",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Jealousy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The two beasts in Revelation 13 symbolize spiritual powers aligned against God's people.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Revelation 13:7, the beast was given power to make ---- with the saints.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "war"
+      }
+    ],
+    "options": [
+      "war",
+      "peace",
+      "alliance"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What key theme is repeated throughout Revelation 13 and 14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Worship of the Creator",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Worship of the beast",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Persecution of the saints",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The conflict between Christ and Satan began over what issue according to Isaiah 14:14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Desire for power",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Need for recognition",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Worship",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Daniel 7 and Revelation 13 both describe a beast that seeks to change ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "times"
+      }
+    ],
+    "options": [
+      "times",
+      "laws",
+      "visions"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to Revelation 14:12, who are God's faithful people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Those who worship on Sunday",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Those who keep the commandments",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Those who bear witness to Jesus",
+        "isCorrect": false
+      }
+    ]
+  }
+]

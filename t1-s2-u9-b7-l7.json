@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What ultimately separates those who receive the mark of the beast from those who don't?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Day of worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Beliefs about God",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Does everyone who observes Sunday receive the mark of the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Christians must choose between God's commandments and ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "man's"
+      }
+    ],
+    "options": [
+      "man's",
+      "earth's",
+      "nature's"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What signifies acceptance of the beast's mark?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Enforced Sunday observance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Private Sunday worship",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What does the true Sabbath signify?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's creation power",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Just another day",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White warns against the danger of ---- in the last days.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "complacency"
+      }
+    ],
+    "options": [
+      "complacency",
+      "activity",
+      "excess"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does vigilance relate to the observance of the true Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is crucial",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is unrelated",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is optional",
+        "isCorrect": false
+      }
+    ]
+  }
+]

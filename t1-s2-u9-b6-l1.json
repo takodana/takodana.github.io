@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does 'Fear God' signify in the context of the first angel's message?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Reverence",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Terror",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The first angel's message includes worship of the Creator. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Babylon is described as having made all nations drink of the ---- of wrath.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "wine"
+      }
+    ],
+    "options": [
+      "wine",
+      "cup",
+      "water"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does Babylon represent in Revelation 14:8?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A literal city",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A fallen religious system",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A historical event",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Worshipping 'the beast and his image' is warned against. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Heaven's appeal in the first angel's message is to worship Him who made ---- and earth.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heaven"
+      }
+    ],
+    "options": [
+      "heaven",
+      "sky",
+      "stars"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the primary alternative to worshipping the Creator mentioned in the messages?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Worshipping nature",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Worshipping the beast",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ]
+  }
+]

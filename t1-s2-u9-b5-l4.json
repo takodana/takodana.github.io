@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Who gives authority to the beast in Revelation 13:4?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The dragon",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The people",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "God",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Revelation 22:9 condemns worship of angels.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The final messages of warning are delivered by three ---- in Revelation 14.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "angels"
+      }
+    ],
+    "options": [
+      "angels",
+      "prophets",
+      "kings"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the image of the beast represent in Revelation 13:14-15?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Enforced religious practices",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "False teachings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Political alliances",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Accepting the mark of the beast affects one's salvation.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Revelation 20:4 speaks of those who did not worship the beast or his ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "image"
+      }
+    ],
+    "options": [
+      "image",
+      "name",
+      "throne"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What ultimate fate awaits the beast according to Revelation 19:20?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Thrown into the lake of fire",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Eternal rule",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Lives in peace",
+        "isCorrect": false
+      }
+    ]
+  }
+]

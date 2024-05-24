@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Revelation 14 characterize the followers of the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Deceived",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Loyal",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Enlightened",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The imagery of drinking wine in Revelation 14 symbolizes what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Adopting false beliefs",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Enjoying life",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Celebrating victories",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Followers of the beast receive a ---- in their foreheads or hands.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "mark"
+      }
+    ],
+    "options": [
+      "mark",
+      "scar",
+      "tattoo"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Does Revelation 14 present the final crisis as avoidable? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What does worship of the Creator in Revelation 14 imply?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Total allegiance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Occasional commitment",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Compulsory service",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Sabbath is a sign of ---- between God and His people.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "covenant"
+      }
+    ],
+    "options": [
+      "covenant",
+      "conflict",
+      "cooperation"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the significance of the faith of Jesus in the context of Revelation 14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It sustains believers",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is symbolic",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is outdated",
+        "isCorrect": false
+      }
+    ]
+  }
+]

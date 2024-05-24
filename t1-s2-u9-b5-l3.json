@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What role does the land beast play according to Revelation 13:11-12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It enforces the sea beast's policies",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It promotes peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It challenges the dragon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The final conflict involves a choice between two forms of worship.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The controversy over worship began in heaven and is highlighted in ---- 14:14.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Isaiah"
+      }
+    ],
+    "options": [
+      "Isaiah",
+      "Revelation",
+      "Daniel"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the consequence of worshiping the beast according to Revelation 14:9-10?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Receiving God's wrath",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Financial ruin",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Social exclusion",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The three angels' messages in Revelation 14 emphasize obedience to God.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "According to Revelation 14:12, God's people are described as those who keep the commandments and have the ---- of Jesus.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "faith"
+      }
+    ],
+    "options": [
+      "faith",
+      "law",
+      "spirit"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the significance of the number '666' related to the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A symbol of imperfection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Count of nations",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Code for wealth",
+        "isCorrect": false
+      }
+    ]
+  }
+]

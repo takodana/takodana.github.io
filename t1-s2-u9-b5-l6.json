@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Revelation 13:8, who will worship the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "All whose names are not written in the Book of Life",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Only the wicked",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Only non-believers",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The dragon gives his power to the beast.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 14:11 describes the smoke of their torment ascending forever and ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "ever"
+      }
+    ],
+    "options": [
+      "ever",
+      "now",
+      "soon"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What action does the beast from the land encourage people to take in Revelation 13:14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Make an image of the first beast",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Worship the dragon",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Destroy the temples",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: False worship is marked by the acceptance of the beast's mark.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The final warning against worshipping the beast and his image is found in Revelation 14:----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "9"
+      }
+    ],
+    "options": [
+      "9",
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Revelation 19:20 say about the fate of the beast and the false prophet?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are cast into the lake of fire",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They flee",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They repent",
+        "isCorrect": false
+      }
+    ]
+  }
+]

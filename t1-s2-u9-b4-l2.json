@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What role does Ezekiel 20:12 play in understanding the Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Shows historical context",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Defines it as a sign",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What is the link between the Sabbath and 'righteousness by faith'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's legalistic",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It's grace-based",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It's misunderstood",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The 'special blessing' of the Sabbath was placed by God in that day and ---- else.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "no"
+      }
+    ],
+    "options": [
+      "no",
+      "no one",
+      "nothing"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does the Sabbath relate to the 'new heavens and the new earth'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's a reminder",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It's unrelated",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It's a precondition",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Revelation 14 calls us to remember the Creator on the Sabbath, emphasizing what aspect?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His power",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "His love",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "His judgment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Keeping the Sabbath connects the perfection of Eden with the glory of the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "future"
+      }
+    ],
+    "options": [
+      "future",
+      "past",
+      "present"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does the Sabbath reflect 'rest of grace'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By providing peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "By ensuring salvation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By freeing from works",
+        "isCorrect": true
+      }
+    ]
+  }
+]

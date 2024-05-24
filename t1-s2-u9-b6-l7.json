@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Revelation 14 calls for a choice between worship of the Creator and who?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The beast",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Other deities",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Human leaders",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does the falling of Babylon signify?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A spiritual awakening",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A literal event",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The collapse of a false religious system",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The first angel's message calls for giving glory to ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God"
+      }
+    ],
+    "options": [
+      "God",
+      "kings",
+      "earth"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Are the messages in Revelation 14 meant to be taken metaphorically? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The end-time messages emphasize the importance of what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Keeping the commandments",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Personal achievements",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Wealth accumulation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The 'image of the beast' refers to a system of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "worship"
+      }
+    ],
+    "options": [
+      "worship",
+      "law",
+      "government"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The ultimate test in Revelation 14 is over what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Loyalty",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Intelligence",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Strength",
+        "isCorrect": false
+      }
+    ]
+  }
+]

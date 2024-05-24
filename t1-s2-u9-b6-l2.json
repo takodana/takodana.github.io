@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In Revelation 14:12, what is NOT listed as a characteristic of God's end-time people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Faithfulness",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Obedience",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Wearing specific garments",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The 'wine' of Babylon's fornication symbolizes what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "False doctrines",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Physical wine",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The second angel's message declares that Babylon is ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fallen"
+      }
+    ],
+    "options": [
+      "fallen",
+      "destroyed",
+      "renewed"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Does the second angel's message apply to a physical or a spiritual fall of Babylon?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Spiritual",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Physical",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the message of the second angel relevant to our time? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Keeping the commandments of God is a form of ---- the Creator.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "worshipping"
+      }
+    ],
+    "options": [
+      "worshipping",
+      "denying",
+      "ignoring"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The 'faith of Jesus' is described as a faith that what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cannot be shaken",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Is easily lost",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Is seldom found",
+        "isCorrect": false
+      }
+    ]
+  }
+]

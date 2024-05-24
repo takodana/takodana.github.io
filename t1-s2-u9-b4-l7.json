@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why is the Sabbath considered a 'joyous rest'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's a break from labor",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It's a celebration of creation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 2,
+    "question": "The rest we experience on Sabbath symbolizes rest from our own ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "efforts"
+      }
+    ],
+    "options": [
+      "efforts",
+      "errors",
+      "thoughts"
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "Is the Sabbath only about physical rest, according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "No",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Yes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does the Sabbath function as a sign of redemption?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It commemorates God's creation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It symbolizes spiritual renewal",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "Observance of the Sabbath is a declaration of our ---- to God.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "loyalty"
+      }
+    ],
+    "options": [
+      "loyalty",
+      "love",
+      "service"
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What does keeping the Sabbath say about a person's worldview?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's biblically based",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It's traditionally bound",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It's personally chosen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does the Sabbath reinforce the message of Revelation 14:6-7?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By emphasizing worship",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "By focusing on creation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  }
+]

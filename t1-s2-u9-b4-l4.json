@@ -1,0 +1,166 @@
+[
+  {
+    "id": "fib1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 1,
+    "question": "The guide explains that Sabbath keeping is not about legalism, but about ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "grace"
+      }
+    ],
+    "options": [
+      "grace",
+      "law",
+      "custom"
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How is the 'rest of grace' accessible through the Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Through worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Through work",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Through meditation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "What is the ultimate purpose of observing the Sabbath according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To obey God",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "To receive blessing",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To connect with creation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "Sabbath observance connects us to the Creator and the coming ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Kingdom"
+      }
+    ],
+    "options": [
+      "Kingdom",
+      "War",
+      "Promise"
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Why is understanding the Sabbath crucial for modern believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It shapes worldview",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It impacts daily behavior",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It strengthens faith",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "The Sabbath and its rest is a counter to what modern cultural assertion?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "That we control time",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "That we are self-sufficient",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "That work defines us",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 7,
+    "question": "Emphasizing rest on the Sabbath underlines our dependence on ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God"
+      }
+    ],
+    "options": [
+      "God",
+      "effort",
+      "strength"
+    ]
+  }
+]

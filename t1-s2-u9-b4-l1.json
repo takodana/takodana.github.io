@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Revelation 14:7 imply about God's relationship to creation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Creator",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Judge",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Redeemer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Genesis 2:1-3 highlights the Sabbath as a symbol of which aspect of God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Creation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Redemption",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Justice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to the guide, the Sabbath is a day to rest in ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "grace"
+      }
+    ],
+    "options": [
+      "grace",
+      "faith",
+      "love"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does Exodus 20:8-11 frame the importance of the Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As a command",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "As a suggestion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "As a minor detail",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The concept of 'rest' in the Sabbath refers primarily to which type of rest?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Physical",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Spiritual",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Emotional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Sabbath serves as a sign of loyalty to the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Creator"
+      }
+    ],
+    "options": [
+      "Creator",
+      "Redeemer",
+      "King"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Discussing the Sabbath as a symbol of Redemption is seen as legalistic because it emphasizes what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Works",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Grace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Faith",
+        "isCorrect": false
+      }
+    ]
+  }
+]

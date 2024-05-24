@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What major theme centers around the conflict described in Revelation 14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Great Controversy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Birth of Christ",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Creation of Earth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The concept of 'the beast' primarily symbolizes what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A political power",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A spiritual deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "An economic system",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The 'beast and his image' represent a system of ---- worship.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "FALSE"
+      }
+    ],
+    "options": [
+      "FALSE",
+      "TRUE",
+      "ancient"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Is the command to worship God only applicable in a historical context? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to Revelation 14, what does the 'beast' oppose?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Law of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Modern technology",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Social order",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The crisis ahead involves an economic ----, among other trials.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "boycott"
+      }
+    ],
+    "options": [
+      "boycott",
+      "surge",
+      "collapse"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the 'faith of Jesus' help believers to endure?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Persecution",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Wealth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Complacency",
+        "isCorrect": false
+      }
+    ]
+  }
+]

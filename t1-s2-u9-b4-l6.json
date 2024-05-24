@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is one argument against the claim that Sabbath-keeping is legalistic?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's based on grace",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It's merely traditional",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It's flexible",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How is the Sabbath linked to the concept of 'cosmic conflict'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It shows God's control",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It resists earthly powers",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Sabbath ensures we remember we are not ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "alone"
+      }
+    ],
+    "options": [
+      "alone",
+      "powerless",
+      "lost"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the Sabbath teach about our personal value to God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It highlights it",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It diminishes it",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is irrelevant",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How does the Sabbath challenge the secular narrative of human origin?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By affirming creation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By dismissing evolution",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Sabbath rest is a testament to God's ---- in our lives.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "providence"
+      }
+    ],
+    "options": [
+      "work",
+      "providence",
+      "control"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What spiritual benefit does the Sabbath offer according to Genesis 2:1-3?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A connection to creation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A reminder of redemption",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  }
+]

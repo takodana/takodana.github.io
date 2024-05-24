@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What marks those who choose Rome's authority over God's?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sunday observance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Sabbath observance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Can sincerity in Sunday observance replace the truth of the Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Enforcement of Sunday laws is a ---- of prophetic events.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fulfillment"
+      }
+    ],
+    "options": [
+      "fulfillment",
+      "denial",
+      "beginning"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Does God hold those ignorant of the true Sabbath accountable?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What does 'worshiping the beast and his image' imply?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Following man-made doctrines",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Attending church regularly",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Accepting the mark of the beast shows ---- to human authority.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "submission"
+      }
+    ],
+    "options": [
+      "submission",
+      "opposition",
+      "neutrality"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Why must Christians study prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To predict the future",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "To understand God's will",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To debate with others",
+        "isCorrect": false
+      }
+    ]
+  }
+]

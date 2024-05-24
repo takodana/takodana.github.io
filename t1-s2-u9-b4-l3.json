@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "True Sabbath rest is described as rest in the loving arms of which figures?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Father",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The Son",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "All mentioned",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 2,
+    "question": "The Sabbath reminds us that Eden's splendors will be ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "restored"
+      }
+    ],
+    "options": [
+      "restored",
+      "removed",
+      "reduced"
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "Why is Sabbath keeping seen as a testimony of faith in modern times?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It opposes popular culture",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It aligns with Biblical prophecy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does 'rest in His love and care each Sabbath' imply about God's character?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "He is loving",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "He is distant",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "He is strict",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "Sabbath as a command shows our loyalty to God and not to ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "ourselves"
+      }
+    ],
+    "options": [
+      "ourselves",
+      "traditions",
+      "others"
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What misconception does the Sabbath address about the nature of salvation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's earned",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It's given",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It's self-derived",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "In what way is the Sabbath a symbol of assurance?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It assures rest",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It assures salvation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It assures forgiveness",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the ultimate choice presented in Revelation 14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Between good and evil",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Between different political ideologies",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Between various religious figures",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The messages of Revelation 14 aim to prepare us for what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Second Coming",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The next millennium",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "An earthly kingdom",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Revelation 14, the true worship is contrasted with the worship of the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "beast"
+      }
+    ],
+    "options": [
+      "beast",
+      "moon",
+      "sun"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Does Revelation 14 suggest a physical or spiritual preparation for believers? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What kind of worship does the first angel's message emphasize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Heartfelt",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Occasional",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Forced",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The end times are characterized by a battle over ---- allegiance.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "spiritual"
+      }
+    ],
+    "options": [
+      "spiritual",
+      "political",
+      "social"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is at the heart of the controversy described in Revelation 14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Sabbath",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The Eucharist",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Fasting",
+        "isCorrect": false
+      }
+    ]
+  }
+]

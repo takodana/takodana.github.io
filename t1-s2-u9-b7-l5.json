@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Ellen G. White mean by 'honoring popery above God'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Accepting human tradition",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Rejecting biblical truth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Why is understanding the true Sabbath crucial for last-day events?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Prevents deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Ensures salvation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Observing Sunday as a holy day is a sign of ---- to earthly powers.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "loyalty"
+      }
+    ],
+    "options": [
+      "loyalty",
+      "defiance",
+      "indifference"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the result of choosing man's law over God's commandments?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Receiving the mark of the beast",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Increased worldly honor",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is it possible to be a true Christian and observe Sunday?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The final conflict will be over the issue of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "worship"
+      }
+    ],
+    "options": [
+      "worship",
+      "wealth",
+      "power"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How should Christians respond to laws enforcing Sunday worship?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Comply",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Resist",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Adapt",
+        "isCorrect": false
+      }
+    ]
+  }
+]

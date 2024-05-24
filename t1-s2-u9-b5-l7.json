@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the call of the first angel in Revelation 14:7?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To fear God and give Him glory",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "To follow the beast",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "To doubt the prophecies",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Everyone on Earth will be forced to receive the mark of the beast.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 14:10 warns that those who worship the beast will drink of the wine of the wrath of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God"
+      }
+    ],
+    "options": [
+      "God",
+      "man",
+      "the beast"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the second beast cause all to receive according to Revelation 13:16?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A mark on their right hand or forehead",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A blessing",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A divine sign",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The Book of Revelation predicts a time of peace before the end times.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The blessed hope of Christians is the ---- coming of Christ.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "second"
+      }
+    ],
+    "options": [
+      "second",
+      "final",
+      "only"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What final message do the three angels of Revelation 14 bring?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A call to worship God truly",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A warning about the end times",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Instructions for survival",
+        "isCorrect": false
+      }
+    ]
+  }
+]

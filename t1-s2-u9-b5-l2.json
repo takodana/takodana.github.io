@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Revelation 12:17 describe God's end-time people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They keep the commandments",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They fear the beast",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They seek worldly power",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Worship is a central theme in the conflict described in Revelation 14.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 14:7 calls people to worship ---- who made heaven and earth.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God"
+      }
+    ],
+    "options": [
+      "God",
+      "beasts",
+      "kings"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the sea beast in Revelation 13 represent?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A political power",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A religious movement",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A commercial system",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The mark of the beast is enforced worship.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Revelation 13:15 states that those who do not worship the image of the beast should be ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "killed"
+      }
+    ],
+    "options": [
+      "killed",
+      "exalted",
+      "ignored"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What alternative does God provide to the beast's mark according to Revelation 14:9-11?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The seal of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Celestial protection",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Financial prosperity",
+        "isCorrect": false
+      }
+    ]
+  }
+]

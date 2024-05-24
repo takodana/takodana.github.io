@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What significance does Sabbath worship hold in the end-time context according to Revelation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A test of loyalty",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A cultural tradition",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "An outdated practice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The Sabbath is the seal of God as contrasted with the mark of the beast.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In Revelation 16:2, those who accepted the beast's mark suffer from ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sores"
+      }
+    ],
+    "options": [
+      "sores",
+      "wealth",
+      "delusions"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who are the 'saints' described in Revelation 14:12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Those who keep the commandments",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Those who worship freely",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Those who doubt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The three angels' messages call for the worship of the true God alone.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Revelation 22:14 blesses those who do His commandments, that they may have right to the ---- of life.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "tree"
+      }
+    ],
+    "options": [
+      "tree",
+      "river",
+      "city"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the ultimate destiny of Satan according to Revelation 20:10?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cast into the lake of fire",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Reformed",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Exiled",
+        "isCorrect": false
+      }
+    ]
+  }
+]

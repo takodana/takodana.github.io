@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the true Sabbath as mentioned in the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sunday",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Saturday",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Any day",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Are there true Christians in every church regarding Sabbath observance?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The 'mark of the beast' is a symbol of ---- to Rome.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "allegiance"
+      }
+    ],
+    "options": [
+      "allegiance",
+      "opposition",
+      "rebellion"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How can Christians witness about the true Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Through dialogue",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By coercion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Through isolation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Does God accept the sincerity of those who observe Sunday?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The union of church and state is often seen as a ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "threat"
+      }
+    ],
+    "options": [
+      "threat",
+      "benefit",
+      "neutral"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What question challenges the popular view on the Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Why is it widely misinterpreted?",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Is it really Saturday?",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Can it be any day?",
+        "isCorrect": false
+      }
+    ]
+  }
+]
