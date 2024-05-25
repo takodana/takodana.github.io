@@ -6,8 +6,22 @@
     "sequence": 1,
     "type": "MC",
     "questionNumber": 1,
-    "question": "\"What is referred to as the 'new and living way' that Jesus opened for us, according to Hebrews 10:20?\"Christ's resurrection,Christ's teachings,Christ's sacrifice,,Christ's sacrifice,",
-    "options": []
+    "question": "What is referred to as the 'new and living way' that Jesus opened for us, according to Hebrews 10:20?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Christ's resurrection"
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's teachings"
+      },
+      {
+        "id": "opt2",
+        "text": "Christ's sacrifice",
+        "isCorrect": true
+      }
+    ]
   },
   {
     "id": "mc2",
@@ -41,11 +55,7 @@
     "type": "FIB",
     "questionNumber": 3,
     "question": "Hebrews 4:14 encourages us to 'hold fast our ----'.",
-    "options": [
-      "faith",
-      "confession",
-      "hope"
-    ],
+    "options": ["faith", "confession", "hope"],
     "blanks": [
       {
         "position": 0,
@@ -105,11 +115,7 @@
     "type": "FIB",
     "questionNumber": 6,
     "question": "Blood seen on the horns of the golden altar of incense represents ----.",
-    "options": [
-      "mercy",
-      "sacrifice",
-      "intercession"
-    ],
+    "options": ["mercy", "sacrifice", "intercession"],
     "blanks": [
       {
         "position": 0,
