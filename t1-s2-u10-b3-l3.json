@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the fundamental error about death according to Psalms and Job?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is a passage",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It is a sleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is an awakening",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How should Christians view the death of those 'in Christ' according to the teachings?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As a tragedy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "As a rest",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "As a final end",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The resurrection morning is a time when the dead will 'wake up' from their ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sleep"
+      }
+    ],
+    "options": [
+      "sleep",
+      "errors",
+      "fears"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the 'sleep of death' imply about the consciousness of the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are aware",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They are at peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They know nothing",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The idea of death as sleep is meant to provide comfort concerning:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The afterlife",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The nature of God",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The resurrection",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The concept of the dead sleeping until Jesus returns is meant to counteract false teachings of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "spiritism"
+      }
+    ],
+    "options": [
+      "spiritism",
+      "heaven",
+      "hell"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Job's hope for 'seeing God' after awakening is linked to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His faith",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "His resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "His previous life",
+        "isCorrect": false
+      }
+    ]
+  }
+]

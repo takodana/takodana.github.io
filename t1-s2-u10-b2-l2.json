@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does spiritualism counterfeit Christianity?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By promoting false doctrines",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By changing biblical stories",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By altering commandments",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What did Jesus come to free us from, according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sin",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Law",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Chains of evil",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Spiritualism is at the heart of Satan's plan to ---- the world.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "capture"
+      }
+    ],
+    "options": [
+      "deceive",
+      "capture",
+      "release"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is a common misconception about death according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "People die temporarily",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The dead communicate",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The dead go to heaven immediately",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What do Job 7:7-9 and Isaiah 8:19-20 teach about death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is final",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is transitional",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is reversible",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The teachings on the state of the dead are meant to protect us from Satan's ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "deceptions"
+      }
+    ],
+    "options": [
+      "lies",
+      "deceptions",
+      "truths"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How effective have people found explaining the state of the dead to other Christians?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Very effective",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Somewhat effective",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Not effective",
+        "isCorrect": false
+      }
+    ]
+  }
+]

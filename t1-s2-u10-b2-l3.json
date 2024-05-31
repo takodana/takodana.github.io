@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What biblical evidence contradicts the immortality of the soul?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Creation story",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Ten Commandments",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Passages about death and resurrection",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Why is the concept of soul's immortality considered dangerous?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It misleads about God's nature",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It encourages sin",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "False teachings leave people vulnerable to Satan's ---- during crises.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "attacks"
+      }
+    ],
+    "options": [
+      "attacks",
+      "tricks",
+      "errors"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which biblical figures are often misinterpreted to support soul immortality?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Moses and Elijah",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Paul and Peter",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Adam and Eve",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Why is the death penalty prescribed for spiritists in the Old Testament?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To deter sin",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "To prevent idolatry",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The belief in immortality often leads to ---- in spiritual crises.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "panic"
+      }
+    ],
+    "options": [
+      "calm",
+      "panic",
+      "overconfidence"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What role does fear play in Matthew 10:28's teaching on the soul?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is irrelevant",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It motivates obedience",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It encourages faith",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What foundational belief of spiritualism is highlighted as a deception?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "You will live forever'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "You will not surely die'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "You will become an angel'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Near death experiences are presented as evidence that:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The dead can communicate'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The dead are not truly dead'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The dead watch over the living'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Spiritualism began with the serpent's lie: 'You will not ---- die'.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "surely'"
+      }
+    ],
+    "options": [
+      "surely'",
+      "actually'",
+      "really'"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The aim of this Bible study lesson is to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Promote spiritualism'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Encourage biblical literacy'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Showcase mystical experiences'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The story of the Fox sisters teaches us about:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The truth of spiritualism'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The deceit in spiritualism'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The entertainment value of spiritualism'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Our safeguard against deception is a relationship with ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ'"
+      }
+    ],
+    "options": [
+      "Christ'",
+      "nature'",
+      "self'"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What should our hearts and senses not override?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Our understanding'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Our spiritual experiences'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Biblical teachings'",
+        "isCorrect": true
+      }
+    ]
+  }
+]

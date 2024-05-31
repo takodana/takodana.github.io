@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the danger of believing in the messages of the dead as per the Bible study?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It leads to true enlightenment'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It contradicts biblical teachings'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It enhances spiritual awareness'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Spiritualism can lead to a closer relationship with God.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE'",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "To guard against deception, we must rely on ---- teachings.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "biblical'"
+      }
+    ],
+    "options": [
+      "biblical'",
+      "cultural'",
+      "personal'"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What did the serpent's message to Eve fundamentally deny?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's authority'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The nature of sin'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The reality of death'",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Spiritualism's claims about the dead are:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Supported by the Bible'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A test of faith'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Contrary to biblical teaching'",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Fox sisters' claims were later admitted to be ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fraudulent'"
+      }
+    ],
+    "options": [
+      "true'",
+      "fraudulent'",
+      "misunderstood'"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What should be the basis of our understanding of death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cultural beliefs'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Personal experiences'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Biblical doctrine'",
+        "isCorrect": true
+      }
+    ]
+  }
+]

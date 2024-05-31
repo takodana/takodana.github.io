@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the belief in soul immortality affect evangelism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It enhances it",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It complicates it",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It has no effect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What theological implications does the doctrine of the soul's immortality hold?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It challenges the resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It confirms eternal life",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It supports purgatory",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Spiritualism affects the believer's ---- towards biblical truths.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "attitude"
+      }
+    ],
+    "options": [
+      "attitude",
+      "indifference",
+      "affection"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Why is it crucial to debunk the myth of the immortal soul in Christian teaching?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To restore biblical truth",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "To promote free will",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "To enhance church authority",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What risks do false doctrines about the afterlife pose to Christian integrity?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They undermine it",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They strengthen it",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They have no impact",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White warns that spiritualism will ---- in the last days.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "increase"
+      }
+    ],
+    "options": [
+      "increase",
+      "decrease",
+      "remain stable"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What should be the focus of biblical teaching regarding death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The nature of the soul",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The hope of resurrection",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  }
+]

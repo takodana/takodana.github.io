@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What deception concerning the dead is warned against in The Great Controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Their eternal joy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Their return as spirits",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Their judgment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The metaphor used for death in the book of Job (Job 14:12) is:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A deep sleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A new beginning",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A dark night",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Job 19:25 speaks of awakening, suggesting resurrection from the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "dead"
+      }
+    ],
+    "options": [
+      "dead",
+      "past",
+      "future"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Daniel 12:2 implies that the dead will:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Stay in heaven",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Rise again",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Be forgotten",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Psalm 76:6 calls the death of Assyrian soldiers their 'final ----'.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "battle",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "sleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "retreat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The belief in communication with the dead is considered ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "paganism"
+      }
+    ],
+    "options": [
+      "paganism",
+      "truth",
+      "scripture"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Ellen G. White emphasizes that appearances of the dead are actually:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Angels",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Demons",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Visions",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to Ellen G. White, where did the idea of the soul's immortality come from?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Christian doctrine",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Paganism",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Judaism",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does Matthew 10:28 teach us about the soul?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is immortal",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It can be destroyed",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is untouchable",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The Lord commanded His people not to tolerate a ---- among them.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "medium"
+      }
+    ],
+    "options": [
+      "medium",
+      "prophet",
+      "singer"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the biblical punishment for engaging with mediums according to Leviticus 20:27?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Excommunication",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Imprisonment",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Death",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What does witchcraft represent in biblical terms?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Freedom",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "False worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Enlightenment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ecclesiastes 9:5 says that the dead know ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "nothing"
+      }
+    ],
+    "options": [
+      "nothing",
+      "everything",
+      "a lot"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What danger does spiritualism pose according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Confusion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Liberation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Enslavement",
+        "isCorrect": true
+      }
+    ]
+  }
+]

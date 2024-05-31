@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which biblical event does spiritualism's foundational belief contradict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Creation'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The resurrection of Jesus'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The flood'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The Fox sisters' communications were genuine spiritual experiences.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE'",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The lesson warns against the last-day ---- of Satan.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "delusions'"
+      }
+    ],
+    "options": [
+      "delusions'",
+      "promises'",
+      "gifts'"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is our only safeguard against spiritual deception?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Philosophical studies'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A personal relationship with Christ'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Scientific evidence'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What does the serpent's lie in Eden imply about death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is a passage to another life'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It is not permanent'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is a natural process'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The Bible's teachings about death are critical regardless of what our ---- might say.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "hearts'"
+      }
+    ],
+    "options": [
+      "hearts'",
+      "minds'",
+      "eyes'"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What genre of experiences are NDEs often associated with?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Scientific'",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Spiritual'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Historical'",
+        "isCorrect": false
+      }
+    ]
+  }
+]

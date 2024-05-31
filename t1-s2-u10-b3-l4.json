@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What do the cited verses collectively teach about the nature of death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It's a temporary rest",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It's an eternal journey",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It's a state of limbo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The sleep metaphor used in the Bible for death emphasizes:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Lack of consciousness",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Continuation of the soul",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Reunion with loved ones",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The 'awakening' at resurrection spoken of in Daniel suggests the dead are currently in a state of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "rest"
+      }
+    ],
+    "options": [
+      "rest",
+      "turmoil",
+      "activity"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the key misconception about death that Ellen G. White warns against in The Great Controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "That the dead can communicate",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "That death is final",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "That the dead go to heaven",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How does the Bible depict the state of the dead, contrary to pagan beliefs?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As asleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "As roaming spirits",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "As suffering souls",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White cautions against the belief that the dead are ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "present"
+      }
+    ],
+    "options": [
+      "present",
+      "missing",
+      "active"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The biblical comparison of death to sleep serves to clarify what about the afterlife?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "There is no conscious experience",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Souls are in purgatory",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Spirits roam the earth",
+        "isCorrect": false
+      }
+    ]
+  }
+]

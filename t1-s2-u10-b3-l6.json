@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What fundamental misunderstanding about the dead does Ellen G. White address?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "That they influence the living",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "That they ascend to heaven",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "That they are in hell",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How does the Old Testament consistently describe the state of the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As asleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "As watching over us",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "As being tested",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Pagan beliefs include the dead becoming ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "spirits"
+      }
+    ],
+    "options": [
+      "spirits",
+      "guardians",
+      "gods"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The 'rest' in death suggests what about the conditions of the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are at peace",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are in chaos",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They are in a struggle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to the study guide, what is the state of the dead until resurrection?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Unconscious",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Active in spirit",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Communicating with the living",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Job speaks of not waking from the sleep of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "death"
+      }
+    ],
+    "options": [
+      "death",
+      "life",
+      "dreams"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The metaphor of sleep used in the Bible helps to convey what about the nature of death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is temporary",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is a new beginning",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is to be feared",
+        "isCorrect": false
+      }
+    ]
+  }
+]

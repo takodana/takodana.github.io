@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Psalm 6:5 teach about the state of the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are conscious",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They are asleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They are in heaven",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to 1 Kings 14:20, death is described as:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A journey",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A sleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A punishment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The expression 'slept with their fathers' indicates that death is like a ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "rest"
+      }
+    ],
+    "options": [
+      "rest",
+      "departure",
+      "curse"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does Psalm 115:17 view the condition of the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They praise God",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They rest in silence",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They suffer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White's view on death suggests it is a:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Natural transition",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "State of sleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Eternal torment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Death being a 'sleep' suggests that the dead are ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "unaware"
+      }
+    ],
+    "options": [
+      "unaware",
+      "active",
+      "haunted"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The concept of 'sleep of death' in Psalms supports which of the following views about death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Punishment",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Rest",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Transition",
+        "isCorrect": false
+      }
+    ]
+  }
+]

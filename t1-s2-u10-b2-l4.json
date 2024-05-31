@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why is it crucial to understand the true state of the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To avoid deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "To perform rituals",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "To communicate with ancestors",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does spiritualism attempt to replace in the Christian faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Holy Spirit",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Jesus' teachings",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Biblical miracles",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Misinterpretations about death lead to flawed ---- of scripture.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "understandings"
+      }
+    ],
+    "options": [
+      "understandings",
+      "translations",
+      "uses"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What risk does spiritualism pose to personal faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It strengthens it",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It has no effect",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It undermines it",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to the guide, how does spiritualism distort Christian practice?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By promoting necromancy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By encouraging prayer",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By fostering community",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The false teaching of the immortality of the soul encourages ---- towards God's word.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "indifference"
+      }
+    ],
+    "options": [
+      "indifference",
+      "zeal",
+      "hostility"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the result of the church absorbing pagan beliefs according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Renewed faith",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Confused doctrines",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Better integration",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What biblical support counters the claim that the soul is immortal?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Ecclesiastes 9:5",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Matthew 5:8",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Revelation 22:14",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What effect does spiritualism have on understanding God's justice?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It obscures it",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It clarifies it",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It has no effect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The false doctrine of immortality undermines the ---- of Christ's sacrifice.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "necessity"
+      }
+    ],
+    "options": [
+      "necessity",
+      "beauty",
+      "purpose"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What common errors arise from misinterpreting scriptures about death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "False hope",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Correct doctrine",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Stronger faith",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to the guide, what should be the Christian response to modern spiritualism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Adaptation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Confrontation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Ignorance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Misunderstanding the dead's state leads to a ---- of biblical eschatology.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "misinterpretation"
+      }
+    ],
+    "options": [
+      "misinterpretation",
+      "proper interpretation",
+      "deepening"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What are the eternal consequences of adhering to spiritualist beliefs?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Loss of salvation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Increased blessings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "None",
+        "isCorrect": false
+      }
+    ]
+  }
+]

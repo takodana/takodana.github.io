@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What ultimate truth does the Bible reveal about death and the afterlife?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "There is no consciousness after death",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "There is immediate ascension to heaven",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "There is a waiting period",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does spiritualism divert attention from in Christian doctrine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The crucifixion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The second coming",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The danger of spiritualism is that it creates a false ---- of reality.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sense"
+      }
+    ],
+    "options": [
+      "sense",
+      "vision",
+      "understanding"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Why is it vital to understand the true state of the dead in Christianity?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To combat heresy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "To foster unity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "To guide worship practices",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How does a misunderstanding of death impact Christian hope?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It enhances hope",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It dilutes hope",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It redirects hope",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The misconception of soul immortality leads to ---- in scriptural interpretation.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "errors"
+      }
+    ],
+    "options": [
+      "errors",
+      "clarity",
+      "insights"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does challenging spiritualist beliefs require from believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Deep faith",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Scriptural knowledge",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  }
+]

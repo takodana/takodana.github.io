@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In the context of the teachings, what does the phrase 'they rested with their fathers' imply about death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is a familial gathering",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It is a continuation of life",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is a peaceful rest",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What critical error does Ellen G. White highlight about common beliefs regarding the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are eternally damned",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They are spiritually active",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They are nonexistent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The concept of death as sleep is intended to counter false notions of the dead being ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "active"
+      }
+    ],
+    "options": [
+      "active",
+      "transcendent",
+      "celestial"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What biblical evidence counters the belief in the communication with the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The nature of death as sleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The descriptions of heaven",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The warnings against idolatry",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How do the Psalms contrast the biblical view of death to pagan beliefs?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As a deep sleep",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "As a mystical journey",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "As an ongoing battle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White emphasizes preparation against deceptions involving ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "spirits"
+      }
+    ],
+    "options": [
+      "spirits",
+      "prophecies",
+      "visions"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What overarching message about death is conveyed through the Old Testament and Ellen G. White's writings?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is a state of rest",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is to be greatly feared",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is misunderstood by many",
+        "isCorrect": false
+      }
+    ]
+  }
+]

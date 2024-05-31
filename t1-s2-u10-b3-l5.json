@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Is the concept of the dead speaking to the living supported by biblical texts?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "No",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Yes",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It's ambiguous",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What truth about the state of the dead is highlighted by the phrase 'final sleep' in Psalm 76:6?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are unconscious",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are at peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They are in limbo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White warns against deceptions involving spirits of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "devils"
+      }
+    ],
+    "options": [
+      "devils",
+      "angels",
+      "heroes"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the 'sleep of death' in Psalms suggest about afterlife activities?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "There are none",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are plentiful",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They are limited",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Daniel 12:2 discusses resurrection, implying that until then, the dead are:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sleeping",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Watching",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Waiting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The death described as sleep implies a lack of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "awareness"
+      }
+    ],
+    "options": [
+      "activity",
+      "awareness",
+      "noise"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Job 19:25-26 say about Job's expectations after death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Seeing God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Reuniting with family",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Understanding all mysteries",
+        "isCorrect": false
+      }
+    ]
+  }
+]
