@@ -57,13 +57,18 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "fear commandments"
+        "blankItem": "fear"
+      },
+      {
+        "position": 1,
+        "blankItem": "commandments"
       }
     ],
     "options": [
-      "fear commandments",
-      "love words",
-      "serve laws"
+      "fear",
+      "love",
+      "laws",
+      "commandments"
     ]
   },
   {
