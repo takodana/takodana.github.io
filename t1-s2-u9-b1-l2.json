@@ -122,29 +122,23 @@
     ]
   },
   {
-    "id": "mc7",
+    "id": "fib7",
     "setNumber": 2,
     "complexity": 2,
     "sequence": 2,
-    "type": "MC",
+    "type": "FIB",
     "questionNumber": 7,
     "question": "The essence of sin, according to the study guide, is ----.",
-    "options": [
+    "blanks": [
       {
-        "id": "opt0",
-        "text": "Rebellion",
-        "isCorrect": true
-      },
-      {
-        "id": "opt1",
-        "text": "Disobedience",
-        "isCorrect": false
-      },
-      {
-        "id": "opt2",
-        "text": "Ignorance",
-        "isCorrect": false
+        "position": 0,
+        "blankItem": "Rebellion"
       }
+    ],
+    "options": [
+      "Rebellion",
+      "Disobedience",
+      "Ignorance"
     ]
   }
 ]
