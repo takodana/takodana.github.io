@@ -134,29 +134,23 @@
     ]
   },
   {
-    "id": "mc7",
+    "id": "fib7",
     "setNumber": 3,
     "complexity": 3,
     "sequence": 3,
-    "type": "MC",
+    "type": "FIB",
     "questionNumber": 7,
     "question": "The study guide suggests that Satan's strategy includes undermining the ----.",
-    "options": [
+    "blanks": [
       {
-        "id": "opt0",
-        "text": "Gospel",
-        "isCorrect": false
-      },
-      {
-        "id": "opt1",
-        "text": "Sabbath",
-        "isCorrect": true
-      },
-      {
-        "id": "opt2",
-        "text": "Prophecy",
-        "isCorrect": false
+        "position": 0,
+        "blankItem": "Sabbath"
       }
+    ],
+    "options": [
+      "Gospel",
+      "Sabbath",
+      "Prophecy"
     ]
   }
 ]

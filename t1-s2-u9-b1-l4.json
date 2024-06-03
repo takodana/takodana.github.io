@@ -134,29 +134,23 @@
     ]
   },
   {
-    "id": "mc7",
+    "id": "fib7",
     "setNumber": 4,
     "complexity": 3,
     "sequence": 4,
-    "type": "MC",
+    "type": "FIB",
     "questionNumber": 7,
     "question": "The theme of God's government, as explored in the study guide, focuses on His ----.",
-    "options": [
+    "blanks": [
       {
-        "id": "opt0",
-        "text": "Mercy",
-        "isCorrect": false
-      },
-      {
-        "id": "opt1",
-        "text": "Justice",
-        "isCorrect": false
-      },
-      {
-        "id": "opt2",
-        "text": "Law",
-        "isCorrect": true
+        "position": 0,
+        "blankItem": "Law"
       }
+    ],
+    "options": [
+      "Mercy",
+      "Justice",
+      "Law"
     ]
   }
 ]

@@ -10,17 +10,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "You will live forever'",
+        "text": "You will live forever",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "You will not surely die'",
+        "text": "You will not surely die",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "You will become an angel'",
+        "text": "You will become an angel",
         "isCorrect": false
       }
     ]
@@ -36,17 +36,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "The dead can communicate'",
+        "text": "The dead can communicate",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "The dead are not truly dead'",
+        "text": "The dead are not truly dead",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "The dead watch over the living'",
+        "text": "The dead watch over the living",
         "isCorrect": false
       }
     ]
@@ -62,13 +62,13 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "surely'"
+        "blankItem": "surely"
       }
     ],
     "options": [
-      "surely'",
-      "actually'",
-      "really'"
+      "surely",
+      "actually",
+      "really"
     ]
   },
   {
@@ -82,17 +82,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Promote spiritualism'",
+        "text": "Promote spiritualism",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "Encourage biblical literacy'",
+        "text": "Encourage biblical literacy",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "Showcase mystical experiences'",
+        "text": "Showcase mystical experiences",
         "isCorrect": false
       }
     ]
@@ -108,17 +108,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "The truth of spiritualism'",
+        "text": "The truth of spiritualism",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "The deceit in spiritualism'",
+        "text": "The deceit in spiritualism",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "The entertainment value of spiritualism'",
+        "text": "The entertainment value of spiritualism",
         "isCorrect": false
       }
     ]
@@ -134,13 +134,13 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "Christ'"
+        "blankItem": "Christ"
       }
     ],
     "options": [
-      "Christ'",
-      "nature'",
-      "self'"
+      "Christ",
+      "nature",
+      "self"
     ]
   },
   {
@@ -154,17 +154,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Our understanding'",
+        "text": "Our understanding",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "Our spiritual experiences'",
+        "text": "Our spiritual experiences",
         "isCorrect": false
       },
       {
         "id": "opt2",
-        "text": "Biblical teachings'",
+        "text": "Biblical teachings",
         "isCorrect": true
       }
     ]

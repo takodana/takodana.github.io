@@ -10,17 +10,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Creation'",
+        "text": "Creation",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "The resurrection of Jesus'",
+        "text": "The resurrection of Jesus",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "The flood'",
+        "text": "The flood",
         "isCorrect": false
       }
     ]
@@ -36,12 +36,12 @@
     "options": [
       {
         "id": "opt0",
-        "text": "TRUE'",
+        "text": "TRUE",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "FALSE'",
+        "text": "FALSE",
         "isCorrect": true
       }
     ]
@@ -57,13 +57,13 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "delusions'"
+        "blankItem": "delusions"
       }
     ],
     "options": [
-      "delusions'",
-      "promises'",
-      "gifts'"
+      "delusions",
+      "promises",
+      "gifts"
     ]
   },
   {
@@ -77,17 +77,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Philosophical studies'",
+        "text": "Philosophical studies",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "A personal relationship with Christ'",
+        "text": "A personal relationship with Christ",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "Scientific evidence'",
+        "text": "Scientific evidence",
         "isCorrect": false
       }
     ]
@@ -103,17 +103,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "It is a passage to another life'",
+        "text": "It is a passage to another life",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "It is not permanent'",
+        "text": "It is not permanent",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "It is a natural process'",
+        "text": "It is a natural process",
         "isCorrect": false
       }
     ]
@@ -129,13 +129,13 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "hearts'"
+        "blankItem": "hearts"
       }
     ],
     "options": [
-      "hearts'",
-      "minds'",
-      "eyes'"
+      "hearts",
+      "minds",
+      "eyes"
     ]
   },
   {
@@ -149,17 +149,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Scientific'",
+        "text": "Scientific",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "Spiritual'",
+        "text": "Spiritual",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "Historical'",
+        "text": "Historical",
         "isCorrect": false
       }
     ]

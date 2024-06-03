@@ -1,28 +1,22 @@
 [
   {
-    "id": "mc1",
+    "id": "fib1",
     "setNumber": 2,
     "complexity": 2,
     "sequence": 2,
-    "type": "MC",
+    "type": "FIB",
     "questionNumber": 1,
     "question": "According to James 2:10, to offend in one point of the law is to be ----.",
-    "options": [
+    "blanks": [
       {
-        "id": "opt0",
-        "text": "Guilty of none",
-        "isCorrect": false
-      },
-      {
-        "id": "opt1",
-        "text": "Guilty of all",
-        "isCorrect": true
-      },
-      {
-        "id": "opt2",
-        "text": "Partially guilty",
-        "isCorrect": false
+        "position": 0,
+        "blankItem": "Guilty of all"
       }
+    ],
+    "options": [
+      "Guilty of none",
+      "Guilty of all",
+      "Partially guilty"
     ]
   },
   {
@@ -67,29 +61,23 @@
     ]
   },
   {
-    "id": "mc4",
+    "id": "fib4",
     "setNumber": 2,
     "complexity": 2,
     "sequence": 2,
-    "type": "MC",
+    "type": "FIB",
     "questionNumber": 4,
     "question": "The crisis over the mark of the beast relates to ----.",
-    "options": [
+    "blanks": [
       {
-        "id": "opt0",
-        "text": "Economic policies",
-        "isCorrect": false
-      },
-      {
-        "id": "opt1",
-        "text": "Worship practices",
-        "isCorrect": true
-      },
-      {
-        "id": "opt2",
-        "text": "Political alliances",
-        "isCorrect": false
+        "position": 0,
+        "blankItem": "Worship practices"
       }
+    ],
+    "options": [
+      "Economic policies",
+      "Worship practices",
+      "Political alliances"
     ]
   },
   {

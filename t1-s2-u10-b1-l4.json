@@ -10,17 +10,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Miracles'",
+        "text": "Miracles",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "Deception'",
+        "text": "Deception",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "Fear'",
+        "text": "Fear",
         "isCorrect": false
       }
     ]
@@ -36,12 +36,12 @@
     "options": [
       {
         "id": "opt0",
-        "text": "TRUE'",
+        "text": "TRUE",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "FALSE'",
+        "text": "FALSE",
         "isCorrect": true
       }
     ]
@@ -57,13 +57,13 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "transition'"
+        "blankItem": "transition"
       }
     ],
     "options": [
-      "transition'",
-      "end'",
-      "sleep'"
+      "transition",
+      "end",
+      "sleep"
     ]
   },
   {
@@ -77,17 +77,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Popular opinion'",
+        "text": "Popular opinion",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "Biblical scripture'",
+        "text": "Biblical scripture",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "Personal feelings'",
+        "text": "Personal feelings",
         "isCorrect": false
       }
     ]
@@ -103,17 +103,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Scientific discoveries'",
+        "text": "Scientific discoveries",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "Fraudulent claims'",
+        "text": "Fraudulent claims",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "Religious awakenings'",
+        "text": "Religious awakenings",
         "isCorrect": false
       }
     ]
@@ -129,13 +129,13 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "God's'"
+        "blankItem": "Gods"
       }
     ],
     "options": [
-      "God's'",
-      "man's'",
-      "nature's'"
+      "Gods",
+      "mans",
+      "natures"
     ]
   },
   {
@@ -149,17 +149,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Philosophical knowledge'",
+        "text": "Philosophical knowledge",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "Biblical grounding'",
+        "text": "Biblical grounding",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "Spiritual openness'",
+        "text": "Spiritual openness",
         "isCorrect": false
       }
     ]

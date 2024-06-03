@@ -10,17 +10,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "It leads to true enlightenment'",
+        "text": "It leads to true enlightenment",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "It contradicts biblical teachings'",
+        "text": "It contradicts biblical teachings",
         "isCorrect": true
       },
       {
         "id": "opt2",
-        "text": "It enhances spiritual awareness'",
+        "text": "It enhances spiritual awareness",
         "isCorrect": false
       }
     ]
@@ -36,12 +36,12 @@
     "options": [
       {
         "id": "opt0",
-        "text": "TRUE'",
+        "text": "TRUE",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "FALSE'",
+        "text": "FALSE",
         "isCorrect": true
       }
     ]
@@ -57,13 +57,13 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "biblical'"
+        "blankItem": "biblical"
       }
     ],
     "options": [
-      "biblical'",
-      "cultural'",
-      "personal'"
+      "biblical",
+      "cultural",
+      "personal"
     ]
   },
   {
@@ -77,17 +77,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "God's authority'",
+        "text": "Gods authority",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "The nature of sin'",
+        "text": "The nature of sin",
         "isCorrect": false
       },
       {
         "id": "opt2",
-        "text": "The reality of death'",
+        "text": "The reality of death",
         "isCorrect": true
       }
     ]
@@ -103,17 +103,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Supported by the Bible'",
+        "text": "Supported by the Bible",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "A test of faith'",
+        "text": "A test of faith",
         "isCorrect": false
       },
       {
         "id": "opt2",
-        "text": "Contrary to biblical teaching'",
+        "text": "Contrary to biblical teaching",
         "isCorrect": true
       }
     ]
@@ -129,13 +129,13 @@
     "blanks": [
       {
         "position": 0,
-        "blankItem": "fraudulent'"
+        "blankItem": "fraudulent"
       }
     ],
     "options": [
-      "true'",
-      "fraudulent'",
-      "misunderstood'"
+      "true",
+      "fraudulent",
+      "misunderstood"
     ]
   },
   {
@@ -149,17 +149,17 @@
     "options": [
       {
         "id": "opt0",
-        "text": "Cultural beliefs'",
+        "text": "Cultural beliefs",
         "isCorrect": false
       },
       {
         "id": "opt1",
-        "text": "Personal experiences'",
+        "text": "Personal experiences",
         "isCorrect": false
       },
       {
         "id": "opt2",
-        "text": "Biblical doctrine'",
+        "text": "Biblical doctrine",
         "isCorrect": true
       }
     ]
