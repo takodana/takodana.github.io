@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is Satan's ultimate goal in his deceptions?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To be worshipped",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "To promote peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "To create chaos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Satan will utilize ---- to mislead even the elect.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "his appearance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "technology",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "natural disasters",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The final deception involves Satan appearing as a ---- being.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "majestic"
+      }
+    ],
+    "options": [
+      "majestic",
+      "common",
+      "subtle"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: Satan can perform actual miracles.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The effectiveness of Satan's deceptions lies in their:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Visual appeal",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Complexity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Simplicity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The last days are marked by unprecedented ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "deceptions"
+      }
+    ],
+    "options": [
+      "deceptions",
+      "revivals",
+      "celebrations"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Understanding scripture is crucial because:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It prevents deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It ensures prosperity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It guarantees miracles",
+        "isCorrect": false
+      }
+    ]
+  }
+]

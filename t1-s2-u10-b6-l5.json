@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Impersonating Christ is Satan's:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Crowning act",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Initial strategy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Continual approach",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Miracles in the last days serve to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Validate the true gospel",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Deceive and mislead",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Encourage scientific inquiry",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The 'great deceiver' attempts to convince the world that he is ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ"
+      }
+    ],
+    "options": [
+      "Christ",
+      "the Messiah",
+      "the Apostle"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: The true nature of Christ's second coming is a critical doctrine.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Deceptions will occur:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Globally",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Locally",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Within families",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White warns of deceptions specifically in the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "end times"
+      }
+    ],
+    "options": [
+      "end times",
+      "start of time",
+      "middle ages"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "A critical aspect of faith in the last days is:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Understanding miracles",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Guarding against deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Attending church",
+        "isCorrect": false
+      }
+    ]
+  }
+]

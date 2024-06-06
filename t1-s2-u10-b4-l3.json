@@ -1,0 +1,332 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In what way does 1 Corinthians 15:51-54 'mystify' the traditional understanding of death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By describing death as sleep",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "By predicting an instant change at the resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "By denying the soul's existence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Why is the resurrection considered a foundational Christian doctrine, as seen in the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It confirms Jesus' divinity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It assures eternal life",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Your faith is futile; you are still in your sins' highlights the necessity of Christ's ---- for believers.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "resurrection"
+      }
+    ],
+    "options": [
+      "resurrection",
+      "teachings",
+      "commandments"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: New Testament teachings about death refute the concept of an immortal soul.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What does the metaphor of sleep for death suggest about the state of the dead, according to the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are unconscious",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are at peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They are in limbo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The hope of an 'inheritance incorruptible and undefiled' is meant to inspire believers during ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "trials"
+      }
+    ],
+    "options": [
+      "trials",
+      "prosperity",
+      "celebrations"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What significant event does 1 Thessalonians 4:15-17 say will happen at Jesus' return?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The resurrection of believers",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The end of the world",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The redemption of the church",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Reflecting on 'Christ conquered death on the cross,' what does this victory mean for believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They will live eternally in heaven",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They have hope beyond the grave",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They will never face trials",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to the Gospels, what must one do to inherit eternal life?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Believe in Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Follow the commandments",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Give to the poor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The glorious resurrection at Christ's return' is a key theme in ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Thessalonians"
+      }
+    ],
+    "options": [
+      "Thessalonians",
+      "Gospels",
+      "Epistles"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: Paul's letters to the early churches often addressed their misconceptions about death and resurrection.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What argument does Paul use in 1 Corinthians 15 to defend the resurrection?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The consistency of God's nature",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The eyewitnesses of Christ's resurrection",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ's resurrection 'is the guarantee' that believers will experience their own ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "resurrection"
+      }
+    ],
+    "options": [
+      "resurrection",
+      "redemption",
+      "salvation"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How do the New Testament teachings about death and resurrection influence the believer's outlook on life?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Encourages steadfast faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Instills fear of judgment",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Promotes detachment from worldly matters",
+        "isCorrect": false
+      }
+    ]
+  }
+]

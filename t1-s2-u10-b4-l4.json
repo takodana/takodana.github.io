@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does 2 Timothy 1:10 enhance our understanding of Christ's mission?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Highlights His role in abolishing death",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Shows His teachings about morality",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Indicates His work as a healer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The New Testament's promise of resurrection is only for the righteous.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The dead being 'raised incorruptible' in 1 Corinthians 15:52 points to the ---- of the resurrection body.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "nature"
+      }
+    ],
+    "options": [
+      "nature",
+      "purpose",
+      "origin"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What do the 'sleeping' metaphors in the Bible typically refer to?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The state of the dead",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Restful periods in life",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Times of ignorance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to 1 Thessalonians 4:17, what happens to those who are alive and remain until the coming of the Lord?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They will be caught up together with the resurrected",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They will witness the end of the world",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They will receive a final revelation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ's return will lead to a glorious resurrection,' teaches that His return is crucial for our ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "resurrection"
+      }
+    ],
+    "options": [
+      "resurrection",
+      "hope",
+      "faith"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What implication does the New Testament teaching about death have for our understanding of the soul's nature?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is not immortal",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is inherently sinful",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is capable of enlightenment",
+        "isCorrect": false
+      }
+    ]
+  }
+]

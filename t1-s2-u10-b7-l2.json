@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to 'The Case for Heaven,' what misconceptions do near-death experiences reveal about afterlife?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Soul sleeps",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Conscious existence",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Non-existence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: All who live godly will face persecution.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Satan's deceptions are described as 'all deceivableness of ----.'",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "unrighteousness"
+      }
+    ],
+    "options": [
+      "unrighteousness",
+      "misguidance",
+      "falsehood"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What role does the mass media play in spiritualism according to Seventh-Day Adventist teachings?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Spreading truth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Spreading deceptions",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Entertainment purposes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the idea of an immediate entry into heaven upon death biblically accurate? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ promises protection for those who keep the 'word of My ----.'",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "patience"
+      }
+    ],
+    "options": [
+      "patience",
+      "commandments",
+      "love"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is a major theme of the book 'The Great Controversy'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Love and redemption",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Spiritual warfare",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "History of the church",
+        "isCorrect": false
+      }
+    ]
+  }
+]

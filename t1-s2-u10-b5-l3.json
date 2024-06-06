@@ -1,0 +1,166 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How effective is Satan's deception involving spiritualism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Moderately effective",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Highly effective",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Not effective",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Ellen G. White warns against the ---- of spiritualism as Satan's ultimate deception.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "spread",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "promotion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "acceptance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Does the Bible support the idea that the dead are conscious?",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "FALSE"
+      }
+    ],
+    "options": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is a key tactic of demonic forces according to Revelation 16:14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Using logic",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Using fear",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Using miracles",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Spiritualism nearly takes the world captive by exploiting the belief that the dead ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "live",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "exist",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "communicate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "What should be our only security against spiritual deception?",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Jesus and His Word"
+      }
+    ],
+    "options": [
+      "Wealth",
+      "Education",
+      "Jesus and His Word"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Does the study suggest that signs and wonders will increase in frequency and deception in the last days?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  }
+]

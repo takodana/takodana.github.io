@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Satan plan to deceive the world in the last days, as per Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Through nature",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Through spiritualism",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Through science",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What is the risk of not understanding the state of the dead, based on the study?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Being deceived",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Finding truth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Losing wealth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to 2 Thessalonians 2:9, the coming of the lawless one will be with all power, signs, and false ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "wonders"
+      }
+    ],
+    "options": [
+      "wonders",
+      "miracles",
+      "events"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Are emotions a reliable guide in spiritual matters?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What unifies the message of the dragon, beast, and false prophet in Revelation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Their origin",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Their power",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Their deception",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The great controversy is nearing its end with a focus on ---- deceptions.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "final"
+      }
+    ],
+    "options": [
+      "final",
+      "initial",
+      "ongoing"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the 'immortality of the soul' teach, contrary to Biblical teaching?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Souls die",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Souls sleep",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Souls live on",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How do New Testament writings about death enhance the teachings found in the Old Testament?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By emphasizing resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By denying the soul's immortality",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By introducing purgatory",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What do the 'demons in hell' mentioned in the study guide represent in the context of Christian assurance?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Challenges to faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Literal beings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Past sins",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Paul's words, 'If the dead do not rise, then Christ is not risen,' imply that our faith is ---- without the resurrection.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "futile"
+      }
+    ],
+    "options": [
+      "futile",
+      "unwavering",
+      "strong"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: The New Testament offers a contrasting view to the Old Testament about the state of the dead.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to 1 Corinthians 15, what is the impact of Christ's resurrection on believers' future?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Guarantees their resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Ensures their prosperity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Prevents their suffering",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The grave can no longer hold its victims' refers to the ---- that Christ has over death.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "victory"
+      }
+    ],
+    "options": [
+      "victory",
+      "power",
+      "claim"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "1 Thessalonians 4:15-17 offers hope through what event prophesied to occur at Jesus' return?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The resurrection of the dead",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The final judgment",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The creation of a new earth",
+        "isCorrect": false
+      }
+    ]
+  }
+]

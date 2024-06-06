@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the metaphor of sleep used for death in the Bible help Christians cope with the concept of death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It portrays death as temporary",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It minimizes the significance of earthly life",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It suggests a dreamlike state after death",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The resurrection provides a foundation for understanding Christian victory over sin.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The 'resurrection of the dead' at Christ's return is a key event in ---- eschatology.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christian"
+      }
+    ],
+    "options": [
+      "Christian",
+      "Jewish",
+      "Islamic"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does 1 Corinthians 15:51-54 reveal about the nature of the resurrection body?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is spiritual and immortal",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It is similar to Christ's glorified body",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to New Testament writers, what does the resurrection assure for believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Their vindication",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Their sanctification",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Their ultimate redemption",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Victory over death' through Christ emphasizes that believers will ultimately ---- death.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "overcome"
+      }
+    ],
+    "options": [
+      "overcome",
+      "fear",
+      "accept"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What central theme does the resurrection address in terms of biblical hope and promise?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It underscores the reliability of God's promises",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It demonstrates the permanence of God's kingdom",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It ensures the continuation of the Church",
+        "isCorrect": false
+      }
+    ]
+  }
+]

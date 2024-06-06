@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In what way does 1 Corinthians 15:54 describe the transformation at the resurrection?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "From mortal to immortal",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "From physical to spiritual",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "From sinful to pure",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The concept of death as sleep is a comforting metaphor used throughout the Scriptures.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Paul in 1 Thessalonians 4:15-17 uses the term 'caught up' to describe the believers joining Christ in the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "air"
+      }
+    ],
+    "options": [
+      "air",
+      "temple",
+      "clouds"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the ultimate hope of the resurrection as depicted in the New Testament?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Eternal life with Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Escape from worldly suffering",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A new earthly kingdom",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How does the resurrection impact the believer's view on death, according to 1 Corinthians 15?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It provides hope and diminishes fear",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It confirms the soul's immortality",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It suggests a continuous conscious existence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ conquered death on the cross,' suggesting that death is no longer a ---- to believers.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "threat"
+      }
+    ],
+    "options": [
+      "threat",
+      "barrier",
+      "mystery"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What role does the resurrection play in Christian eschatology, according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It confirms God's power over death",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It signifies the end of all evil",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It marks the renewal of creation",
+        "isCorrect": false
+      }
+    ]
+  }
+]

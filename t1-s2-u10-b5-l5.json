@@ -1,0 +1,161 @@
+[
+  {
+    "id": "fib1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 1,
+    "question": "To resist deception, one must rely on Biblical ---- rather than emotions.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "truths"
+      }
+    ],
+    "options": [
+      "truths",
+      "stories",
+      "commands"
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Is spiritualism identified as a significant threat in the last days?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "What ultimately exposes the deceit of spiritualism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Scientific evidence",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Divine intervention",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Human reasoning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "The effective counter to spiritualism is understanding the Biblical view of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "death"
+      }
+    ],
+    "options": [
+      "death",
+      "life",
+      "creation"
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What will be a major challenge for believers in the last days according to the study?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Understanding prophecy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Avoiding deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Performing miracles",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What is the effect of not understanding the true state of the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Increased vulnerability",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Loss of faith",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Personal peace",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 7,
+    "question": "Rodriguez points out that spiritualism appeals to the ---- side of human beings.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "affective"
+      }
+    ],
+    "options": [
+      "affective",
+      "logical",
+      "rational"
+    ]
+  }
+]

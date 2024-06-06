@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The outpouring of God's wrath is awakened by a ---- security among the people.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "fatal",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "stable",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "peaceful",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What is essential to withstand the deceptions of the last days?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Strong emotions",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Physical strength",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Faith in God's Word",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to the teachings on spiritualism, what should we understand about the dead?",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "They are silent"
+      }
+    ],
+    "options": [
+      "They are silent",
+      "They are watching",
+      "They are resting"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Revelation 13 and 16 indicate that demonic spirits work miracles to support the false ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "teachings",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "prophecies",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "leaders",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What crucial understanding protects from the delusion of spiritualism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The state of the dead",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The nature of miracles",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The power of prayer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "What does the presence of false prophets in the last days indicate?",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Increase in deception"
+      }
+    ],
+    "options": [
+      "Decline in faith",
+      "Increase in deception",
+      "Strengthening of the church"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Why are miraculous signs considered dangerous in the end times?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They are genuine",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They are misleading",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They are rare",
+        "isCorrect": false
+      }
+    ]
+  }
+]

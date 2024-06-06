@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "According to the teachings in 1 Corinthians 15, why is the resurrection central to Christian faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It validates the truth of Christ's teachings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It ensures believers' ascension to heaven",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The imagery of sleep in relation to death is intended to reduce fear and provide comfort.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "To be caught up in the clouds to meet the Lord in the air' reflects the hope of the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "resurrection"
+      }
+    ],
+    "options": [
+      "resurrection",
+      "second coming",
+      "final judgment"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does Paul mean by saying 'the dead in Christ will rise first' (1 Thessalonians 4:16)?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They precede the living in resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They are judged before others",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They receive a special reward",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How do New Testament teachings regarding the resurrection influence Christian doctrine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They emphasize life after death",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They dispute the concept of purgatory",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They underscore the finality of Christ's sacrifice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The promise of an 'incorruptible' body signifies a transformation from mortal to ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "immortal"
+      }
+    ],
+    "options": [
+      "immortal",
+      "temporal",
+      "perishable"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "In Christian theology, what does the 'victory over death' imply about the future state of believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They will experience eternal life",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They will become angelic beings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They will govern the new earth",
+        "isCorrect": false
+      }
+    ]
+  }
+]

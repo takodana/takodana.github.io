@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Satan exploit human grief and loss according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By impersonation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By indifference",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By consolation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Understanding biblical teachings about death protects against spiritualistic deceptions.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The hour of temptation, which shall come upon all the world' is also known as 'the ---- of temptation.'",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "hour"
+      }
+    ],
+    "options": [
+      "hour",
+      "time",
+      "period"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What should one do to prepare for spiritualistic attacks?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Seek human advice",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Engage in debates",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Purify souls through obedience",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Can the dead communicate with the living according to the Bible? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White emphasizes the importance of 'the ---- of truth.'",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "word"
+      }
+    ],
+    "options": [
+      "God",
+      "sword",
+      "word"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What mistaken belief does 'The Case for Heaven' challenge?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The nature of hell",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The state of the dead",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The existence of angels",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The final act of deception by Satan is his appearance as:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "a prophet",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "a king",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Those well-versed in scripture can still be deceived.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Satan's impersonation of Christ will test everyone's ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "faith"
+      }
+    ],
+    "options": [
+      "faith",
+      "loyalty",
+      "strength"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Ellen G. White stresses the danger of:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "New doctrines",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Old philosophies",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Simple errors",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The climax of Satan's deception involves:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Miracles",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "False prophecies",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Final events will test the ---- of believers.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "endurance"
+      }
+    ],
+    "options": [
+      "endurance",
+      "wealth",
+      "intelligence"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The most effective guard against end-time deception is:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Prayer",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Knowledge of scripture",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Charity",
+        "isCorrect": false
+      }
+    ]
+  }
+]

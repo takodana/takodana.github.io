@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the impersonation of Christ signify in Satan's plan?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Final deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Minor tactic",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "New beginning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Only the unfaithful will be deceived by Satan's impersonation.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Satan will appear in dazzling brightness, resembling the description given by ---- in Revelation.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "John"
+      }
+    ],
+    "options": [
+      "John",
+      "Paul",
+      "Peter"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Ellen G. White emphasizes the importance of:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Church attendance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Understanding prophecy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Financial giving",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The deception involving spirits of devils is aimed at:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Increasing knowledge",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Uniting people against heaven",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Creating a new gospel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Satan's last struggle involves a direct attack against ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heaven's government"
+      }
+    ],
+    "options": [
+      "heaven's government",
+      "earthly governments",
+      "human rights"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The key to resisting end-time deceptions is to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Know biblical truths",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Have political power",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Maintain neutrality",
+        "isCorrect": false
+      }
+    ]
+  }
+]

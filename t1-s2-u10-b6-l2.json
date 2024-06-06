@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Why is it crucial to understand Christ's return and the state of the dead?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To avoid deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "To perform miracles",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "To predict the future",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Ellen G. White warns against deception with:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Direct confrontations",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Biblical quotes",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Spiritual manifestations",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miracles that contradict Scripture are ---.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "dangerous"
+      }
+    ],
+    "options": [
+      "dangerous",
+      "inspiring",
+      "authentic"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: Christ's real followers will not be deceived by false miracles.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Satan's end-time strategy includes:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Healing miracles",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Teaching mathematics",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Enhancing nature",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The final events will feature Satan posing as ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ"
+      }
+    ],
+    "options": [
+      "Christ",
+      "a disciple",
+      "a prophet"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to 2 Corinthians 11:13-14, false apostles are:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Misguided",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Transformed as servants of righteousness",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Ignorant",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Satan use our emotions to deceive us?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Through fear",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Through confusion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Through love",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The dead can observe and interact with the living.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White warns of spiritualistic influences masquerading as ---- of truth.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "bearers"
+      }
+    ],
+    "options": [
+      "bearers",
+      "light",
+      "voices"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the biblical response to loved ones who claim to have seen deceased relatives in visions?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Reject the visions",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Consider the possibility",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Seek spiritual guidance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is the concept of an immediate afterlife supported by the Bible? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "According to the Bible, the dead know ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "nothing"
+      }
+    ],
+    "options": [
+      "nothing",
+      "everything",
+      "something"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Revelation 3:10 promise to those who remain steadfast in faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Eternal life",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Protection from deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A new name",
+        "isCorrect": false
+      }
+    ]
+  }
+]

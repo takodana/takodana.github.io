@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What practical advice does Ellen G. White give to withstand spiritual deceptions?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Strengthen faith",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Regular prayer",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Study Scripture",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The miracles performed by spirits are genuine miracles from God.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The spirits of devils can appear as ---- of deceased loved ones.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "images"
+      }
+    ],
+    "options": [
+      "images",
+      "voices",
+      "specters"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What should one rely on to counteract spiritualistic manifestations?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Personal feelings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Scriptural truth",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Common sense",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is it possible to be spiritually deceived if one is knowledgeable about the Bible? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "To prepare for end times, Christians must purify their ---- through obedience.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "souls"
+      }
+    ],
+    "options": [
+      "souls",
+      "hearts",
+      "minds"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Ellen G. White say is the only defense against spiritualism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Angelic intervention",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Scriptural knowledge",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Church authority",
+        "isCorrect": false
+      }
+    ]
+  }
+]

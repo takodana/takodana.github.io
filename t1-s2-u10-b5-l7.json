@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What aspect of human nature do demonic forces exploit according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Curiosity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Fear",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Emotions",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The closing of the cosmic conflict is marked by an unprecedented rise in ---- deceptions.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "spiritual",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "physical",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "mental",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "What should we always seek to understand to avoid spiritual deception?",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "The Bible's teachings"
+      }
+    ],
+    "options": [
+      "The Bible's teachings",
+      "Popular opinions",
+      "Cultural norms"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is Satan's ultimate goal with spiritualism according to the guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To confuse",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "To destroy faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To gain followers",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Which book of the Bible gives clear warnings about spiritualism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Revelation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Genesis",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Matthew",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White warns that the belief in the ---- of the soul is the foundation of spiritualism.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "immortality"
+      }
+    ],
+    "options": [
+      "immortality",
+      "mortality",
+      "eternity"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How can believers guard against the deceits of spiritualism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Through constant vigilance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Through skepticism",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Through prayer and study of Scripture",
+        "isCorrect": true
+      }
+    ]
+  }
+]

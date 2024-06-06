@@ -1,0 +1,157 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Can we trust all supernatural manifestations as divine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Does acknowledging the role of emotions in faith negate their importance?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The final conflict involves a deep deception about the ---- of the dead.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "nature"
+      }
+    ],
+    "options": [
+      "nature",
+      "spirit",
+      "essence"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What specific teaching of spiritualism contradicts the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Immortality of the soul",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Existence of spirits",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Power of prayer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How should Christians prepare for the increasing spiritualism in the last days?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By meditation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "By study and prayer",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "By community support",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Spiritualism thrives on the misconception that the dead are ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "active"
+      }
+    ],
+    "options": [
+      "active",
+      "absent",
+      "present"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Is the increase in spiritualistic deceptions a sign of the end times?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  }
+]

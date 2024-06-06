@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In John 11:25, Jesus speaks of himself as the resurrection and the life. What does this imply about his nature?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Divine",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Prophet",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Teacher",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to 1 Corinthians 15:51-54, what happens at the last trumpet?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The dead are raised",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The sinners are judged",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "New heaven and earth are created",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Paul in 2 Timothy 1:10 states that Jesus has abolished ---- and brought life and immortality to light through the gospel.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "death"
+      }
+    ],
+    "options": [
+      "death",
+      "sin",
+      "law"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "1 Thessalonians 4:16 describes the Lord's descent from heaven with a cry of command. What is the purpose of this event?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To judge the world",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "To resurrect the believers",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "To destroy the earth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The concept of sleep as a metaphor for death is unique to the New Testament.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Christ's resurrection is the guarantee that all believers will be resurrected' aligns with which biblical hope described in 1 Peter 1:4?",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "inheritance"
+      }
+    ],
+    "options": [
+      "inheritance",
+      "condemnation",
+      "salvation"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What fundamental truth about death and resurrection does Paul emphasize in 1 Corinthians 15:16-18?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The necessity of Christ's resurrection",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The inevitability of death",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The finality of earthly life",
+        "isCorrect": false
+      }
+    ]
+  }
+]

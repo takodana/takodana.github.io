@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Satan's attempts to destroy hope are seen as:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Deceptions",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "True hope",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "False promises",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The blessed hope' in Titus 2:13 refers to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The law of God",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The second coming of Christ",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Prosperity theology",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Miracles, signs, and wonders can lead away from Bible truth and ---.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "salvation"
+      }
+    ],
+    "options": [
+      "salvation",
+      "condemnation",
+      "mythology"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Rev. 14:12, the saints are characterized by:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Faith in humanity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Keeping God's commandments",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Moral flexibility",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Satan's final deception will involve impersonating Christ.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "In the end times, devils will perform miracles and even appear as ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ"
+      }
+    ],
+    "options": [
+      "Christ",
+      "angels",
+      "prophets"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The essential message of 2 Thessalonians 2:9-12 is about:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The power of prayer",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Satan's deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The importance of charity",
+        "isCorrect": false
+      }
+    ]
+  }
+]

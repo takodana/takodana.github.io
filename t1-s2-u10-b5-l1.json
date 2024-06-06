@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What kind of deceptions are predicted in Matthew 24:24?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Deceptions of poverty",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Deceptions of health",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Deceptions of miracles",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Are the miraculous signs by demonic spirits from God, according to Revelation 13:14?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The foundational error of spiritualism is the belief in the ---- of the soul.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "immortality"
+      }
+    ],
+    "options": [
+      "immortality",
+      "mortality",
+      "eternity"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What role do 'signs and wonders' play in demonic deception?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They confuse",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They convince",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They condemn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is it safe to trust our emotions when evaluating spiritual claims, according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Deceptive spiritual practices are often wrapped in the guise of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "truth"
+      }
+    ],
+    "options": [
+      "truth",
+      "lies",
+      "errors"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Ellen G. White describe as Satan's 'masterpiece of deception'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Modern technology",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Spiritualism",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Political systems",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The primary goal of Satan in the last days is to:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Increase wealth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Destroy hope",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Spread joy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The appearance of miracle-working demons will mainly:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Encourage faith",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Deceive rulers and subjects",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Promote peace",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Deceptive spirits will claim to be ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ"
+      }
+    ],
+    "options": [
+      "Christ",
+      "the Holy Spirit",
+      "Moses"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: Satan will not actually appear as Christ in the last days.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Satan's deceptions are described as:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Unnoticeable",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Fearful sights",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Mild distractions",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Deceptions in the last days will be --- in nature.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "supernatural"
+      }
+    ],
+    "options": [
+      "supernatural",
+      "natural",
+      "philosophical"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The ultimate test for believers in the last days will be:",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Wealth accumulation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Obedience to God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Political power",
+        "isCorrect": false
+      }
+    ]
+  }
+]

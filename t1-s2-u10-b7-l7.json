@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the most effective way to guard against spiritual deception?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Regular Bible study",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Attending church",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Participating in rituals",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The ability to discern spirits is a gift that all believers receive.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The 'spirits of devils' can manifest as ---- known to us.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "friends"
+      }
+    ],
+    "options": [
+      "friends",
+      "relatives",
+      "strangers"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What biblical advice is given to those who encounter spiritualistic experiences?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Test the spirits",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Ignore the experiences",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Embrace the spirits",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Is it possible for the deceased to return to guide the living? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "True understanding comes from the '---- of God's word.'",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "study"
+      }
+    ],
+    "options": [
+      "study",
+      "reading",
+      "interpretation"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What should be the Christian's attitude towards new spiritual teachings according to the Bible?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Open-mindedness",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Discernment",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Rejection",
+        "isCorrect": false
+      }
+    ]
+  }
+]

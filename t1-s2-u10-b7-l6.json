@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What tactic does Satan use to appeal to people according to 'The Great Controversy'?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Flattery",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Logic",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Emotional manipulation",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Spirits of devils can perform miracles to support their claims.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Visions of the afterlife are often described as 'deceivableness of ----.'",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "unrighteousness"
+      }
+    ],
+    "options": [
+      "riches",
+      "pleasure",
+      "unrighteousness"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is essential to overcome the deceptions of spiritualism?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Strong willpower",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Deep faith",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Knowledge of the Bible",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Can true Christians be deceived by spiritualistic appearances? True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White stresses the importance of having 'the ---- of the Scriptures'.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "mastery"
+      }
+    ],
+    "options": [
+      "knowledge",
+      "understanding",
+      "mastery"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What ultimate protection does the Bible offer against spiritual deception?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Holy Spirit",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The armor of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The gift of discernment",
+        "isCorrect": false
+      }
+    ]
+  }
+]
