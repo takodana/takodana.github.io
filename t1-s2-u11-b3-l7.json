@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Satan try to take as many as possible down with him?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By offering wealth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "By using deception and force",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "By promising power",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What does Revelation 13:15 say will happen to those who refuse to worship the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They will be exiled",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "They will be put to death",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "They will be imprisoned",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The beast uses ---- and force to achieve its goals.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "deception"
+      }
+    ],
+    "options": [
+      "deception",
+      "persuasion",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who will be prepared to receive the mark of the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Non-believers",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Professed Christians",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Atheists",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to the study guide, what will the mark of the beast enforcement begin with?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Legal battles",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Military action",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Economic sanctions",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The mark of the beast is the ---- stage of Satan's war against God.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fiercest"
+      }
+    ],
+    "options": [
+      "fiercest",
+      "beginning",
+      "last"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Who did Jesus say would suffer persecution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Only sinners",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Only non-believers",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "All who live godly in Christ Jesus",
+        "isCorrect": true
+      }
+    ]
+  }
+]

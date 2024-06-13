@@ -1,0 +1,171 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "True or False: According to Revelation 13, the second beast has crowns on its horns.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The image of the beast in Revelation 13 is intended to enforce what type of worship?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Uniform",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Voluntary",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Occasional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The two governing principles of the second beast, according to Revelation 13:11, are ---- and ---- liberty.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "political"
+      },
+      {
+        "position": 1,
+        "blankItem": "religious"
+      }
+    ],
+    "options": [
+      "political",
+      "religious",
+      "economic"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The appearance of the second beast around A.D. 1798 coincides with what phase of the first beast's power?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Decline",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Rise",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Stability",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What is the ultimate authority that the second beast claims, according to Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "To command worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "To declare wars",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "To enforce peace",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Revelation 13:12 describes the second beast as exercising 'all the authority of the ---- beast'.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "first"
+      }
+    ],
+    "options": [
+      "first",
+      "second",
+      "third"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The primary symbols used to describe the powers in Revelation 13 are beasts and ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "horns",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "seas",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "mountains",
+        "isCorrect": false
+      }
+    ]
+  }
+]

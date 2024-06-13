@@ -1,0 +1,136 @@
+[
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What is essential to withstand the last great conflict, according to The Great Controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Fortifying the mind with Biblical truths",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Seeking majority opinion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Gaining ecclesiastical support",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "True or False: Human laws can override the authority of God's law.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 7,
+    "question": "God's character, government, and purposes must be understood and acted upon to ---- Him.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "honor"
+      }
+    ],
+    "options": [
+      "honor",
+      "follow",
+      "serve"
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What role does fear play in Satan's strategy to gain homage?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is central",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It is negligible",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It is occasional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Only those with a right conception of God's character can truly honor Him.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "To accomplish his goals, Satan works through religious and ---- authorities.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "secular"
+      }
+    ],
+    "options": [
+      "secular",
+      "local",
+      "national"
+    ]
+  }
+]

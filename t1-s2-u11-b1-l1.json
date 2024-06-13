@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is meant by 'the mark of the beast' in the context of modern technology?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A medical device",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A conspiracy theory",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A spiritual symbol",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Some Christians believe the biochip is part of a conspiracy relating to the mark of the beast.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Satan's strategy involves undermining ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God's law"
+      }
+    ],
+    "options": [
+      "God's law",
+      "human laws",
+      "natural laws"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The final conflict will center on which aspect of worship?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Sabbath",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Prayer offerings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Confession",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Economic sanctions will play a role in earth's final conflict.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Jesus offers us ---- to overcome in earth's final conflict.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "strength"
+      }
+    ],
+    "options": [
+      "strength",
+      "weakness",
+      "fear"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which biblical truth is emphasized as essential in the coming conflict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's word is truth",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Love your neighbor",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The resurrection",
+        "isCorrect": false
+      }
+    ]
+  }
+]

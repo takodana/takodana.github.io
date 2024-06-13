@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "The two horns of the second beast in Revelation 13 symbolize which aspects of American history?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Political and religious freedoms",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Economic and military strength",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Cultural and social diversity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Which feature distinguishes the second beast in Revelation 13 from other prophetic beasts?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Lack of crowns on horns",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Presence of multiple heads",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Color of the beast",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 13 suggests that the second beast's power will lead to the creation of an ---- to enforce worship.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "image"
+      }
+    ],
+    "options": [
+      "image",
+      "nation",
+      "law"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 13, the alliance between the beasts represents what type of union?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Religious-political",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Economic-social",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Scientific-technological",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The second beast was predicted to have a significant role in global religious events.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The global impact of the second beast is described as causing all to worship the ---- beast.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "first"
+      }
+    ],
+    "options": [
+      "first",
+      "third",
+      "second"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The prophetic role of the second beast emphasizes its influence in what area?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Religious governance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Scientific innovation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Economic development",
+        "isCorrect": false
+      }
+    ]
+  }
+]

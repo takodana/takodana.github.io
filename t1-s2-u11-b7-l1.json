@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "In Daniel 3, what were Shadrach, Meshach, and Abednego commanded to do by the king?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Bow to a golden image",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Offer sacrifices",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Declare allegiance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: True worship comes from a mind taught by God's Word.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "God never ---- the will or the conscience.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "forces"
+      }
+    ],
+    "options": [
+      "forces",
+      "ignores",
+      "questions"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Ellen G. White, what is Satan's constant resort to gain control?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Compulsion by cruelty",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Spiritual deception",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Logical persuasion",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: God will have people who uphold the Bible and the Bible only.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The opinions of learned men and the creeds of councils should not be regarded as evidence for or against any point of ---- faith.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "religious"
+      }
+    ],
+    "options": [
+      "religious",
+      "spiritual",
+      "personal"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What must we have to honor God properly, according to The Great Controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A right conception of His character",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A majority opinion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Approval of religious authorities",
+        "isCorrect": false
+      }
+    ]
+  }
+]

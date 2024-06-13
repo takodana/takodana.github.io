@@ -1,0 +1,136 @@
+[
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What is essential for honoring God properly in the last days?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Right conception of His character",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Wealth accumulation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Celebrity endorsements",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "True or False: Understanding the will of God as revealed in His word is vital for enduring future trials.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "---- by cruelty is Satan's method to secure homage to himself.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Compulsion"
+      }
+    ],
+    "options": [
+      "Compulsion",
+      "Attraction",
+      "Deception"
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What should be the standard of evidence for any point of religious faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A plain 'Thus saith the Lord'",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Popular opinion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Ecclesiastical decrees",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "True or False: Satan uses both religious and secular authorities to enforce human laws against God's law.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 7,
+    "question": "The standard of all doctrines should be the ----, according to The Great Controversy.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Bible"
+      }
+    ],
+    "options": [
+      "Bible",
+      "community",
+      "church"
+    ]
+  }
+]

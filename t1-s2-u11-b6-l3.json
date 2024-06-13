@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What change occurs in the behavior of the second beast according to Revelation 13:11-12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It adopts draconian measures",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It becomes peaceful",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It increases in power",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The establishment of the image to the beast is predicted to happen in which country, according to Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "United States",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Italy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Israel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The first beast's authority, which the second beast mimics, lasts for a prophetic period of ---- years.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "1260"
+      }
+    ],
+    "options": [
+      "42",
+      "1260",
+      "365"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Revelation 13:15 states that the second beast would cause as many as would not worship the image of the beast to be ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "killed",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "exiled",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "imprisoned",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The second beast in Revelation 13 is initially described as resembling a lamb.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The prophetic symbolism of horns in Revelation 13 indicates ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "power"
+      }
+    ],
+    "options": [
+      "power",
+      "weakness",
+      "indifference"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The 'earth' from which the second beast arises represents what type of area according to Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Sparsely populated",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Densely populated",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Urbanized",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Who gives the beast its power, according to Revelation 13:2?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The dragon",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The people",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The church",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The beast in Revelation 13 represents a single individual.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 13:2 states that the dragon gave the beast his power, his ----, and great authority.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "throne"
+      }
+    ],
+    "options": [
+      "throne",
+      "seat",
+      "crown"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What significant action did Constantine take that affected the beast's power?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Moving the capital",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Declaring Christianity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Reforming laws",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The beast's authority is described as worldwide in Revelation 13:3-4.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "According to historians, the Papacy is akin to the ghost of the deceased ---- empire.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Roman"
+      }
+    ],
+    "options": [
+      "Roman",
+      "Greek",
+      "Persian"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the key feature of the beast's blasphemy mentioned in Revelation 13:1, 6?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Claiming divinity",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Forgiving sins",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both claims",
+        "isCorrect": true
+      }
+    ]
+  }
+]

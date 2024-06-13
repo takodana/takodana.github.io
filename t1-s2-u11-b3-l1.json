@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Satan's success in deceiving a third of the angels indicate about his influence?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Limited",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Overstated",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Significant",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Our ability to make moral choices distinguishes us from animals. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The war in heaven was not just physical but also a battle of ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "ideas"
+      }
+    ],
+    "options": [
+      "ideas",
+      "strengths",
+      "numbers"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to the study guide, what is the essence of our humanness?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Physical appearance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Ability to reason and choose",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Capacity for language",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Lucifer's rebellion was justified by his accusations against God. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The decision for or against Christ is likened to the angels' choice during the ---- in heaven.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "war"
+      }
+    ],
+    "options": [
+      "war",
+      "celebration",
+      "creation"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What fundamental principle do the cited Bible verses (Genesis 2:15-17, Exodus 32:26, etc.) teach?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The importance of worship",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The necessity of obedience",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The value of sacrifice",
+        "isCorrect": false
+      }
+    ]
+  }
+]

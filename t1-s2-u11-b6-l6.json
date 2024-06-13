@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Revelation 13's description of the second beast's horns suggests what about its nature?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Gentle but deceptive",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Harmful but hidden",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Powerful but righteous",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "The rise of the second beast in Revelation 13 is indicative of what historical trend?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Expansion of democracy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Growth of monarchy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Shift in power dynamics",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The second beast causes the world to create an ---- to the beast.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "image"
+      }
+    ],
+    "options": [
+      "image",
+      "opposition",
+      "response"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does Revelation 13 depict the control exercised by the second beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Complete and authoritative",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Limited and shared",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Flexible and adaptive",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The second beast's two horns are identical to the first beast's.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The deceptive speech of the second beast in Revelation 13 is likened to a ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "dragon"
+      }
+    ],
+    "options": [
+      "dragon",
+      "lion",
+      "serpent"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the consequence for those who refuse to worship the image of the beast according to Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Persecution",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Exaltation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Forgiveness",
+        "isCorrect": false
+      }
+    ]
+  }
+]

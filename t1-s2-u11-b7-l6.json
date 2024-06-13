@@ -1,0 +1,136 @@
+[
+  {
+    "id": "mc3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "What can help us face the future without fear according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Understanding Biblical prophecies",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Economic stability",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Political influence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: Satan's primary method to control people is through kindness.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "True worship springs from a mind taught by ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "God's Word"
+      }
+    ],
+    "options": [
+      "God's Word",
+      "society's norms",
+      "popular philosophy"
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "According to Ellen G. White, what should not be regarded as evidence for or against any point of religious faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Creeds of ecclesiastical councils",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Scientific discoveries",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "True or False: The opinions of learned men should be the basis of religious faith.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 1,
+    "question": "The truths of the ---- are necessary to fortify the mind for the last great conflict.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Bible"
+      }
+    ],
+    "options": [
+      "Bible",
+      "law",
+      "culture"
+    ]
+  }
+]

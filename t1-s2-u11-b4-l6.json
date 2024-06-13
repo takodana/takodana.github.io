@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Revelation depict the final outcome for the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Destruction",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Exaltation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Redemption",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The followers of the beast will face God's wrath.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The earth helps the woman by opening its ---- to swallow the flood.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "mouth"
+      }
+    ],
+    "options": [
+      "mouth",
+      "gates",
+      "arms"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What group is particularly targeted by the beast for persecution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "God's faithful",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Rebels",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Atheists",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The beast's rule is described as eternal in Revelation.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Believers are called to have the patience of the ----, according to Revelation.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "saints"
+      }
+    ],
+    "options": [
+      "saints",
+      "faithful",
+      "martyrs"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the ultimate sign of allegiance to God in the face of the beast's power?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Keeping God's commandments",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Performing miracles",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Preaching the Gospel",
+        "isCorrect": false
+      }
+    ]
+  }
+]

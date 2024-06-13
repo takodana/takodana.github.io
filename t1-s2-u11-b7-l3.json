@@ -1,0 +1,270 @@
+[
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What practical difference does understanding last-day events make in our lives today?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It prepares us spiritually",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It boosts economic status",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It increases social status",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "True or False: Satan tries to rule the conscience through fear and force.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 2,
+    "question": "Ellen G. White emphasizes that none but those who have fortified the mind with the truths of the ---- will stand through the last great conflict.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Bible"
+      }
+    ],
+    "options": [
+      "Bible",
+      "law",
+      "traditions"
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "Who endeavors to enforce human laws in defiance of the law of God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Satan",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Governments",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Religious leaders",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: We should demand a 'Thus saith the Lord' before accepting any doctrine.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "God's will, which is our only safety, is found in His ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Word"
+      }
+    ],
+    "options": [
+      "Word",
+      "church",
+      "leaders"
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What should our response be to the enforcement of human laws against God's law?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Resistance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Compliance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "True or False: The creeds of ecclesiastical councils should influence our religious beliefs.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 1,
+    "question": "Worshiping the beast and its image alludes to ---- obedience.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "forced"
+      }
+    ],
+    "options": [
+      "forced",
+      "voluntary",
+      "indifferent"
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How can sharing the hope of Christ's coming be done effectively without becoming alarmists?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By being informed",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By being speculative",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By being forceful",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "True or False: True worship can occur without the transformation of the soul by God's love.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "The Bible and the Bible only should be maintained as the standard of all ---- and the basis of all reforms.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "doctrines"
+      }
+    ],
+    "options": [
+      "doctrines",
+      "practices",
+      "rituals"
+    ]
+  }
+]

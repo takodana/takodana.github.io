@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Which principle does the second beast abandon according to Revelation 13:12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Religious liberty",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Political stability",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Economic control",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "In Revelation 13, which entity is recognized as the image of the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Church",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The State",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The Union",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The image made by the second beast represents a union of ---- and state.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "church"
+      }
+    ],
+    "options": [
+      "church",
+      "military",
+      "corporate"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation 13, the power of the second beast is primarily manifested in what realm?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Religious",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Political",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Economic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The second beast enforces worship of the first beast without exception.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Revelation 13 indicates the second beast's actions are a fulfillment of ---- prophecy.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "biblical"
+      }
+    ],
+    "options": [
+      "biblical",
+      "modern",
+      "ancient"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "The second beast's role in prophecy is primarily seen as what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "An enforcer",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A redeemer",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A prophet",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What spiritual weapon is most effective against the beast, according to Revelation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The word of their testimony",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Prayer",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Fasting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The beast has the ability to change times and laws.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Those who refuse to worship the image of the beast will not be able to ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "buy"
+      }
+    ],
+    "options": [
+      "buy",
+      "sell",
+      "live"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which biblical figure is most directly opposed by the beast's actions?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Lamb",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Moses",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Elijah",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The beast's defeat is uncertain according to Revelation.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The victory over the beast is shared by those who have the ---- of Jesus.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "testimony"
+      }
+    ],
+    "options": [
+      "faith",
+      "testimony",
+      "blood"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 7,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is the final fate of the beast according to Revelation 19?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Thrown into the lake of fire",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Given a chance for redemption",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Transformed",
+        "isCorrect": false
+      }
+    ]
+  }
+]

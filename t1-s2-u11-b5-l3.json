@@ -1,0 +1,434 @@
+[
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does modern instability contribute to the pontiff's role?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Enhances his authority",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Undermines his position",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Is irrelevant",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What event does Ellen G. White predict regarding Sabbath keepers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Increased acceptance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Persecution",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Global revival",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 2,
+    "question": "Legislative halls and courts will misrepresent ---- keepers.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "commandment"
+      }
+    ],
+    "options": [
+      "commandment",
+      "Sabbath",
+      "church"
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "What historical event is used to calculate the prophetic period in Revelation 13:5?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Fall of Jerusalem",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Berthier's campaign",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Exile to Babylon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does defending Sunday symbolize according to Pope Benedict XVI?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A political statement",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A religious duty",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A defense of freedom",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "Ellen G. White warns that Sabbath keepers will be viewed as ---- of society.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "destroyers"
+      }
+    ],
+    "options": [
+      "destroyers",
+      "builders",
+      "neutral"
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "Which aspect of the prophecy is fulfilled by the papacy's temporary decline?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Predicted resurgence",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "End of influence",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Initial rise",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does the 'healed wound' affect the beast's power?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It becomes insignificant",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It is restored",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It changes nature",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 1,
+    "question": "The pontiff's role as a moral leader is seen as a ---- to bring people together.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "catalyst"
+      }
+    ],
+    "options": [
+      "catalyst",
+      "barrier",
+      "coincidence"
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What is the result of the 'healed wound' according to Revelation 13:12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Increased persecution",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Global influence",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Divine intervention",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "Why is the pontiff's advocacy for Sunday important?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It aligns with biblical prophecy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It counters church teachings",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It supports local traditions",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "During times of instability, the pontiff's leadership is ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "welcomed"
+      }
+    ],
+    "options": [
+      "welcomed",
+      "rejected",
+      "questioned"
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Ellen G. White's views on end-time events emphasize what about societal changes?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Their unpredictability",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Their rapid development",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Their minor impact",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What does the return of the pontiff's influence signify in prophetic terms?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A temporary shift",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A fulfillment of prophecy",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A misunderstanding of scripture",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 7,
+    "question": "In legislative halls, commandment keepers will be ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "condemned"
+      }
+    ],
+    "options": [
+      "condemned",
+      "supported",
+      "ignored"
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What parallels can be drawn between historical and predicted future events regarding the Sabbath?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Expected enforcement",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Accusations of lawlessness",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Predicted relaxation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How quickly do the guide and Ellen G. White suggest end-time events may unfold?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Gradually",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Instantly",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Unpredictably",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Ellen G. White suggests that defending the Sabbath will be seen as breaking down ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "moral restraints"
+      }
+    ],
+    "options": [
+      "moral restraints",
+      "legal frameworks",
+      "cultural norms"
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What historical city did the beast rise from, based on the power vacuum created by Constantine?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Rome",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Constantinople",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Jerusalem",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The sea in biblical prophecy typically symbolizes a multitude of people.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The beast from Revelation 13 is also described as having a ---- of blasphemy.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "mouth"
+      }
+    ],
+    "options": [
+      "mouth",
+      "heart",
+      "spirit"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which empire does the beast inherit its seat from, as per Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Pagan Rome",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Byzantine Empire",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Ottoman Empire",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The beast's rise is associated with spiritual apostasy.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The power given to the beast was for a prophetic period of ---- years.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "forty-two"
+      }
+    ],
+    "options": [
+      "forty-two",
+      "twelve",
+      "one hundred"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What characteristic is the beast noted for besides blasphemy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Persecution",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Healing",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Wealth",
+        "isCorrect": false
+      }
+    ]
+  }
+]

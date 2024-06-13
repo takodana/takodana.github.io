@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How is the beast's appearance described in terms of animal features in Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Leopard-like",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Bear-like",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Lion-like",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The beast's power to act lasts for a month.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation describes the beast's mouth as speaking great ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "things"
+      }
+    ],
+    "options": [
+      "things",
+      "words",
+      "lies"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the consequence of worshipping the beast, according to Revelation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Salvation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Condemnation",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Blessings",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The beast's activities are limited to a single nation.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The beast's influence extends to making war with the ---- of God.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "saints"
+      }
+    ],
+    "options": [
+      "saints",
+      "angels",
+      "prophets"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Who ultimately triumphs over the beast, as per Revelation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Lamb",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The Saints",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The Angels",
+        "isCorrect": false
+      }
+    ]
+  }
+]

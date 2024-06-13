@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What did Jesus say would happen among believers?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Persecution",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Prosperity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to 2 Timothy 3:12, who will suffer persecution?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Only sinners",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Only non-believers",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "All who live godly in Christ Jesus",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 13:17 states that no one can ---- unless they have the mark.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "buy or sell"
+      }
+    ],
+    "options": [
+      "buy or sell",
+      "preach or teach",
+      "work or rest"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What will happen to those who refuse the mark according to Revelation 13:15?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Imprisonment",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Death",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Exile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How does the scene change in Revelation 14:12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Focus on God's people",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Focus on the beast",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Focus on false prophets",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "God's people are described as living lives of godly ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "obedience"
+      }
+    ],
+    "options": [
+      "obedience",
+      "wealth",
+      "power"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Who did persecution especially target during medieval times?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Political leaders",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Bible-believing Christians",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Merchants",
+        "isCorrect": false
+      }
+    ]
+  }
+]

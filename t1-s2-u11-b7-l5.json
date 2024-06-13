@@ -1,0 +1,136 @@
+[
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "How does true worship differ from conforming to the world?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is based on God's Word",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It follows popular trends",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It adapts to cultural norms",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Worship is merely a matter of external actions.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The last great conflict will require understanding the ---- of God.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "will"
+      }
+    ],
+    "options": [
+      "will",
+      "strength",
+      "mission"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What must be the basis for all doctrines and reforms, as per The Great Controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Bible",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Human decrees",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Scientific evidence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "True or False: Spiritual understanding affects our daily decisions and worship.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 2,
+    "question": "Only those fortified with the truths of the ---- will stand through the last great conflict.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Bible"
+      }
+    ],
+    "options": [
+      "Bible",
+      "church",
+      "tradition"
+    ]
+  }
+]

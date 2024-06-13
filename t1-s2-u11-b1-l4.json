@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the key to enduring the final conflict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Maintaining faith",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Seeking power",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Accumulating wealth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: Satan's hate for the Creator is central to his actions in the final conflict.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The final appeal is to remain ---- despite challenges.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "faithful"
+      }
+    ],
+    "options": [
+      "faithful",
+      "careless",
+      "active"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Which of these is a potential outcome of the conflict over worship?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Global peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "World chaos",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Technological advance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The true day of worship is a major theme in the final conflict.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Pressure and ---- are tools used by Satan in the conflict.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "force"
+      }
+    ],
+    "options": [
+      "force",
+      "peace",
+      "love"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 4,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How does the study guide depict the final conflict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As a spiritual battle",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "As a political struggle",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "As an economic reform",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does the devil prepare people to receive the mark of the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By making compromises",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By encouraging rebellion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By offering wealth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to the study guide, what will the mark of the beast enforcement involve?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Legal battles",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Economic sanctions",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Military force",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The beast's ultimate strategy, when deception fails, is ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "force"
+      }
+    ],
+    "options": [
+      "force",
+      "persuasion",
+      "deception"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who killed Abel for obeying God's command?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cain",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Esau",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Jacob",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to Revelation 13:3, what will the whole world do regarding the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Reject it",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Follow it in wonder",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Ignore it",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The mark of the beast is described as the ---- link in the chain of persecution.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "final"
+      }
+    ],
+    "options": [
+      "final",
+      "first",
+      "second"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What do God's people keep according to Revelation 14:12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Commandments of men",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Commandments of God",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Traditions",
+        "isCorrect": false
+      }
+    ]
+  }
+]

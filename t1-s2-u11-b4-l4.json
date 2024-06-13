@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the reaction of the world to the beast's miracles?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Amazement",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Fear",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Indifference",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The beast operates independently without any external influence.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The second beast of Revelation 13 causes the earth and its inhabitants to worship the first beast, referred to as the ---- beast.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sea"
+      }
+    ],
+    "options": [
+      "first",
+      "sea",
+      "earth"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What action does the second beast perform that deceives the inhabitants of the earth?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Performing miracles",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Preaching",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Teaching",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The second beast has a different origin than the first beast.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "This beast makes fire come down from ---- in the sight of men.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "heaven"
+      }
+    ],
+    "options": [
+      "heaven",
+      "clouds",
+      "mountains"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the image created by the beast symbolize?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Authority",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Control",
+        "isCorrect": false
+      }
+    ]
+  }
+]

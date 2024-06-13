@@ -1,0 +1,141 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does our daily life tell us about who or what we worship?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Our priorities",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Our wealth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Our talents",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How can we face the future with confidence and not fear?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By understanding last-day events",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By accumulating wealth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By gaining popularity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "In order to endure the trial before them, they must understand the ---- of God.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "will"
+      }
+    ],
+    "options": [
+      "will",
+      "law",
+      "power"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "True or False: The voice of the majority is a reliable source for religious faith.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What is regarded as the standard of all doctrines and basis of all reforms according to The Great Controversy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The Bible",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Scientific discoveries",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Ecclesiastical decisions",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Compulsion by cruelty is a method used by ---- to control others.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Satan"
+      }
+    ],
+    "options": [
+      "Satan",
+      "leaders",
+      "governments"
+    ]
+  }
+]

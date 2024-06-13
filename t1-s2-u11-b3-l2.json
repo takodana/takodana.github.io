@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does the mark of the beast prophecy in Revelation 13 signify about Satan's war against God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Beginning",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Fiercest stage",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Ending",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Religious persecution started with Cain and Abel. True or False?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The prophecy indicates that persecution will start with economic ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "sanctions"
+      }
+    ],
+    "options": [
+      "sanctions",
+      "freedom",
+      "promotions"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "Who are prepared to receive the mark of the beast according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Professed Christians",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Non-believers",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Atheists",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What is the key element in the central conflict between good and evil?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Power",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Wealth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The beast uses deception and when that fails ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "force"
+      }
+    ],
+    "options": [
+      "force",
+      "persuasion",
+      "debate"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to Revelation 14:12, who are those that stand firm in faith?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Those with wealth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Those who compromise",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Those who keep the commandments of God and the faith of Jesus",
+        "isCorrect": true
+      }
+    ]
+  }
+]

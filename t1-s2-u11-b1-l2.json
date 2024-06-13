@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "How does Satan view the Sabbath according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As a threat",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "As irrelevant",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "As beneficial",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The United Nations is implicated in conspiracy theories related to the mark of the beast.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The impending conflict will be a collision between ---- beliefs.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "TRUE"
+      }
+    ],
+    "options": [
+      "TRUE",
+      "FALSE",
+      "mixed"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What will be a major tool of coercion in the final conflict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Economic pressure",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Military force",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Political influence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Imprisonment may be a consequence of the final conflict.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Faithfulness to ---- is crucial despite persecution.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Christ"
+      }
+    ],
+    "options": [
+      "Christ",
+      "Satan",
+      "the world"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Which characteristic of God is challenged by Satan's actions?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "His authority",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "His love",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "His omnipresence",
+        "isCorrect": false
+      }
+    ]
+  }
+]

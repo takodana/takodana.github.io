@@ -1,0 +1,146 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What is the first result of the papal supremacy's end in 1798?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Change in church doctrines",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Reduced political influence",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Prophecy fulfillment",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to the guide, why is our obedience to God significant?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It is coerced",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It springs from love",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is customary",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "God's commitment is mirrored by His people's ---- to Him.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "commitment"
+      }
+    ],
+    "options": [
+      "commitment",
+      "opposition",
+      "indifference"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the term 'prophetic day' represent?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A literal day",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A literal year",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A symbolic message",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Which event marked the end of the 1260 years of papal rule?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Berthier's capture of the pope",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "The Vatican's establishment",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "The signing of the Concordat of 1801",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The deadly wound mentioned in Revelation 13:12 was ---- but not fatal.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "serious"
+      }
+    ],
+    "options": [
+      "serious",
+      "superficial",
+      "ignorable"
+    ]
+  }
+]

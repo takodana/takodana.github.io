@@ -1,0 +1,434 @@
+[
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the 'day of the Lord' signify in Pope Benedict XVI's speech?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A time of worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A political event",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A family day",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How does the modern perception of the pontiff compare to historical views?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "More secular",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "More religious",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "More authoritative",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Prophecy fulfillment is marked by ---- changes.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "unexpected"
+      }
+    ],
+    "options": [
+      "unexpected",
+      "predicted",
+      "gradual"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Ellen G. White predicts what about the role of ministers in the end times?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They will support government laws",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They will oppose Sabbath keeping",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They will be neutral",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What impact does the guide suggest the pontiff's healed wound has on global dynamics?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It creates division",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It fosters unity",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It is negligible",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 2,
+    "question": "Ministers will present the duty of obedience to ---- as ordained of God.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "civil authorities"
+      }
+    ],
+    "options": [
+      "civil authorities",
+      "church leaders",
+      "prophetic teachings"
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "What historical context is necessary for understanding the '42 months' in Revelation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Jewish calendar",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Medieval history",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Roman governance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The return of the pontiff's influence is compared to what?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A new doctrine",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "A healed wound",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "A political shift",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": "The pontiff's statements about Sunday aim to protect ---- freedom.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "human"
+      }
+    ],
+    "options": [
+      "human",
+      "civic",
+      "religious"
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What challenge do commandment keepers face according to Ellen G. White?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Social isolation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Government opposition",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Judicial mistakes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "How is the beast's wound described in Revelation 13:3?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "As fatal",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "As minor",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "As healed",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 1,
+    "question": "Public perception of commandment keepers will shift to viewing them as ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "enemies"
+      }
+    ],
+    "options": [
+      "enemies",
+      "friends",
+      "indifferent"
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "What is the underlying message of the pontiff's advocacy for Sunday?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Promoting peace",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Strengthening families",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Enhancing freedom",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 3,
+    "question": "What historical figure's actions ended the 1260 years of prophecy?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Napoleon's general",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Berthier",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Caesar Augustus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": "Pope Benedict XVI's views on Sunday articulate a need for ---- for families.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "time"
+      }
+    ],
+    "options": [
+      "time",
+      "space",
+      "support"
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "How do modern events corroborate Ellen G. White's predictions about the end times?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "By proving them accurate",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "By showing them as outdated",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "By partially fulfilling them",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 6,
+    "question": "What significance does the 'healed wound' have for the beast's image?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It restores credibility",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "It diminishes power",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It shifts focus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 7,
+    "question": "In the end times, societal restraints are expected to ---- according to Ellen G. White.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "break down"
+      }
+    ],
+    "options": [
+      "break down",
+      "strengthen",
+      "adapt"
+    ]
+  }
+]

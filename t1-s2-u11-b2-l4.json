@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What overarching theme does Revelation identify in the conflict between good and evil?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Eternal justice",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Divine worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Moral choices",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The Sabbath is highlighted as a key element in worship throughout Revelation.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 14:12 emphasizes the ---- of Jesus, which carries believers through conflicts.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "faith"
+      }
+    ],
+    "options": [
+      "patience",
+      "faith",
+      "hope"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "According to Revelation, who is worthy of our worship due to their act of creation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Angels",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The beast",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "God",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: Worshiping the beast represents opposition to God's commandments.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Ellen G. White describes the observance of the false sabbath as an allegiance to ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "the state"
+      }
+    ],
+    "options": [
+      "man",
+      "the state",
+      "Rome"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 4,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What is a foundational reason the Sabbath is central in the last-day conflicts?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It represents law",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It marks divine authority",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "It signifies peace",
+        "isCorrect": false
+      }
+    ]
+  }
+]

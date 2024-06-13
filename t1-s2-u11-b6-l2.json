@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What year is suggested as the rise of the second beast in Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "1798",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "1776",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "1800",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "How does the speaking of the second beast change according to Revelation 13:12?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "It speaks like a lamb",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "It speaks more aggressively",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "It speaks like a dragon",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "According to Revelation 13, the second beast causes the earth and its dwellers to worship the first beast by forming an ---- of the beast.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "image"
+      }
+    ],
+    "options": [
+      "image",
+      "likeness",
+      "model"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The union of church and state is represented by which beast in Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "First beast",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Second beast",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "Revelation 13's prediction of a lamblike beast that speaks as a dragon is seen as an allegory for which country?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "United States",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Great Britain",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Italy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The second beast's authority to cause those who dwell on the earth to worship the first beast is seen as an abandonment of ---- liberty.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "religious"
+      }
+    ],
+    "options": [
+      "religious",
+      "political",
+      "civil"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 2,
+    "complexity": 2,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What do the 'horns' of the second beast in Revelation 13:11 suggest about its power structure?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Non-monarchical",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Monarchical",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Theocratic",
+        "isCorrect": false
+      }
+    ]
+  }
+]

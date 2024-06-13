@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does Revelation 14:4 say about the followers of the Lamb?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "They follow Him wherever He goes",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "They rebel against Him",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "They ignore Him",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "According to the study guide, what principle is essential in the final conflict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Faith",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Obedience",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Hope",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Jesus mentioned that persecution would happen even among ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "believers"
+      }
+    ],
+    "options": [
+      "believers",
+      "non-believers",
+      "atheists"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What does the mark of the beast prophecy focus on?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Economic growth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Persecution",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Salvation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "According to the study guide, what is a common tactic used by the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Persuasion",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Deception",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Compromise",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "The final link in the chain of persecution is the mark of the ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "beast"
+      }
+    ],
+    "options": [
+      "beast",
+      "Lamb",
+      "prophet"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 6,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does Revelation 14:12 describe about God's people?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Their wealth",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Their obedience",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Their power",
+        "isCorrect": false
+      }
+    ]
+  }
+]

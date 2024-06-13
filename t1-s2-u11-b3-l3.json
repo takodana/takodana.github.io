@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What economic measure will be imposed on those who refuse the mark of the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Taxation",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "No buying or selling",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Fines",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Persecution in Christian history was especially evident during which period?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Pagan Rome",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Medieval church",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "Modern era",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Revelation 14:4 describes God's people as those who follow the ---- wherever He goes.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Lamb"
+      }
+    ],
+    "options": [
+      "Lamb",
+      "Beast",
+      "Prophet"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the final link in the chain of persecution according to the study guide?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Economic measures",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Social ostracism",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Mark of the beast",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "The prophecy suggests that God's people will triumph by whose power?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Their own",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Christ's",
+        "isCorrect": true
+      },
+      {
+        "id": "opt2",
+        "text": "The church's",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Jesus said that persecution would happen even among ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "believers"
+      }
+    ],
+    "options": [
+      "believers",
+      "non-believers",
+      "atheists"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 2,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "Who is ultimately behind the decree to worship the beast or be put to death?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Satan",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "False prophets",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Antichrist",
+        "isCorrect": false
+      }
+    ]
+  }
+]

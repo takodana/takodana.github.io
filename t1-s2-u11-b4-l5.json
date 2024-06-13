@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "Who authorizes the second beast's actions, according to Revelation 13?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "The dragon",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "The first beast",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Both",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The mark of the beast is optional for buying or selling.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The mark of the beast is placed on the ---- or on the hand.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "forehead"
+      }
+    ],
+    "options": [
+      "forehead",
+      "arm",
+      "leg"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the number associated with the beast, symbolizing imperfection?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "666",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "777",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "888",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: The beast's number represents a specific man.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Revelation describes those who worship the beast as having no ---- of God.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "fear"
+      }
+    ],
+    "options": [
+      "fear",
+      "love",
+      "trust"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 5,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What theme is central to the conflict involving the beast in Revelation?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Worship",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Politics",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Economics",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What role does the Sabbath play in the final conflict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "A point of contention",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "A historical footnote",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "A minor detail",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "True or False: The biochip theory relates to fears about end-time prophecy.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "TRUE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "FALSE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "Undermining God's law is seen as undermining ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "worship"
+      }
+    ],
+    "options": [
+      "worship",
+      "creation",
+      "justice"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "What is the ultimate test in the impending conflict?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Faithfulness to God's law",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Church attendance",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Charitable giving",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "True or False: All conspiracy theories should be considered as signs of the end times.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "FALSE",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "TRUE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Persecution will test our ---- to Christ.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "loyalty"
+      }
+    ],
+    "options": [
+      "loyalty",
+      "hatred",
+      "indifference"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 3,
+    "complexity": 3,
+    "sequence": 3,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "What does the external scanner symbolize in the context of the mark of the beast?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Surveillance",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Healthcare",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Education",
+        "isCorrect": false
+      }
+    ]
+  }
+]

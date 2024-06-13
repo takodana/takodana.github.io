@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": "What does 'worshiping Him' imply about our relationship with God?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Communion",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Subservience",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Fear",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": "Read Revelation 13:5. What key identifier is mentioned?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Beast's mouth speaking blasphemies",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Beast's time of rule",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Beast's physical description",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": "The time period of '42 months' is equivalent to ---- prophetic days or literal years.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "1260"
+      }
+    ],
+    "options": [
+      "1260",
+      "1290",
+      "1320"
+    ]
+  },
+  {
+    "id": "mc4",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 4,
+    "question": "The Papacy's influence resumed after which event?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Healing of the deadly wound",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Napoleon's defeat",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Signing of the Lateran Treaty",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc5",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 5,
+    "question": "What role does the Roman pontiff aim to fulfill according to modern events?",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cultural icon",
+        "isCorrect": false
+      },
+      {
+        "id": "opt1",
+        "text": "Political leader",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Moral leader",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fib6",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 6,
+    "question": "Pope Benedict XVI emphasized that defending Sunday defends ----.",
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "human freedom"
+      }
+    ],
+    "options": [
+      "human freedom",
+      "religious tradition",
+      "church authority"
+    ]
+  },
+  {
+    "id": "mc7",
+    "setNumber": 1,
+    "complexity": 2,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 7,
+    "question": "According to Ellen G. White, commandment keepers will be accused of causing ----.",
+    "options": [
+      {
+        "id": "opt0",
+        "text": "social unrest",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "heresy",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "economic downturn",
+        "isCorrect": false
+      }
+    ]
+  }
+]
