@@ -1,0 +1,147 @@
+[
+  {
+    "id": "mc1",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 1,
+    "question": [
+      {
+        "type": "text",
+        "content": "Where did Jesus turn water into wine?"
+      }
+    ],
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cana of Galilee",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Capernaum",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Nazareth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "mc2",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "MC",
+    "questionNumber": 2,
+    "question": [
+      {
+        "type": "text",
+        "content": "Where did "
+      },
+      {
+        "type": "ref",
+        "content": "Jesus ",
+        "reference": "JHN.2.1"
+      },
+      {
+        "type": "text",
+        "content": "turn water into wine?"
+      }
+    ],
+    "options": [
+      {
+        "id": "opt0",
+        "text": "Cana of Galilee",
+        "isCorrect": true
+      },
+      {
+        "id": "opt1",
+        "text": "Capernaum",
+        "isCorrect": false
+      },
+      {
+        "id": "opt2",
+        "text": "Nazareth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fib3",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 3,
+    "question": [
+      {
+        "type": "text",
+        "content": "Jesus turned water into wine in ----?"
+      }
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Cana of Galilee"
+      }
+    ],
+    "options": ["Cana of Galilee", "Capernaum", "Nazareth"]
+  },
+  {
+    "id": "fib4",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 4,
+    "question": [
+      {
+        "type": "ref",
+        "content": "Jesus turned water into wine in ----?",
+        "reference": "JHN.2.1"
+      }
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Cana of Galilee"
+      }
+    ],
+    "options": ["Cana of Galilee", "Capernaum", "Nazareth"]
+  },
+  {
+    "id": "fib5",
+    "setNumber": 2,
+    "complexity": 0,
+    "sequence": 1,
+    "type": "FIB",
+    "questionNumber": 5,
+    "question": [
+      {
+        "type": "ref",
+        "content": "Jesus turned ",
+        "reference": "JHN.2.1"
+      },
+      {
+        "type": "text",
+        "content": "water into "
+      },
+      {
+        "type": "ref",
+        "content": "wine in ----?",
+        "reference": "JHN.2.2"
+      }
+    ],
+    "blanks": [
+      {
+        "position": 0,
+        "blankItem": "Cana of Galilee"
+      }
+    ],
+    "options": ["Cana of Galilee", "Capernaum", "Nazareth"]
+  }
+]
